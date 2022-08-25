@@ -1,0 +1,27 @@
+var fs = require('fs');
+
+var t = [
+  'ART 708-A MK 4',
+  'SUB 705-AS II',
+  'ART 710-A MK 4',
+  'ART 712 A MK 4',
+  'ART 715-A MK 4',
+  'ART 725 MK4',
+  'SUB 905-AS II',
+  'AYRA PRO 8',
+  'AYRA PRO 5',
+  'AYRA PRO 6',
+  'NX 10 SMA',
+  'SUB 8003-AS II',
+];
+
+const items = t.map(function (label, idx) {
+  return {
+    brand_k: 'RCF',
+    ref_k: '00' + idx,
+    ref_label: label,
+    cat_k: 'speakers',
+  };
+});
+
+fs.writeFileSync('data/refs.json', JSON.stringify({ items }));

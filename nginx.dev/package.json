@@ -1,0 +1,28 @@
+{
+  "name": "vitesono",
+  "version": "0.0.1",
+  "description": "vitesono",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "sveltekit:dev": "cd sveltekit/app.sys && npm run dev",
+    "sveltekit:build": "cd sveltekit/app.sys && npm run build",
+    "proto:dev": "browser-sync start --server 'proto' --files 'proto' --port 5000",
+    "start:api:dev": "Deno run --import-map=./src/api.dev/import-map.json --allow-read --allow-net=0.0.0.0:8000 --watch ./src/api.dev/api.dev.index.ts",
+    "start:api:debug": "Deno run --inspect --import-map=./src/api.dev/import-map.json --allow-read --allow-net=0.0.0.0:8000 ./src/api.dev/api.dev.index.ts",
+    "start:nginx": "cd ./src/nginx.dev/nginx-1.20.2 && .\\nginx.exe",
+    "stop:nginx": "cd ./src/nginx.dev/nginx-1.20.2 && .\\nginx.exe -s quit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "drk@195.154.114.15:/home/vsn/git_d/vitesono.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}

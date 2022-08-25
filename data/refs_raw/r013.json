@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 16,
+  "query": "sonorisation",
+  "query_counter": 18,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Câble Tweed Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 10 mètres Easy...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@99a401435dcb65c4008d3ad22c8cdad0",
+      "id": "7407",
+      "image_link": "https://www.centralsono.com/22367-googleshopping/cable-tweed-jack-male-mono-jack-male-mono-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-tweed-jack-male-mono-jack-male-mono-10m-easy-plugger-7407.html",
+      "price": 12.5,
+      "sale_price": null,
+      "title": "Câble Tweed Jack Mâle Mono - Jack Mâle Mono 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Tweed Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 6 mètres Easy...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8252831b9fce7a49421e622c14ce0f65",
+      "id": "7406",
+      "image_link": "https://www.centralsono.com/22363-googleshopping/cable-tweed-jack-male-mono-jack-male-mono-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-tweed-jack-male-mono-jack-male-mono-6m-easy-plugger-7406.html",
+      "price": 9.9,
+      "sale_price": null,
+      "title": "Câble Tweed Jack Mâle Mono - Jack Mâle Mono 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Tweed Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 3 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@445e24b5f22cacb9d51a837c10e91a3f",
+      "id": "7405",
+      "image_link": "https://www.centralsono.com/22360-googleshopping/cable-tweed-jack-male-mono-jack-male-mono-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-tweed-jack-male-mono-jack-male-mono-3m-easy-plugger-7405.html",
+      "price": 6.5,
+      "sale_price": null,
+      "title": "Câble Tweed Jack Mâle Mono - Jack Mâle Mono 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle 6.35 Stéréo section 2x1.5mm², diamètre OD6, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9b91d245c953f54a7f10aba72a4d0022",
+      "id": "7401",
+      "image_link": "https://www.centralsono.com/22346-googleshopping/cable-xlr-male-3b-jack-male-stereo-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-15m-easy-plugger-7401.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle 6.35 Stéréo section 2x1.5mm², diamètre OD6, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@76f1cfd7754a6e4fc3281bcccb3d0902",
+      "id": "7400",
+      "image_link": "https://www.centralsono.com/22343-googleshopping/cable-xlr-male-3b-jack-male-stereo-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-10m-easy-plugger-7400.html",
+      "price": 7.0,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle 6.35 Stéréo section 2x1.5mm², diamètre OD6, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@614594c34e0c9dc796cb21d5e806768b",
+      "id": "7399",
+      "image_link": "https://www.centralsono.com/22340-googleshopping/cable-xlr-male-3b-jack-male-stereo-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-6m-easy-plugger-7399.html",
+      "price": 6.0,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle 6.35 Stéréo section 2x1.5mm², diamètre OD6, longueur 3 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@91394d0fbf2b331b4859ae219f2d6ea6",
+      "id": "7398",
+      "image_link": "https://www.centralsono.com/22337-googleshopping/cable-xlr-male-3b-jack-male-stereo-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-3m-easy-plugger-7398.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle 6.35 Stéréo section 2x1.5mm², diamètre OD6, longueur 1.50 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@83dc55aeb13cc9f621dcbaa80304d506",
+      "id": "7397",
+      "image_link": "https://www.centralsono.com/22334-googleshopping/cable-xlr-male-3b-jack-male-stereo-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-15m-easy-plugger-7397.html",
+      "price": 3.0,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 1.5m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle 6.35 Stéréo section 2x1.5mm², diamètre OD6, longueur 0.6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8606f35ec6c77858dfb80a385d0d1151",
+      "id": "7396",
+      "image_link": "https://www.centralsono.com/22331-googleshopping/cable-xlr-male-3b-jack-male-stereo-06m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-06m-easy-plugger-7396.html",
+      "price": 3.9,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 0.6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble pour Haut-Parleur Speakon Mâle / Speakon Mâle section 2x1.5mm², diamètre OD8, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a7b23e6eefbe6cf04b8e62a6f0915550",
+      "id": "7395",
+      "image_link": "https://www.centralsono.com/22328-googleshopping/cable-hp-speakon-male-15mm-speakon-male-15mm-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-speakon-male-15mm-speakon-male-15mm-15m-easy-plugger-7395.html",
+      "price": 27.0,
+      "sale_price": null,
+      "title": "Câble HP Speakon Mâle 1.5mm² - Speakon Mâle 1.5mm² 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble pour Haut-Parleur Speakon Mâle / Speakon Mâle section 2x1.5mm², diamètre OD8, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@230e41009413a5a96013ae108300afd2",
+      "id": "7394",
+      "image_link": "https://www.centralsono.com/22325-googleshopping/cable-hp-speakon-male-15mm-speakon-male-15mm-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-speakon-male-15mm-speakon-male-15mm-10m-easy-plugger-7394.html",
+      "price": 14.9,
+      "sale_price": null,
+      "title": "Câble HP Speakon Mâle 1.5mm² - Speakon Mâle 1.5mm² 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble pour Haut-Parleur Speakon Mâle / Speakon Mâle section 2x1.5mm², diamètre OD8, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@12fb63ba1566cb03484e1e5e290a73f4",
+      "id": "7393",
+      "image_link": "https://www.centralsono.com/22322-googleshopping/cable-hp-speakon-male-15mm-speakon-male-15mm-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-speakon-male-15mm-speakon-male-15mm-6m-easy-plugger-7393.html",
+      "price": 11.5,
+      "sale_price": null,
+      "title": "Câble HP Speakon Mâle 1.5mm² - Speakon Mâle 1.5mm² 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble pour Haut-Parleur Jack Mâle / Speakon Mâle section 2x1.5mm², diamètre OD8, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7a1d9028a78f418cb8f01909a348d9b2",
+      "id": "7392",
+      "image_link": "https://www.centralsono.com/22319-googleshopping/cable-hp-jack-male-15mm-speakon-male-15mm-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-jack-male-15mm-speakon-male-15mm-15m-easy-plugger-7392.html",
+      "price": 24.0,
+      "sale_price": null,
+      "title": "Câble HP Jack Mâle 1.5mm² - Speakon Mâle 1.5mm² 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble pour Haut-Parleur Jack Mâle / Speakon Mâle section 2x1.5mm², diamètre OD8, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@88cf91a1aef212f3c2cd12406983427d",
+      "id": "7391",
+      "image_link": "https://www.centralsono.com/22316-googleshopping/cable-hp-jack-male-15mm-speakon-male-15mm-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-jack-male-15mm-speakon-male-15mm-10m-easy-plugger-7391.html",
+      "price": 16.9,
+      "sale_price": null,
+      "title": "Câble HP Jack Mâle 1.5mm² - Speakon Mâle 1.5mm² 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble pour Haut-Parleur Jack Mâle / Speakon Mâle section 2x1.5mm², diamètre OD8, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@82273dfbbc9cc64149d6e6d52d3104fa",
+      "id": "7390",
+      "image_link": "https://www.centralsono.com/22313-googleshopping/cable-hp-jack-male-15mm-speakon-male-15mm-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-jack-male-15mm-speakon-male-15mm-6m-easy-plugger-7390.html",
+      "price": 12.0,
+      "sale_price": null,
+      "title": "Câble HP Jack Mâle 1.5mm² - Speakon Mâle 1.5mm² 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / XLR Mâle 3 broches, diamètre OD6, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4180b5120ca2e09eaa3bd2ebf4b53667",
+      "id": "7389",
+      "image_link": "https://www.centralsono.com/22310-googleshopping/cable-xlr-femelle-3b-xlr-male-3b-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-xlr-male-3b-15m-easy-plugger-7389.html",
+      "price": 11.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - XLR Mâle 3b 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / XLR Mâle 3 broches, diamètre OD6, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5c333c4ffd55c7a3576e6a614d81af82",
+      "id": "7388",
+      "image_link": "https://www.centralsono.com/22307-googleshopping/cable-xlr-femelle-3b-xlr-male-3b-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-xlr-male-3b-10m-easy-plugger-7388.html",
+      "price": 10.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - XLR Mâle 3b 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / XLR Mâle 3 broches, diamètre OD6, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@21be992eb8016e541a15953eee90760e",
+      "id": "7387",
+      "image_link": "https://www.centralsono.com/22304-googleshopping/cable-xlr-femelle-3b-xlr-male-3b-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-xlr-male-3b-6m-easy-plugger-7387.html",
+      "price": 7.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - XLR Mâle 3b 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / XLR Mâle 3 broches, diamètre OD6, longueur 3 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5735c3a7aa6ffcfe6ab123835584db75",
+      "id": "7386",
+      "image_link": "https://www.centralsono.com/22301-googleshopping/cable-xlr-femelle-3b-xlr-male-3b-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-xlr-male-3b-3m-easy-plugger-7386.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - XLR Mâle 3b 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / XLR Mâle 3 broches, diamètre OD6, longueur 1.50 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ce1aad92b939420fc17005e5461e6f48",
+      "id": "7385",
+      "image_link": "https://www.centralsono.com/22298-googleshopping/cable-xlr-femelle-3b-xlr-male-3b-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-xlr-male-3b-150m-easy-plugger-7385.html",
+      "price": 4.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - XLR Mâle 3b 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / XLR Mâle 3 broches, diamètre OD6, longueur 0.60 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d064bf1ad039ff366564f352226e7640",
+      "id": "7384",
+      "image_link": "https://www.centralsono.com/22295-googleshopping/cable-xlr-femelle-3b-xlr-male-3b-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-xlr-male-3b-060m-easy-plugger-7384.html",
+      "price": 3.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - XLR Mâle 3b 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle / Jack Mâle Stéréo, diamètre OD6, longueur 0.6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@580f9aa264f1108da3db844806f3952e",
+      "id": "7383",
+      "image_link": "https://www.centralsono.com/22292-googleshopping/cable-xlr-femelle-jack-male-stereo-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-jack-male-stereo-060m-easy-plugger-7383.html",
+      "price": 3.0,
+      "sale_price": null,
+      "title": "Câble XLR Femelle - Jack Mâle Stéréo 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle / Jack Mâle Stéréo, diamètre OD6, longueur 1.50 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c9dd73f5cb96486f5e1e0680e841a550",
+      "id": "7382",
+      "image_link": "https://www.centralsono.com/22289-googleshopping/cable-xlr-femelle-jack-male-stereo-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-jack-male-stereo-15m-easy-plugger-7382.html",
+      "price": 3.5,
+      "sale_price": null,
+      "title": "Câble XLR Femelle - Jack Mâle Stéréo 1.5m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle / Jack Mâle Stéréo, diamètre OD6, longueur 3 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@64de166633d61c8326232568b42beef1",
+      "id": "7381",
+      "image_link": "https://www.centralsono.com/22286-googleshopping/cable-xlr-femelle-jack-male-stereo-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-jack-male-stereo-3m-easy-plugger-7381.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle - Jack Mâle Stéréo 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle / Jack Mâle Stéréo, diamètre OD6, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1abf005ea3f957c5cb79941ab7707c11",
+      "id": "7380",
+      "image_link": "https://www.centralsono.com/22283-googleshopping/cable-xlr-femelle-jack-male-stereo-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-jack-male-stereo-6m-easy-plugger-7380.html",
+      "price": 6.0,
+      "sale_price": null,
+      "title": "Câble XLR Femelle - Jack Mâle Stéréo 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle / Jack Mâle Stéréo, diamètre OD6, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@442b548e816f05640dec68f497ca38ac",
+      "id": "7379",
+      "image_link": "https://www.centralsono.com/22280-googleshopping/cable-xlr-femelle-jack-male-stereo-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-jack-male-stereo-10m-easy-plugger-7379.html",
+      "price": 8.9,
+      "sale_price": null,
+      "title": "Câble XLR Femelle - Jack Mâle Stéréo 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle / Jack Mâle Stéréo, diamètre OD6, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b6cf334c22c8f4ce8eb920bb7b512ed0",
+      "id": "7378",
+      "image_link": "https://www.centralsono.com/22277-googleshopping/cable-xlr-femelle-jack-male-stereo-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-jack-male-stereo-15m-easy-plugger-7378.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Câble XLR Femelle - Jack Mâle Stéréo 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pack de 10 attaches-câbles PLUGGER 225mm couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a76c0abe2b7b1b79e70f0073f43c3b44",
+      "id": "7377",
+      "image_link": "https://www.centralsono.com/22272-googleshopping/attaches-cables-noir-pack-de-10-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/attaches-cables-noir-pack-de-10-plugger-7377.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Attaches câbles Noir Pack de 10 Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle 1.5mm / Jack Mâle 1.5mm - 15 mètres, diamètre OD6, longueur 15 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dce4eef05fb6a56fa54b1a36e6b1fce7",
+      "id": "7367",
+      "image_link": "https://www.centralsono.com/22242-googleshopping/cable-jack-male-15mm-jack-male-15mm-15-metres-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-15mm-jack-male-15mm-15-metres-easy-plugger-7367.html",
+      "price": 24.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle 1.5mm - Jack Mâle 1.5mm 15 mètres Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle 1.5mm / Jack Mâle 1.5mm - 10 mètres, diamètre OD6, longueur 10 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e6be5b6def555465fea6d6458bd7eba5",
+      "id": "7366",
+      "image_link": "https://www.centralsono.com/22239-googleshopping/cable-jack-male-15mm-jack-male-15mm-10-metres-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-15mm-jack-male-15mm-10-metres-easy-plugger-7366.html",
+      "price": 16.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle 1.5mm - Jack Mâle 1.5mm 10 mètres Easy Plugger",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

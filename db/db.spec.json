@@ -1,0 +1,26 @@
+{
+  "tables": [
+    {
+      "name": "brands",
+      "colums": ["id INTEGER PRIMARY KEY", "data TEXT"]
+    },
+    {
+      "name": "refs",
+      "colums": [
+        "id INTEGER PRIMARY KEY",
+        "brand_fk INTEGER DEFAULT 0",
+        "cat_fk INTEGER DEFAULT 0",
+        "data TEXT",
+        "FOREIGN KEY(brand_fk) REFERENCES brands(id)"
+      ]
+    },
+    {
+      "name": "cats",
+      "colums": [
+        "id INTEGER PRIMARY KEY",
+        "father_id INTEGER DEFAULT 0",
+        "data TEXT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 30,
+  "query": "sonorisation",
+  "query_counter": 32,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 21SW115 : Haut Parleur Infra Basse de 21'' (53cm), 3400 Watts AES / 8 Ohms, Bobine mobile de 115mm, aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@03b92cd507ff5870df0db7f074728830",
+      "id": "8134",
+      "image_link": "https://www.centralsono.com/26898-googleshopping/21-sw-115-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/21-sw-115-b-and-c-8134.html",
+      "price": 619.0,
+      "sale_price": null,
+      "title": "21 SW 115 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 18SW115 : Haut Parleur SUB Basse de 18'' (46cm), 3400 Watts AES / 8 Ohms, Bobine mobile de 115mm, aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7aa7b77461bd44a3f9da9984da1346fb",
+      "id": "8133",
+      "image_link": "https://www.centralsono.com/26896-googleshopping/18sw115-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18sw115-b-and-c-8133.html",
+      "price": 429.0,
+      "sale_price": null,
+      "title": "18SW115 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 18SW100 : Haut Parleur SUB Basse de 18'' (46cm), 3000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8677065f187e98d8beacdc700e49f6ef",
+      "id": "8132",
+      "image_link": "https://www.centralsono.com/26894-googleshopping/18sw100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18sw100-b-and-c-8132.html",
+      "price": 394.0,
+      "sale_price": null,
+      "title": "18SW100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15SW115 : Haut Parleur SUB Basse de 15'' (38cm), 3400 Watts AES / 8 Ohms, Bobine mobile de 115mm, aimant Néodyme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bd9dc58c7af906cdbac364aedd4c0848",
+      "id": "8131",
+      "image_link": "https://www.centralsono.com/26892-googleshopping/15-sw-115-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15-sw-115-b-and-c-8131.html",
+      "price": 415.0,
+      "sale_price": null,
+      "title": "15 SW 115 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15SW100 : Haut Parleur SUB Basse de 15'' (38cm), 3000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Néodyme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@66cf21351023f60e092be950584699cb",
+      "id": "8130",
+      "image_link": "https://www.centralsono.com/26890-googleshopping/15sw100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15sw100-b-and-c-8130.html",
+      "price": 329.0,
+      "sale_price": null,
+      "title": "15SW100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15CXN76 : Haut Parleur Coaxial de 15'' (38cm) et moteur 2'' - 800 + 160 Watts AES / 8 + 8 Ohms, Bobine mobile de 76mm pour le grave et 76mm pour le moteur , aimant en ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c404a5adbf90e09631678b13b05d9d7a",
+      "id": "8129",
+      "image_link": "https://www.centralsono.com/26888-googleshopping/15cxn76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15cxn76-b-and-c-8129.html",
+      "price": 399.0,
+      "sale_price": null,
+      "title": "15CXN76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 12CXN76 : Haut Parleur Coaxial de 12'' (31cm) et moteur 2'' - 350 + 80 Watts AES / 8 + 8 Ohms, Bobine mobile de 76mm pour le grave et 76mm pour le moteur , aimant en N...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c3d96fbd5b1b45096ff04c04038fff5d",
+      "id": "8128",
+      "image_link": "https://www.centralsono.com/26886-googleshopping/12cxn76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/12cxn76-b-and-c-8128.html",
+      "price": 389.0,
+      "sale_price": null,
+      "title": "12CXN76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 12HCX76 : Haut Parleur Coaxial de 12'' (31cm) et moteur 1.3'' - 350 + 80 Watts AES / 8 + 8 Ohms, Bobine mobile de 76mm pour le grave et 76mm pour le moteur , mono aima...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5934c1ec0cd31e12bd9084d106bc2e32",
+      "id": "8127",
+      "image_link": "https://www.centralsono.com/26883-googleshopping/12hcx76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/12hcx76-b-and-c-8127.html",
+      "price": 499.0,
+      "sale_price": null,
+      "title": "12HCX76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 8CXN51 : Haut Parleur Coaxial de 8'' (21cm) et moteur 0.79'' - 500 + 100 Watts AES / 8 + 8 Ohms, Bobine mobile de 51mm pour le grave et 44mm pour le moteur , aimants N...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4fc66104f8ada6257fa55f29a2a567c7",
+      "id": "8126",
+      "image_link": "https://www.centralsono.com/26881-googleshopping/8cxn51-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/8cxn51-b-and-c-8126.html",
+      "price": 251.0,
+      "sale_price": null,
+      "title": "8CXN51 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 6HCX51 : Haut Parleur Coaxial de 6'' (17cm) et moteur 0.79'' - 300 + 50 Watts AES / 8 + 8 Ohms, Bobine mobile de 51mm pour le grave et 36mm pour le moteur , mono aiman...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a34c46916c53099c8038cff641c9b127",
+      "id": "8125",
+      "image_link": "https://www.centralsono.com/26879-googleshopping/6hcx51-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/6hcx51-b-and-c-8125.html",
+      "price": 189.0,
+      "sale_price": null,
+      "title": "6HCX51 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 8CX21 : Haut Parleur Coaxial de 8'' (21cm) et moteur 1'' - 400 + 50 Watts AES / 8 + 8 Ohms, Bobine mobile de 52mm pour le grave et 36mm pour le moteur , aimants Ferrit...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9465ce9a7904ba9fa5a354804734cbc4",
+      "id": "8124",
+      "image_link": "https://www.centralsono.com/26877-googleshopping/8cx21-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/8cx21-b-and-c-8124.html",
+      "price": 159.0,
+      "sale_price": null,
+      "title": "8CX21 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 18TBW100 : Haut Parleur SUB Basse de 18'' (46cm), 3000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@15c71b874531f45bba372bfc35e9b8cf",
+      "id": "8123",
+      "image_link": "https://www.centralsono.com/26874-googleshopping/18tbw100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18tbw100-b-and-c-8123.html",
+      "price": 339.0,
+      "sale_price": null,
+      "title": "18TBW100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 18RBX100 : Haut Parleur SUB Basse de 18'' (46cm), 2000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e9507053dd36cb9217816ffb566c8720",
+      "id": "8122",
+      "image_link": "https://www.centralsono.com/26871-googleshopping/18rbx100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18rbx100-b-and-c-8122.html",
+      "price": 299.0,
+      "sale_price": null,
+      "title": "18RBX100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15FW76 : Haut Parleur Basse/Medium de 15'' (38cm), 1000 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@afecc60f82be41c1b52f6705ec69e0f1",
+      "id": "8121",
+      "image_link": "https://www.centralsono.com/26868-googleshopping/15fw76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15fw76-b-and-c-8121.html",
+      "price": 239.0,
+      "sale_price": null,
+      "title": "15FW76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 12FW76 : Haut Parleur Basse/Medium de 12'' (31cm), 1000 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1becf26e9f32353e30870060538746e7",
+      "id": "8120",
+      "image_link": "https://www.centralsono.com/26865-googleshopping/12fw76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/12fw76-b-and-c-8120.html",
+      "price": 209.0,
+      "sale_price": null,
+      "title": "12FW76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 12FW64 : Haut Parleur Basse/Medium de 12'' (31cm), 500 Watts AES / 8 Ohms, Bobine mobile de 64mm, aimant Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2ea19e760aeeeeeb813a2406d0d31a25",
+      "id": "8119",
+      "image_link": "https://www.centralsono.com/26862-googleshopping/12fw64-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/12fw64-b-and-c-8119.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "12FW64 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Splitter, S8 3 Way de ART...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8f6242793017047d373f29f270388ba9",
+      "id": "8116",
+      "image_link": "https://www.centralsono.com/26842-googleshopping/s8-3way-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/s8-3way-art-8116.html",
+      "price": 349.0,
+      "sale_price": null,
+      "title": "S8 3Way Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Splitter, S8 de ART - Splitter - Analogique - 8 voies - Entrée : - 8 XLR - Sorties : - 16 XLR - Pad atténuateur : - 29dB - Isolation Ground/Lift - Dimensions : rack 19...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@68dd09b9ff11f0df5624a690fe0f6729",
+      "id": "8115",
+      "image_link": "https://www.centralsono.com/26837-googleshopping/s8-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/s8-art-8115.html",
+      "price": 379.0,
+      "sale_price": null,
+      "title": "S8 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Nettoyeur de ligne CleanBOX II de ART. - Passif - 2 Canaux - Réponse en fréquence : 10 Hz - 50 kHz - Distorsion harmonique : 0.01% @ 1kHz, <0.05% @100 Hz - Entrées : - Jack...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b20fa060328b0cdf51b464ee37efe182",
+      "id": "8114",
+      "image_link": "https://www.centralsono.com/26833-googleshopping/cleanbox-ii-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cleanbox-ii-art-8114.html",
+      "price": 66.0,
+      "sale_price": null,
+      "title": "CleanBOX II Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "- Convertisseur CLEANBoxPro de art - 2 Canaux - Réponse en fréquence : 20 Hz - 20 kHz - Distorsion harmonique : <0.1% @ 1kHz - Entrées : - 2 XLR - 1 mini Jack 3.5mm - 2 RCA ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b6417f112bd27848533e54885b66c288",
+      "id": "8113",
+      "image_link": "https://www.centralsono.com/26822-googleshopping/cleanbox-pro-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cleanbox-pro-art-8113.html",
+      "price": 66.0,
+      "sale_price": null,
+      "title": "CLEANBox Pro Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Console de mixage compact 3 voies. - PowerMIX ART - Console de mixage - Analogique - 3 voies - Entrées : - 3 x 2 Jacks 6.35 mm - Sorties : - 2 Jacks 6.35 mm - Sortie cas...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d30d0f522a86b3665d8e3a9a91472e28",
+      "id": "8109",
+      "image_link": "https://www.centralsono.com/26755-googleshopping/powermix-iii-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/powermix-iii-art-8109.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "PowerMIX III Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Console de mixage compact 4 voies. - Macromix ART - Console de mixage - Analogique - 4 voies - Entrées : - 3 RCA stéréo - 2 Jack 6.35 mm - Sorties : - 2 RCA - Sortie ca...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@25b07af81d8c74341f00dc139652fdb0",
+      "id": "8108",
+      "image_link": "https://www.centralsono.com/26752-googleshopping/macromix-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/macromix-art-8108.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "MacroMIX Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Processeur numérique de diffusion 2 in / 6 out. -Processeur de diffusion - Entrées : 2 x XLR symétriques (ligne), 1 référence x XLR (Mic) - Sorties : 6 x stéréo XLR (symétrique)...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1b742ae215adf18b75449c6e272fd92d",
+      "id": "8106",
+      "image_link": "https://www.centralsono.com/26738-googleshopping/sms-226-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sms-226-art-8106.html",
+      "price": 599.0,
+      "sale_price": null,
+      "title": "SMS 226 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Baie de raccordement 16 XLR - Baie de raccordement XLR - Entrées : 16 XLR - Sorties : 16 XLR - Montage en rack réversible - Dimensions : Rack 1U...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@247d87b085efdb305fa6583ccf1a9f54",
+      "id": "8105",
+      "image_link": "https://www.centralsono.com/26727-googleshopping/p16-patchbay-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/p16-patchbay-art-8105.html",
+      "price": 109.0,
+      "sale_price": null,
+      "title": "P16 patchbay Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boitier d'alimentation 48 Volts externe. - Alimentation Phantom - 2 Canaux - Connectiques : XLR (2 entrées + 2 sorties) - Tension délivré : 48V DC +/- 2V - Adaptateur secteur ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@44151de6be734db545ec958e77b0f9df",
+      "id": "8103",
+      "image_link": "https://www.centralsono.com/26706-googleshopping/phantom-ii-pro-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/phantom-ii-pro-art-8103.html",
+      "price": 68.0,
+      "sale_price": null,
+      "title": "PHANTOM II PRO Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boitier d'alimentation 48 Volts externe....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9c693b040f150014937c0072d90c00db",
+      "id": "8102",
+      "image_link": "https://www.centralsono.com/26697-googleshopping/phantom-i-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/phantom-i-art-8102.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "PHANTOM I Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Le SPLITMix4 est un mixer / splitter hybride, entièrement passif, qui offre une grande variété de configurations. - Mixer / Spliter - Passif - Analogique - 4 Canaux - Entrées ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c035226640b6b89ffaf333f54e523c10",
+      "id": "8101",
+      "image_link": "https://www.centralsono.com/26687-googleshopping/split-mix-4-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/split-mix-4-art-8101.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "SPLIT MIX 4 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Console de mixage compact 3 voies, équipé d'un convertisseur audio. - Console de mixage - Analogique - 3 voies - Réponse en fréquence : 20 Hz - 20 kHz - Distorsion harmonique ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9cea886b9f44a3c2df1163730ab64994",
+      "id": "8100",
+      "image_link": "https://www.centralsono.com/26676-googleshopping/usb-mix-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/usb-mix-art-8100.html",
+      "price": 95.0,
+      "sale_price": null,
+      "title": "USB Mix Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": null,
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@040ca38cefb1d9226d79c05dd25469cb",
+      "id": "8099",
+      "image_link": "https://www.centralsono.com/26666-googleshopping/dualxdirect-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dualxdirect-art-8099.html",
+      "price": 57.0,
+      "sale_price": null,
+      "title": "DualXDirect Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boîtier de direct de scène passif à 2 canaux....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1872e3d47e965d2e64f63ca01dd937f9",
+      "id": "8098",
+      "image_link": "https://www.centralsono.com/26656-googleshopping/dualzdirect-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dualzdirect-art-8098.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "DualZDirect Art",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

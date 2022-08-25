@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 31,
+  "query": "sonorisation",
+  "query_counter": 33,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Le DTI (Dual Transformer / Isolater) boitier de direct passif, de haute qualité, deux canaux....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5a2afca61e35f45a7dd44ca46e0225f4",
+      "id": "8097",
+      "image_link": "https://www.centralsono.com/26652-googleshopping/dti-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dti-art-8097.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "DTI Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro canon hypercardioïde APEX 176 - Micro à condensateur - Directivité : Hyper cardioïde - Coupe bas 70Hz - Réponse en fréquence : 50Hz - 20kHz - Sensibilité : -56 dB ± 3 dB...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e334ea177458f7e0c7e6815079acf967",
+      "id": "8095",
+      "image_link": "https://www.centralsono.com/26647-googleshopping/176-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/176-apex-electronics-8095.html",
+      "price": 325.0,
+      "sale_price": 300.0,
+      "title": "176 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flexible avec une apparence élégante et discrète. Le APEX 141 est un Micro col de cygne Hyper-cardioïde a condensateur pour les pupitres de conférence...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e96f4710c33a97fd1154edddc27b9c5d",
+      "id": "8094",
+      "image_link": "https://www.centralsono.com/26645-googleshopping/141-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/141-apex-electronics-8094.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "141 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "pratiquement n'importe quelle application de <em>sonorisation</em> ou d...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7818354194c4feae57304abadc2c437c",
+      "id": "8093",
+      "image_link": "https://www.centralsono.com/26641-googleshopping/591-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/591-apex-electronics-8093.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "591 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro à menbrane large Apex 325. Idéalement adapté à la gestion du SPL élevé et des basses fréquences étendues que la plupart des grosses caisses peuvent produire. La courbe de r...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@630eff1b380505a67570dff952ce4ad7",
+      "id": "8092",
+      "image_link": "https://www.centralsono.com/26639-googleshopping/325-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/325-apex-electronics-8092.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "325 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène de type bain de pied FBT StageMaxX 12MA W (version blanc), amplifié en 500 watts RMS et équipé d'un haut parleur Coaxial en 31cm (12'') et moteur 1'' de B&C Speaker...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@85dfba75bcadb576723264b5986f2ac2",
+      "id": "8072",
+      "image_link": "https://www.centralsono.com/26486-googleshopping/stagemaxx-12ma-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/stagemaxx-12ma-white-fbt-8072.html",
+      "price": 945.0,
+      "sale_price": null,
+      "title": "STAGEMAXX 12MA White FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "FBT Xlite 12, Enceinte passive en ABS 2 voies, haut parleur 12'' (31cm) + moteur 1'', 300 W RMS / 8 ohms. L'enceinte X-Lite 12 est Polyvalente et robuste, un design élégant, dans...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d5c8e1ab6fc0bfeb5f29aafa999cdb29",
+      "id": "8070",
+      "image_link": "https://www.centralsono.com/26474-googleshopping/x-lite-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-lite-12-fbt-8070.html",
+      "price": 392.0,
+      "sale_price": 349.0,
+      "title": "X-LITE 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Amplificateur de puissance pour enceintes de <em>sonorisation</em> professionnelles, classe H avec filtre passe",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@53253027fef2ab5162a602f2acfed431",
+      "id": "8067",
+      "image_link": "https://www.centralsono.com/26468-googleshopping/ax-800-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ax-800-fbt-8067.html",
+      "price": 399.0,
+      "sale_price": null,
+      "title": "AX 800 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Processeur de gestion de haut-parleurs numériques à 2 entrées x 6 sorties DSP - Processeur de gestion de haut-parleurs - Numériques - 2 entrées - 6 sorties - Hi-pass / Lo-pa...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8b519f198dd26772e3e82874826b04aa",
+      "id": "8066",
+      "image_link": "https://www.centralsono.com/26466-googleshopping/dlm-26-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dlm-26-fbt-8066.html",
+      "price": 875.0,
+      "sale_price": null,
+      "title": "DLM 26 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour subwoofer Mitus 118S - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Mitus 118S - Mitus 118SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fa40b3850046b362217c121a274720fd",
+      "id": "8064",
+      "image_link": "https://www.centralsono.com/26462-googleshopping/mt-ch-118-housse-pour-mitus-118s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-ch-118-housse-pour-mitus-118s-fbt-8064.html",
+      "price": 95.0,
+      "sale_price": null,
+      "title": "MT-CH 118 housse pour Mitus 118S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour subwoofer Mitus 118S de FBT - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Mitus 121S - Mitus 121SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8d1f1aac0dd8a76b49e8bbdda0c7c98c",
+      "id": "8063",
+      "image_link": "https://www.centralsono.com/26461-googleshopping/v68-housse-pour-mitus-118s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v68-housse-pour-mitus-118s-fbt-8063.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "V68 housse pour Mitus 118S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour subwoofer Mitus 121S de FBT - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Mitus 218S - Mitus 218SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ee492a6c8f567fb3100b7dc9d3600cbe",
+      "id": "8062",
+      "image_link": "https://www.centralsono.com/26459-googleshopping/mt-ch-121-housse-pour-mitus-121s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-ch-121-housse-pour-mitus-121s-fbt-8062.html",
+      "price": 115.0,
+      "sale_price": null,
+      "title": "MT-CH 121 housse pour Mitus 121S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour subwoofer Mitus 121S de FBT - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Mitus 121S - Mitus 121SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8f4d94fa779cb6b74225a9e26c700a39",
+      "id": "8061",
+      "image_link": "https://www.centralsono.com/26458-googleshopping/v-69-housse-pour-mitus-121s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-69-housse-pour-mitus-121s-fbt-8061.html",
+      "price": 115.0,
+      "sale_price": null,
+      "title": "V 69 housse pour Mitus 121S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour subwoofer Mitus 218S de FBT - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Mitus 218S - Mitus 218SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@083b65c888b720c920dcaead304c5989",
+      "id": "8060",
+      "image_link": "https://www.centralsono.com/26456-googleshopping/mt-ch-218-housse-pour-mitus-218s-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-ch-218-housse-pour-mitus-218s-fbt-touring-8060.html",
+      "price": 155.0,
+      "sale_price": null,
+      "title": "MT-CH 218 housse pour Mitus 218S FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour subwoofer Mitus 218S de FBT - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Mitus 218S - Mitus 218SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e382f91e2c82c3853aeb0d3948275232",
+      "id": "8059",
+      "image_link": "https://www.centralsono.com/26455-googleshopping/mt-c-218-housse-pour-mitus-218s-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-c-218-housse-pour-mitus-218s-fbt-touring-8059.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "MT-C 218 housse pour Mitus 218S FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Mitus 112 de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Mitus 112 - Mitus 112A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c0172ea66506f59c8c435eb66176fb67",
+      "id": "8057",
+      "image_link": "https://www.centralsono.com/26440-googleshopping/v-66-housse-pour-mitus-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-66-housse-pour-mitus-112-fbt-8057.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "V 66 housse pour Mitus 112 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Mitus 114 de FBT - Housse de protection pour enceinte - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7d5430cf85f78c4b7aa09813b14bce0d",
+      "id": "8056",
+      "image_link": "https://www.centralsono.com/26439-googleshopping/mt-c-114-housse-pour-mitus-114-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-c-114-housse-pour-mitus-114-fbt-8056.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "MT-C 114 housse pour Mitus 114 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Mitus 115 de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Mitus 115 - Mitus 115A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@444b0d9a802792791bb9a2da568b463d",
+      "id": "8055",
+      "image_link": "https://www.centralsono.com/26438-googleshopping/v-67-housse-pour-mitus-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-67-housse-pour-mitus-115-fbt-8055.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "V 67 housse pour Mitus 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Mitus 152 de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Mitus 152 - Mitus 152A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@47e51e9d11cf800ff08674dbb68a48ab",
+      "id": "8054",
+      "image_link": "https://www.centralsono.com/26437-googleshopping/mt-c-152-housse-pour-mitus-152-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-c-152-housse-pour-mitus-152-fbt-8054.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "MT-C 152 housse pour Mitus 152 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Mitus 215 de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Mitus 215 - Mitus 215A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dfccdb8b1cc7e4dab6d33db0fef12b88",
+      "id": "8053",
+      "image_link": "https://www.centralsono.com/26436-googleshopping/mt-c-215-housse-pour-mitus-215-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-c-215-housse-pour-mitus-215-fbt-8053.html",
+      "price": 115.0,
+      "sale_price": null,
+      "title": "MT-C 215 housse pour Mitus 215 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flight case pour 2 enceintes Mitus 210M de FBT. - Flight case - Fabrication en multiplex (bois) - Finition intérieure en caoutchouc mousse - Parfaite absorption des chocs - 4 ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@93c83a131fa0fd208e161910a17519c4",
+      "id": "8052",
+      "image_link": "https://www.centralsono.com/26435-googleshopping/fk-210-2-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fk-210-2-fbt-touring-8052.html",
+      "price": 849.0,
+      "sale_price": null,
+      "title": "FK 210-2 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flight case pour 2 enceintes Mitus 212 de FBT. - Flight case - Fabrication en multiplex (bois) - Finition intérieure en caoutchouc mousse - Parfaite absorption des chocs - 4 p...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5982e32d2cd58d7f3e71f90600b59267",
+      "id": "8051",
+      "image_link": "https://www.centralsono.com/26434-googleshopping/fk-212-2-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fk-212-2-fbt-touring-8051.html",
+      "price": 1029.0,
+      "sale_price": null,
+      "title": "FK 212-2 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flight case pour 4 enceintes Mitus 206 de FBT. - Flight case - Fabrication en multiplex (bois) - Finition intérieure en caoutchouc mousse - Parfaite absorption des chocs - 4 p...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a9b94e2e91ee1dae4106f72c3e48880e",
+      "id": "8049",
+      "image_link": "https://www.centralsono.com/26427-googleshopping/fk-206-4-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fk-206-4-fbt-touring-8049.html",
+      "price": 849.0,
+      "sale_price": null,
+      "title": "FK 206-4 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flight case pour 6 enceintes Mitus 206 de FBT. - Flight case - Fabrication en multiplex (bois) - Finition intérieure en caoutchouc mousse - Parfaite absorption des chocs - 4 p...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@48dfb0e62ef53dc160c26788433c2d1a",
+      "id": "8048",
+      "image_link": "https://www.centralsono.com/26426-googleshopping/fk-206-6-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fk-206-6-fbt-touring-8048.html",
+      "price": 990.0,
+      "sale_price": null,
+      "title": "FK 206-6 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flightcase spécialement conçu pour le transport de 2 scans à LED Boomtone DJ Dymano Scan LED...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6dac4227f4c3d1f6619898d70f2f2b52",
+      "id": "8047",
+      "image_link": "https://www.centralsono.com/26425-googleshopping/ms-fk-210-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms-fk-210-fbt-touring-8047.html",
+      "price": 800.0,
+      "sale_price": null,
+      "title": "MS-FK 210 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ELO SUB15A MK2 COVER pour le caisson de basse ELO SUB 15 MK2 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@68a64c1e5639454c3185e7ea2db9fc48",
+      "id": "8046",
+      "image_link": "https://www.centralsono.com/26410-googleshopping/elo-sub15a-mk2-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-sub15a-mk2-cover-elokance-8046.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "ELO SUB15A MK2 COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de 4 goupilles pour enceintes de la série Muse de FBT....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@704cddc91e28d1a5517518b2f12bc321",
+      "id": "8045",
+      "image_link": "https://www.centralsono.com/26409-googleshopping/msp-210-kit-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/msp-210-kit-fbt-touring-8045.html",
+      "price": 140.0,
+      "sale_price": null,
+      "title": "MSP 210 Kit FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Dispositif de jonction entre caisson Subline 218 ou Mitus 218 et flying bar MSJ 210 de la série Mitus de FBT. - Dispositif de jonction - Compatible entre : - Subline 218S -...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5588902a8054f6e22ed3484c140ffc62",
+      "id": "8044",
+      "image_link": "https://www.centralsono.com/26408-googleshopping/msj-210-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/msj-210-fbt-touring-8044.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "MSJ 210 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Trolley dédié aux enceintes Muse 210 de FBT - Trolley - Support jusqu'à 4 enceintes - Compatible avec : - Muse 210L - Muse 210LA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5bd529d5b07b647a8863cf71e98d651a",
+      "id": "8043",
+      "image_link": "https://www.centralsono.com/26407-googleshopping/mst-210-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mst-210-fbt-touring-8043.html",
+      "price": 389.0,
+      "sale_price": null,
+      "title": "MST 210 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte de la série Modus de FBT. -- Support d'enceinte - Compatible avec : - QA 108 - QA 108A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6ebb69ffbebe9fd95d160ffc29e0fe5d",
+      "id": "8042",
+      "image_link": "https://www.centralsono.com/26403-googleshopping/msf-210-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/msf-210-fbt-touring-8042.html",
+      "price": 950.0,
+      "sale_price": null,
+      "title": "MSF 210 FBT Touring",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

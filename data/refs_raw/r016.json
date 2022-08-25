@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 19,
+  "query": "sonorisation",
+  "query_counter": 21,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "<em>Sonorisation</em> Portable Autonome Haute Qualité. Bi-Amplification de 200W Compacte et Puissante, Récepteur",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@96f0a190986ed55124c246fd4c7e412f",
+      "id": "7503",
+      "image_link": "https://www.centralsono.com/22759-googleshopping/ma-708b-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-708b-mipro-7503.html",
+      "price": 749.0,
+      "sale_price": 699.0,
+      "title": "MA 708B Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tube de couplage pour système FBT VERTUS finition blanche...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@475cc020a2dc98e1bd061ddfdf162fdc",
+      "id": "7502",
+      "image_link": "https://www.centralsono.com/22750-googleshopping/fms220-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fms220-white-fbt-7502.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "FMS220 WHITE FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur pour stand 35mm, pour système VERTUS FBT blanc...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@21e8cadba9839cd22bc29597866632e3",
+      "id": "7501",
+      "image_link": "https://www.centralsono.com/22749-googleshopping/vts-604-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vts-604-white-fbt-7501.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "VTS 604 WHITE FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse de la série VERTUS, le FBT VERTUS CLA208 SA W en finition Blanc est équipé de 2 x haut parleurs de 8'' (21cm) et d'une amplification numérique en Classe D de 600 w...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f4f1f13c8289ac1b1ee0ff176b56fc60",
+      "id": "7500",
+      "image_link": "https://www.centralsono.com/22748-googleshopping/vertus-cla-208sa-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cla-208sa-white-fbt-7500.html",
+      "price": 889.0,
+      "sale_price": null,
+      "title": "VERTUS CLA 208SA WHITE FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Version en finition Blanc. Enceinte colonne type Line Array FBT VERTUS CLA604 A W, Bi-amplification en Class D de 500 watts (400 + 100W RMS) équipée de 6 haut parleurs de 4'' (100m...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7a2b33c672ce223b2aa5789171ddde2f",
+      "id": "7499",
+      "image_link": "https://www.centralsono.com/22747-googleshopping/vertus-cla-604a-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cla-604a-white-fbt-7499.html",
+      "price": 990.0,
+      "sale_price": null,
+      "title": "VERTUS CLA 604A WHITE FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique norme NF, longueur 5m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@889fbd1aec443cef389ea10c93b498d8",
+      "id": "7483",
+      "image_link": "https://www.centralsono.com/22634-googleshopping/rallonge-electrique-norme-nf-5m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-electrique-norme-nf-5m-easy-plugger-7483.html",
+      "price": 7.5,
+      "sale_price": null,
+      "title": "Rallonge électrique norme NF 5m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation Powercon Mâle / Mâle , section 2.5mm² PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@34f5297ef0ba66f4b3ca225078560d11",
+      "id": "7482",
+      "image_link": "https://www.centralsono.com/22632-googleshopping/cable-d-alimentation-powercon-male-male-18m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-powercon-male-male-18m-elite-plugger-7482.html",
+      "price": 34.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation Powercon Mâle - Male 1.8m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation Powercon, norme EU, section 2.5mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8860e834a67da41edd6ffe8a1c58fa55",
+      "id": "7481",
+      "image_link": "https://www.centralsono.com/22630-googleshopping/cable-d-alimentation-powercon-norme-eu-18m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-powercon-norme-eu-18m-elite-plugger-7481.html",
+      "price": 22.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation Powercon norme EU 1.8m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation 3 IEC Femelles / PC16, section 2.5mm², 3m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@239f914f30ea3c948fce2ea07a9efb33",
+      "id": "7478",
+      "image_link": "https://www.centralsono.com/22624-googleshopping/cable-d-alimentation-3-iec-femelles-pc16-2m40-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-3-iec-femelles-pc16-2m40-elite-plugger-7478.html",
+      "price": 22.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation 3 IEC Femelles - PC16, 2m40 Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation 2 IEC - PC16, norme EU, section 2.5mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c6d4eb15f1e84a36eff58eca3627c82e",
+      "id": "7477",
+      "image_link": "https://www.centralsono.com/22622-googleshopping/cable-d-alimentation-2-iec-pc16-norme-eu-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-2-iec-pc16-norme-eu-3m-elite-plugger-7477.html",
+      "price": 17.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation 2 IEC - PC16 norme EU 3m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation Powercon, norme UK, section 2.5mm² PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cd19a3a0867f69f400961b5dd502fbc6",
+      "id": "7476",
+      "image_link": "https://www.centralsono.com/22620-googleshopping/cable-d-alimentation-powercon-norme-uk-18m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-powercon-norme-uk-18m-elite-plugger-7476.html",
+      "price": 25.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation Powercon norme UK 1.8m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation en 8, norme UK, section 0.75mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c73071b4520a9a82990741a84a2144eb",
+      "id": "7475",
+      "image_link": "https://www.centralsono.com/22618-googleshopping/cable-d-alimentation-en-8-norme-uk-18m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-en-8-norme-uk-18m-easy-plugger-7475.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation en 8 norme UK 1.8m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation IEC Femelle / PC16 Mâle, norme UK, section 0.75mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6a30e32e56fce5cf381895dfe6ca7b6f",
+      "id": "7474",
+      "image_link": "https://www.centralsono.com/22617-googleshopping/cable-iec-uk-075mm-180m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-iec-uk-075mm-180m-easy-plugger-7474.html",
+      "price": 9.0,
+      "sale_price": null,
+      "title": "Câble IEC UK 0.75mm² 1.80m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation en 8, norme Européenne, section 0.75mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@30d0da2f0929084d504baaec38fe28cd",
+      "id": "7473",
+      "image_link": "https://www.centralsono.com/22615-googleshopping/cable-d-alimentation-en-8-norme-eu-18m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-d-alimentation-en-8-norme-eu-18m-easy-plugger-7473.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "Câble d'alimentation en 8 norme EU 1.8m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique type IEC Male- IEC Femelle, norme Européenne, section 0.75mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e5e6851e7f7ffd3530e7389e183aa468",
+      "id": "7472",
+      "image_link": "https://www.centralsono.com/22613-googleshopping/rallonge-electrique-type-iec-male-iec-femelle-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-electrique-type-iec-male-iec-femelle-3m-easy-plugger-7472.html",
+      "price": 6.4,
+      "sale_price": null,
+      "title": "Rallonge électrique type IEC Male- IEC Femelle 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique type IEC Male- IEC Femelle, norme Européenne, section 0.75mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1e591403ff232de0f0f139ac51d99295",
+      "id": "7471",
+      "image_link": "https://www.centralsono.com/22611-googleshopping/rallonge-electrique-type-iec-male-iec-femelle-1m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-electrique-type-iec-male-iec-femelle-1m-easy-plugger-7471.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Rallonge électrique type IEC Male- IEC Femelle 1m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation IEC Femelle / PC16 Mâle, norme Européenne, section 2.5mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2983e3047c0c730d3b7c022584717f3f",
+      "id": "7470",
+      "image_link": "https://www.centralsono.com/22609-googleshopping/cable-iec-europe-25mm-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-iec-europe-25mm-elite-plugger-7470.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "Câble IEC Europe 2.5mm² Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation IEC Femelle / PC16 Mâle, norme Européenne, section 0.75mm² PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b8102d1fa5df93e62cf26cd4400a0727",
+      "id": "7462",
+      "image_link": "https://www.centralsono.com/22513-googleshopping/cable-iec-europe-075mm-180m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-iec-europe-075mm-180m-easy-plugger-7462.html",
+      "price": 7.0,
+      "sale_price": null,
+      "title": "Câble IEC Europe 0.75mm² 1.80m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Mini Jack Mâle Stéréo - Jack Mâle Stéréo 6m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c5ad7d5c8e1cd311a06a038f2510bfdc",
+      "id": "7461",
+      "image_link": "https://www.centralsono.com/22510-googleshopping/cable-mini-jack-male-stereo-jack-male-stereo-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-mini-jack-male-stereo-jack-male-stereo-6m-easy-plugger-7461.html",
+      "price": 8.5,
+      "sale_price": null,
+      "title": "Câble Mini Jack Mâle Stéréo - Jack Mâle Stéréo 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Mini Jack Mâle Stéréo - Jack Mâle Stéréo 1.50m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@99e4ff886ade110350981edaec84553c",
+      "id": "7460",
+      "image_link": "https://www.centralsono.com/22507-googleshopping/cable-mini-jack-male-stereo-jack-male-stereo-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-mini-jack-male-stereo-jack-male-stereo-150m-easy-plugger-7460.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "Câble Mini Jack Mâle Stéréo - Jack Mâle Stéréo 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> professionnelle haut de gamme amplifiée avec boomer de 10'', puissance de 1000W",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2794f6a20ee0685f4006210f40799acd",
+      "id": "7711",
+      "image_link": "https://www.centralsono.com/24399-googleshopping/epro-10-a-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-10-a-elokance-7711.html",
+      "price": 649.0,
+      "sale_price": 499.0,
+      "title": "ePro 10 A Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tweeter 50 Watts RMS sous 8 Ohms 4.5 pouces pour enceinte, SPL Max : 110dB, réponse en fréquence : 1.2Hz-20kHz, diaphragme titanium...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c28e5b0c9841b5ef396f9f519bf6c217",
+      "id": "7710",
+      "image_link": "https://www.centralsono.com/24389-googleshopping/44-comp-130-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/44-comp-130-elokance-7710.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "44 COMP 130 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Découvrez les hauts parleurs haute qualité de Elokance le NEO 15 4 AL, un HP composé d'un aimant en Néodyme et d'un châssis en Aluminium....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0f9cfb7a9acced8a4167ea8006fdd080",
+      "id": "7709",
+      "image_link": "https://www.centralsono.com/24385-googleshopping/neo-15-4-al-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/neo-15-4-al-elokance-7709.html",
+      "price": 229.0,
+      "sale_price": null,
+      "title": "NEO 15 4 AL Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "la gamme de Haut parleur haut de gamme pour <em>Sonorisation</em>. Aimant en Néodyme et châssis en Alu sur HP",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@84253ffce9853bdf2518c53ddf3bce65",
+      "id": "7708",
+      "image_link": "https://www.centralsono.com/24381-googleshopping/neo-12-4-al-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/neo-12-4-al-elokance-7708.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "NEO 12 4 AL Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Haut-Parleur 18'' (46cm) 1200W RMS sous 8 Ohms Elokance 18WF2400, Un haut-parleur robuste adapté à toutes les applications !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bf9ce4f69ab045fb497f79b7b5d7622e",
+      "id": "7707",
+      "image_link": "https://www.centralsono.com/24377-googleshopping/18wf2400-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18wf2400-elokance-7707.html",
+      "price": 369.0,
+      "sale_price": null,
+      "title": "18WF2400 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Haut-Parleur Elokance 15WF2400 15'' (38cm) 1200W RMS sous 8 Ohms, Un haut-parleur adapté à de nombreuses applications !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c2e7b5bb0ec8bb7e2aaf8a5516ca5387",
+      "id": "7706",
+      "image_link": "https://www.centralsono.com/24373-googleshopping/15wf2400-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15wf2400-elokance-7706.html",
+      "price": 349.0,
+      "sale_price": null,
+      "title": "15WF2400 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Haut-Parleur 6.5'' (16,5 cm) 120W MAX sous 4 Ohms BoomToneDJ 6WF1204, Un haut-parleur robuste adapté à toutes les applications !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@76d4110e944e83212bafa4b11ebf2b7e",
+      "id": "7705",
+      "image_link": "https://www.centralsono.com/24368-googleshopping/6wf1204-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/6wf1204-boomtone-dj-7705.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "6WF1204 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête seul BoomtoneDJ pour VHF ONE HL ou MHL / VHF 10 et 20 / VHF QUATTRO...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9c51a13764ca629f439f6accbb4ec413",
+      "id": "7704",
+      "image_link": "https://www.centralsono.com/24363-googleshopping/mic-h2-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mic-h2-boomtone-dj-7704.html",
+      "price": 20.0,
+      "sale_price": 19.0,
+      "title": "MIC H2 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ePro12A COVER pour l'enceinte EPRO 12 A !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@601ac804ce8eac52499a1cde96bae911",
+      "id": "7700",
+      "image_link": "https://www.centralsono.com/24337-googleshopping/epro12a-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro12a-cover-elokance-7700.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "ePro12A COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifiée en bois 12'' 1000W RMS avec DSP, amplificateur classe D, SPL MAX : 128dB, Dimensions enceinte 354x385x580mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c570c225d1fb8a72ad79995dd17a77bc",
+      "id": "7698",
+      "image_link": "https://www.centralsono.com/24312-googleshopping/epro-12-a-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-12-a-elokance-7698.html",
+      "price": 799.0,
+      "sale_price": 599.0,
+      "title": "ePro 12 A Elokance",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

@@ -1,0 +1,606 @@
+{
+    "custom_results_id": null,
+    "facets": {
+        "brand": {
+            "doc_count": 2113,
+            "label": "Marque",
+            "order": 1,
+            "selected": {
+                "buckets": [],
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0
+            },
+            "terms": {
+                "buckets": [
+                    {
+                        "doc_count": 258,
+                        "key": "FBT"
+                    },
+                    {
+                        "doc_count": 210,
+                        "key": "Plugger"
+                    },
+                    {
+                        "doc_count": 195,
+                        "key": "Shure"
+                    },
+                    {
+                        "doc_count": 174,
+                        "key": "Audiophony"
+                    },
+                    {
+                        "doc_count": 126,
+                        "key": "Mipro"
+                    },
+                    {
+                        "doc_count": 122,
+                        "key": "Elokance"
+                    },
+                    {
+                        "doc_count": 114,
+                        "key": "B&C Speakers"
+                    },
+                    {
+                        "doc_count": 110,
+                        "key": "BoomTone DJ"
+                    },
+                    {
+                        "doc_count": 107,
+                        "key": "Hk Audio"
+                    },
+                    {
+                        "doc_count": 78,
+                        "key": "Power Acoustics"
+                    },
+                    {
+                        "doc_count": 54,
+                        "key": "Yamaha"
+                    },
+                    {
+                        "doc_count": 46,
+                        "key": "Oyaide"
+                    },
+                    {
+                        "doc_count": 36,
+                        "key": "Mackie"
+                    },
+                    {
+                        "doc_count": 35,
+                        "key": "Art"
+                    },
+                    {
+                        "doc_count": 35,
+                        "key": "Ibiza Sound"
+                    },
+                    {
+                        "doc_count": 32,
+                        "key": "Power Flights"
+                    },
+                    {
+                        "doc_count": 30,
+                        "key": "PLUGGER Cases"
+                    },
+                    {
+                        "doc_count": 27,
+                        "key": "Celestion"
+                    },
+                    {
+                        "doc_count": 24,
+                        "key": "Alto"
+                    },
+                    {
+                        "doc_count": 23,
+                        "key": "Soundcraft"
+                    }
+                ],
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 265
+            },
+            "total": {
+                "value": 2101
+            },
+            "visible": true
+        },
+        "categories": {
+            "doc_count": 2113,
+            "label": "Catégories",
+            "order": 2,
+            "selected": {
+                "buckets": [],
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 0
+            },
+            "terms": {
+                "buckets": [
+                    {
+                        "doc_count": 2053,
+                        "key": "Sonorisation"
+                    },
+                    {
+                        "doc_count": 238,
+                        "key": "Enceintes"
+                    },
+                    {
+                        "doc_count": 223,
+                        "key": "Micro"
+                    },
+                    {
+                        "doc_count": 173,
+                        "key": "Accessoires de sonorisation"
+                    },
+                    {
+                        "doc_count": 167,
+                        "key": "Accessoires, Pieds et Câbles"
+                    },
+                    {
+                        "doc_count": 136,
+                        "key": "Rangement sono"
+                    },
+                    {
+                        "doc_count": 122,
+                        "key": "Micro sans fil"
+                    },
+                    {
+                        "doc_count": 110,
+                        "key": "Flight case DJ"
+                    },
+                    {
+                        "doc_count": 78,
+                        "key": "Table de mixage"
+                    },
+                    {
+                        "doc_count": 76,
+                        "key": "Enceinte amplifiée"
+                    },
+                    {
+                        "doc_count": 65,
+                        "key": "Micro filaire"
+                    },
+                    {
+                        "doc_count": 54,
+                        "key": "Micro HF Complet"
+                    },
+                    {
+                        "doc_count": 47,
+                        "key": "Flight case / Housse"
+                    },
+                    {
+                        "doc_count": 47,
+                        "key": "Table de mixage analogique"
+                    },
+                    {
+                        "doc_count": 43,
+                        "key": "Câble audio - micro"
+                    },
+                    {
+                        "doc_count": 42,
+                        "key": "Sono portable"
+                    },
+                    {
+                        "doc_count": 40,
+                        "key": "Haut parleur"
+                    },
+                    {
+                        "doc_count": 38,
+                        "key": "Pieds et supports d'enceinte"
+                    },
+                    {
+                        "doc_count": 36,
+                        "key": "Accessoires micro"
+                    },
+                    {
+                        "doc_count": 36,
+                        "key": "Caisson de basse"
+                    }
+                ],
+                "doc_count_error_upper_bound": 0,
+                "sum_other_doc_count": 784
+            },
+            "total": {
+                "value": 4608
+            },
+            "visible": true
+        }
+    },
+    "hashid": "c82998d770c5b7789336a593fa69b5fc",
+    "max_score": 17.702152,
+    "page": 3,
+    "query": "sonorisation",
+    "query_counter": 5,
+    "query_name": "match_and",
+    "results": [
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 8NDL51 : Haut Parleur de Bas Medium / Medium de 8'' (21cm), 400 Watts AES / 8 Ohms. bobine mobile de 2'' (5.1cm). Aimant Néodyme....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4f7b884f2445ef08da9bbc77b028722c",
+            "id": "6890",
+            "image_link": "https://www.centralsono.com/18997-googleshopping/8-ndl-51-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/8-ndl-51-b-and-c-6890.html",
+            "price": 129.0,
+            "sale_price": null,
+            "title": "8 NDL 51 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 6NDL38 : Haut Parleur de Bas Medium / Medium de 6'' (17cm), 300 Watts AES / 8 Ohms. bobine mobile de 1.5'' (3.8cm). Aimant Néodyme....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0a552abf945aad2831a917bd58bbdc70",
+            "id": "6889",
+            "image_link": "https://www.centralsono.com/18988-googleshopping/6ndl38-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/6ndl38-b-and-c-6889.html",
+            "price": 99.0,
+            "sale_price": null,
+            "title": "6NDL38 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12HPL76 : Haut Parleur Basse/Medium de 12'' (31cm), 700 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Néodyme...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@69c7e73fea7ad35e9000ce41e1622036",
+            "id": "6888",
+            "image_link": "https://www.centralsono.com/18986-googleshopping/12-hpl-76-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12-hpl-76-b-and-c-6888.html",
+            "price": 159.0,
+            "sale_price": null,
+            "title": "12 HPL 76 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12HPL64 : Haut Parleur Basse/Medium de 12'' (31cm), 400 Watts AES / 8 Ohms, Bobine mobile de 64mm, aimant Néodyme...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@baf4f1a5938b8d520b328c13b51ccf11",
+            "id": "6887",
+            "image_link": "https://www.centralsono.com/18984-googleshopping/12-hpl-64-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12-hpl-64-b-and-c-6887.html",
+            "price": 129.0,
+            "sale_price": null,
+            "title": "12 HPL 64 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 18TBX100 : Haut Parleur SUB Basse de 18'' (46cm), 2400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d9e74f47610385b11e295eec4c58d473",
+            "id": "6885",
+            "image_link": "https://www.centralsono.com/18976-googleshopping/18-tbx-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/18-tbx-100-b-and-c-6885.html",
+            "price": 259.0,
+            "sale_price": null,
+            "title": "18 TBX 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 18PZB100 : Haut Parleur SUB Basse de 18'' (46cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5637f327937ff2beb7d0a499a0b99d3c",
+            "id": "6884",
+            "image_link": "https://www.centralsono.com/18974-googleshopping/18-pzb-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/18-pzb-100-b-and-c-6884.html",
+            "price": 239.0,
+            "sale_price": null,
+            "title": "18 PZB 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 18PS100 : Haut Parleur SUB Basse de 18'' (46cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a577dad7e00eaad256c112c836f55b11",
+            "id": "6883",
+            "image_link": "https://www.centralsono.com/18964-googleshopping/18-ps-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/18-ps-100-b-and-c-6883.html",
+            "price": 226.0,
+            "sale_price": null,
+            "title": "18 PS 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Haut Parleur Sub Basse Diam.18'' 46cm 600 Watts RMS 8 Ohms BetC 18 PS 76...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5317b6799188715d5e00a638a4278901",
+            "id": "6882",
+            "image_link": "https://www.centralsono.com/18958-googleshopping/18-ps-76-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/18-ps-76-b-and-c-6882.html",
+            "price": 219.0,
+            "sale_price": null,
+            "title": "18 PS 76 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 15 TBX 100 : Haut Parleur SUB Basse de 15'' (38cm), 2000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5f6ecc9686eb1bff304bbda038c60c54",
+            "id": "6881",
+            "image_link": "https://www.centralsono.com/18952-googleshopping/15-tbx-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/15-tbx-100-b-and-c-6881.html",
+            "price": 239.0,
+            "sale_price": null,
+            "title": "15 TBX 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 15PZB100 : Haut Parleur Basse/Medium de 15'' (38cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b555f4a2901228cc826327079761e696",
+            "id": "6880",
+            "image_link": "https://www.centralsono.com/18950-googleshopping/15-pzb-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/15-pzb-100-b-and-c-6880.html",
+            "price": 229.0,
+            "sale_price": null,
+            "title": "15 PZB 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 15PL100 : Haut Parleur Basse/Bas Medium de 15'' (38cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0502a70eae9d62bed6cd32d7e1a0cb45",
+            "id": "6879",
+            "image_link": "https://www.centralsono.com/18948-googleshopping/15-pl-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/15-pl-100-b-and-c-6879.html",
+            "price": 219.0,
+            "sale_price": null,
+            "title": "15 PL 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 15PS100 : Haut Parleur Basse/Bas Medium de 15'' (38cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a33f5792b2a9a51ddd0111b3ac6e0e76",
+            "id": "6878",
+            "image_link": "https://www.centralsono.com/18938-googleshopping/15-ps-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/15-ps-100-b-and-c-6878.html",
+            "price": 189.0,
+            "sale_price": null,
+            "title": "15 PS 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 15PS76 : Haut Parleur Basse/Medium de 15'' (38cm), 1100 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@876e8108f87eb61877c6263228b67256",
+            "id": "6877",
+            "image_link": "https://www.centralsono.com/18928-googleshopping/15-ps-76-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/15-ps-76-b-and-c-6877.html",
+            "price": 169.0,
+            "sale_price": null,
+            "title": "15 PS 76 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 15PLB76 : Haut Parleur Basse/Medium de 15'' (38cm), 800 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d339a8932df05de23ae3d9e29df4b25f",
+            "id": "6876",
+            "image_link": "https://www.centralsono.com/18917-googleshopping/15-plb-76-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/15-plb-76-b-and-c-6876.html",
+            "price": 169.0,
+            "sale_price": null,
+            "title": "15 PLB 76 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12TBX100 : Haut Parleur Basse de 12'' (31cm), 2000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@15f99f2165aa8c86c9dface16fefd281",
+            "id": "6875",
+            "image_link": "https://www.centralsono.com/18915-googleshopping/12tbx100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12tbx100-b-and-c-6875.html",
+            "price": 219.0,
+            "sale_price": null,
+            "title": "12TBX100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12PS100 : Haut Parleur Basse de 12'' (31cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5d50d22735a7469266aab23fd8aeb536",
+            "id": "6874",
+            "image_link": "https://www.centralsono.com/18913-googleshopping/12-ps-100-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12-ps-100-b-and-c-6874.html",
+            "price": 189.0,
+            "sale_price": null,
+            "title": "12 PS 100 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12PS76 : Haut Parleur Basse/ Bas Medium de 12'' (31cm), 900 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@abdf6bdb7570e8f9d4338f84bd169130",
+            "id": "6873",
+            "image_link": "https://www.centralsono.com/18911-googleshopping/12ps76-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12ps76-b-and-c-6873.html",
+            "price": 145.0,
+            "sale_price": null,
+            "title": "12PS76 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12PLB76 : Haut Parleur Basse/Medium de 12'' (31cm), 700 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@83715fd4755b33f9c3958e1a9ee221e1",
+            "id": "6872",
+            "image_link": "https://www.centralsono.com/18908-googleshopping/12-plb-76-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12-plb-76-b-and-c-6872.html",
+            "price": 145.0,
+            "sale_price": null,
+            "title": "12 PLB 76 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 12PE32 : Haut Parleur Bas Medium/Medium de 12'' (31cm), 500 Watts AES / 8 Ohms, Bobine mobile de 64mm, aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7ea25c95b0792ca4ce01ea18bbda2d44",
+            "id": "6871",
+            "image_link": "https://www.centralsono.com/18898-googleshopping/12-pe-32-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/12-pe-32-b-and-c-6871.html",
+            "price": 149.0,
+            "sale_price": null,
+            "title": "12 PE 32 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 10PS26 : Haut Parleur Basse/Medium de 10'' (25cm), 700 Watts AES / 8 Ohms, Bobine mobile de 73mm, aimant en Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e474e8520850a6f3d13f268666736f33",
+            "id": "6870",
+            "image_link": "https://www.centralsono.com/18896-googleshopping/10-ps-26-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/10-ps-26-b-and-c-6870.html",
+            "price": 135.0,
+            "sale_price": null,
+            "title": "10 PS 26 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 10MD26 : Haut Parleur Bas Médium/Medium de 10'' (25cm), 700 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant en Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@15f28fbc8c6e099a1e98b8a555d72374",
+            "id": "6869",
+            "image_link": "https://www.centralsono.com/18894-googleshopping/10-md-26-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/10-md-26-b-and-c-6869.html",
+            "price": 145.0,
+            "sale_price": null,
+            "title": "10 MD 26 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 8PS21 : Haut Parleur de Basse/Medium de 8'' (21cm), 400 Watts AES / 8 Ohms. bobine mobile de 2'' (5.1cm). Aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8a1276c25f5efe85f0fc4020fbf5b4f8",
+            "id": "6868",
+            "image_link": "https://www.centralsono.com/18892-googleshopping/8-ps-21-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/8-ps-21-b-and-c-6868.html",
+            "price": 89.0,
+            "sale_price": null,
+            "title": "8 PS 21 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 8PE21 : Haut Parleur de Basse/Medium de 8'' (21cm), 400 Watts AES / 8 Ohms. bobine mobile de 2'' (5.1cm). Aimant Ferrite...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9cd78264cf2cd821ba651485c111a29a",
+            "id": "6867",
+            "image_link": "https://www.centralsono.com/18890-googleshopping/8-pe-21-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/8-pe-21-b-and-c-6867.html",
+            "price": 99.0,
+            "sale_price": null,
+            "title": "8 PE 21 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "B&C Speakers 6MD38 : Haut Parleur de Medium de 6'' (17cm), 240 Watts AES / 8 Ohms. bobine mobile de 1.5'' (3.8cm). Aimant Ferrite....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c600b4b49faa3a2a165242e90ca21ac3",
+            "id": "6866",
+            "image_link": "https://www.centralsono.com/18889-googleshopping/6md38-b-and-c.jpg",
+            "link": "https://www.centralsono.com/sonorisation/6md38-b-and-c-6866.html",
+            "price": 79.0,
+            "sale_price": null,
+            "title": "6MD38 B and C",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Micro miniature cardioïde électret pour instruments monté sur flexible....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f1b8b7b3ceb65c188dcdc0851634cadf",
+            "id": "6865",
+            "image_link": "https://www.centralsono.com/18888-googleshopping/565-apex-electronics.jpg",
+            "link": "https://www.centralsono.com/sonorisation/565-apex-electronics-6865.html",
+            "price": 109.0,
+            "sale_price": null,
+            "title": "565 Apex Electronics",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Le micro de surface APEX 130 est idéal pour une prise de son globale (église, lieux de cultes, conférences) Mais également grosse caisse, orchestres, opéras ou pianos. de type Elec...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@53edebc543333dfbf7c5933af792c9c4",
+            "id": "6863",
+            "image_link": "https://www.centralsono.com/18875-googleshopping/130-apex-electronics.jpg",
+            "link": "https://www.centralsono.com/sonorisation/130-apex-electronics-6863.html",
+            "price": 189.0,
+            "sale_price": null,
+            "title": "130 Apex Electronics",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Sono Portable 100W avec Lecteur CD MP3, Fonctionne sur Batterie...",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@55ed523b2ca4371a31d7dbd7a2877bea",
+            "id": "6862",
+            "image_link": "https://www.centralsono.com/18874-googleshopping/ma-707pad-mp3-mipro.jpg",
+            "link": "https://www.centralsono.com/sonorisation/ma-707pad-mp3-mipro-6862.html",
+            "price": 626.0,
+            "sale_price": 599.0,
+            "title": "MA 707PAD MP3 Mipro",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Enceinte Modulaire, Fonctionne sur Batterie. Possibilité d'intégrer, un Lecteur CD, Micro HF, etc......",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a957aa96221d0b7cb99ab072eaed7bf9",
+            "id": "6861",
+            "image_link": "https://www.centralsono.com/18861-googleshopping/ma-707pa-mipro.jpg",
+            "link": "https://www.centralsono.com/sonorisation/ma-707pa-mipro-6861.html",
+            "price": 391.0,
+            "sale_price": 369.0,
+            "title": "MA 707PA Mipro",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Enceinte Amplifiée sur Batterie avec Micro à Fil. Idéal pour Manifestations, Visites Guidées, Ecoles, Mairies, etc......",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@31a6b5568bbb9c350c1b296d9086acf0",
+            "id": "6860",
+            "image_link": "https://www.centralsono.com/34384-googleshopping/ma-101c-mipro.jpg",
+            "link": "https://www.centralsono.com/sonorisation/ma-101c-mipro-6860.html",
+            "price": 178.0,
+            "sale_price": 159.0,
+            "title": "MA 101C Mipro",
+            "type": "product"
+        },
+        {
+            "add_to_cart": null,
+            "description": "Egaliseur Graphique Mono 1 x 31 bandes, idéal pour optimiser votre sono....",
+            "df_rating": null,
+            "dfid": "c82998d770c5b7789336a593fa69b5fc@product@161882dd2d19c716819081aee2c08b98",
+            "id": "6859",
+            "image_link": "https://www.centralsono.com/18848-googleshopping/eq-351-art.jpg",
+            "link": "https://www.centralsono.com/sonorisation/eq-351-art-6859.html",
+            "price": 149.0,
+            "sale_price": null,
+            "title": "EQ 351 Art",
+            "type": "product"
+        }
+    ],
+    "results_per_page": 30,
+    "total": 1000,
+    "total_found": 2113
+}

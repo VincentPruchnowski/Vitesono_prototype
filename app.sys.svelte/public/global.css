@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Lato&family=Montserrat:wght@200;400&display=swap');
+
+body {
+  background-color: #ddd;
+  font-size: 1.17rem;
+  color: #444;
+}
+
+.font-fredoka {
+  font-family: 'Fredoka', sans-serif;
+}
+
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+

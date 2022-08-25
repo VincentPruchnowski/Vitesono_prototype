@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 21,
+  "query": "sonorisation",
+  "query_counter": 23,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique norme NF, longueur 20m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4ab50afd6dcc95fcba76d0fe04295632",
+      "id": "7624",
+      "image_link": "https://www.centralsono.com/23597-googleshopping/rallonge-electrique-norme-nf-20m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-electrique-norme-nf-20m-easy-plugger-7624.html",
+      "price": 19.0,
+      "sale_price": null,
+      "title": "Rallonge électrique norme NF 20m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pack de 5 rouleaux de ruban adhésif isolant PVC, noir 20 mètres par rouleau, largeur 15 mm épaisseur 0.15 mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9f4e3847f075d1e7e21141658ade4837",
+      "id": "7621",
+      "image_link": "https://www.centralsono.com/23593-googleshopping/pvc-tape-black-pack-20-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pvc-tape-black-pack-20-metres-plugger-7621.html",
+      "price": 4.95,
+      "sale_price": null,
+      "title": "PVC Tape Black Pack 20 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pack de 5 rouleaux de ruban adhésif isolant PVC, noir, longueur 10 mètres par rouleau, largeur 15 mm épaisseur 0.15 mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@df27d2e23bf500eb010b2bc1a59b56d1",
+      "id": "7620",
+      "image_link": "https://www.centralsono.com/23591-googleshopping/pvc-tape-black-pack-10-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pvc-tape-black-pack-10-metres-plugger-7620.html",
+      "price": 3.99,
+      "sale_price": null,
+      "title": "PVC Tape Black Pack 10 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pack de 5 rouleaux de ruban adhésif isolant PVC type barnier, noir, jaune et vert, bleu, blanc, rouge, longueur 20 mètres par rouleau, largeur 15 mm épaisseur 0.15 mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6869efe03b7fbef3b001dc15804bc826",
+      "id": "7619",
+      "image_link": "https://www.centralsono.com/23589-googleshopping/pvc-tape-color-pack-20-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pvc-tape-color-pack-20-metres-plugger-7619.html",
+      "price": 6.0,
+      "sale_price": null,
+      "title": "PVC Tape Color Pack 20 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pack de 5 rouleaux de ruban adhésif isolant PVC, noir, jaune et vert, bleu, blanc, rouge, longueur 10 mètres par rouleau, largeur 15 mm épaisseur 0.15 mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ad9d4d2bc5365e856dcb6d78fb0c7cb5",
+      "id": "7618",
+      "image_link": "https://www.centralsono.com/23587-googleshopping/pvc-tape-color-pack-10-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pvc-tape-color-pack-10-metres-plugger-7618.html",
+      "price": 1.99,
+      "sale_price": null,
+      "title": "PVC Tape Color Pack 10 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rouleau de Gaffeur ultra-résistant 70 mesh, épaisseur 0.21mm, longueur 50 mètres couleur orange...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8a7cf65139a9fbb34f03b046d8dc597c",
+      "id": "7617",
+      "image_link": "https://www.centralsono.com/23585-googleshopping/gaffer-orange-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-orange-50-metres-plugger-7617.html",
+      "price": 9.9,
+      "sale_price": null,
+      "title": "GAFFER ORANGE 50 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rouleau de Gaffeur ultra-résistant 70 mesh, épaisseur 0.21mm, longueur 25 mètres couleur orange...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@479f499df3bbc0deda265b92316d362f",
+      "id": "7616",
+      "image_link": "https://www.centralsono.com/23583-googleshopping/gaffer-orange-25-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-orange-25-metres-plugger-7616.html",
+      "price": 3.99,
+      "sale_price": null,
+      "title": "GAFFER ORANGE 25 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rouleau de Gaffeur ultra-résistant 70 mesh, épaisseur 0.21mm, longueur 50 mètres couleur blanche...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5a0c828364dbf6dd406139dab7b25398",
+      "id": "7615",
+      "image_link": "https://www.centralsono.com/23581-googleshopping/gaffer-white-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-white-50-metres-plugger-7615.html",
+      "price": 9.9,
+      "sale_price": null,
+      "title": "GAFFER WHITE 50 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rouleau de Gaffeur ultra-résistant 70 mesh, épaisseur 0.21mm, longueur 25 mètres couleur blanche...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b8b6674d4052e35e4553ac6788eb30b5",
+      "id": "7614",
+      "image_link": "https://www.centralsono.com/23579-googleshopping/gaffer-white-25-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-white-25-metres-plugger-7614.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "GAFFER WHITE 25 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rouleau de Gaffeur ultra-résistant 70 mesh, épaisseur 0.21mm, longueur 50 mètres couleur grise...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d5da28d4865fb92720359db84e0dd0dd",
+      "id": "7613",
+      "image_link": "https://www.centralsono.com/23577-googleshopping/gaffer-grey-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-grey-50-metres-plugger-7613.html",
+      "price": 9.9,
+      "sale_price": null,
+      "title": "GAFFER GREY 50 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rouleau de Gaffeur ultra-résistant 70 mesh, épaisseur 0.21mm, longueur 25 mètres couleur grise...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ce5d75028d92047a9ec617acb9c34ce6",
+      "id": "7612",
+      "image_link": "https://www.centralsono.com/23575-googleshopping/gaffer-grey-25-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-grey-25-metres-plugger-7612.html",
+      "price": 3.99,
+      "sale_price": null,
+      "title": "GAFFER GREY 25 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Gaffer noir d'une longueur de 50m et largeur de 50mm. Qualité supérieure, ne laisse aucune trace....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f12a6a7477077af66212ef0813bcf332",
+      "id": "7611",
+      "image_link": "https://www.centralsono.com/23573-googleshopping/gaffer-black-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/gaffer-black-50-metres-plugger-7611.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "GAFFER BLACK 50 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique norme française, PLUGGER Rallonge NF IP 20M00 Easy, longueur 20 mètres, avec capot sur la prise femelle, section 3 x 1.5mm² couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@01b36d0eae3771391455661b45834805",
+      "id": "7609",
+      "image_link": "https://www.centralsono.com/23569-googleshopping/rallonge-nf-ip-20m00-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-nf-ip-20m00-easy-plugger-7609.html",
+      "price": 24.0,
+      "sale_price": null,
+      "title": "Rallonge NF IP 20M00 Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique norme française, PLUGGER Rallonge NF IP 10M00 Easy, longueur 10 mètres, avec capot sur la prise femelle, section 3 x 1.5mm² couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3133f88cbe33bcd01a6ba439d75ae996",
+      "id": "7608",
+      "image_link": "https://www.centralsono.com/23567-googleshopping/rallonge-nf-ip-10m00-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-nf-ip-10m00-easy-plugger-7608.html",
+      "price": 19.0,
+      "sale_price": null,
+      "title": "Rallonge NF IP 10M00 Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique norme française, PLUGGER Rallonge NF IP 5M00 Easy, longueur 5 mètres, avec capot sur la prise femelle, section 3 x 1.5mm² couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4efc9e02abdab6b6166251918570a307",
+      "id": "7607",
+      "image_link": "https://www.centralsono.com/23565-googleshopping/rallonge-fr-ip-5m00-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-fr-ip-5m00-easy-plugger-7607.html",
+      "price": 14.9,
+      "sale_price": null,
+      "title": "Rallonge FR IP 5M00 Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Rallonge électrique norme française, PLUGGER Rallonge NF IP 3M00 Easy, longueur 3 mètres, avec capot sur la prise femelle, section 3 x 1.5mm² couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a8acc28734d4fe90ea24353d901ae678",
+      "id": "7606",
+      "image_link": "https://www.centralsono.com/23563-googleshopping/rallonge-nf-ip-3m00-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/rallonge-nf-ip-3m00-easy-plugger-7606.html",
+      "price": 8.9,
+      "sale_price": null,
+      "title": "Rallonge NF IP 3M00 Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Multiprise électrique norme Française, PLUGGER MPE-4SIP, 4 prises femelles recouvertes d'un capot IP44, interrupteur général, câble d'alimentation de 1,4 mètres, Couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e4d2b6e6fdeca3e60e0f1a62fee3d9dd",
+      "id": "7605",
+      "image_link": "https://www.centralsono.com/23562-googleshopping/mpe-4sip-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mpe-4sip-plugger-7605.html",
+      "price": 13.0,
+      "sale_price": null,
+      "title": "MPE-4SIP Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Multiprise électrique norme Française, PLUGGER MPE-3, 3 prises femelles, câble d'alimentation de 1,4 mètres, Couleur noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b3d6e130a30b176f2ca5af7d1e73953f",
+      "id": "7602",
+      "image_link": "https://www.centralsono.com/23558-googleshopping/mpe-3-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mpe-3-plugger-7602.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "MPE-3 Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Mâle 3 broches - Jack Mâle Mono 0.60m Plugger série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d397c2b2be2178fe6247bd50fc97cff2",
+      "id": "7600",
+      "image_link": "https://www.centralsono.com/23553-googleshopping/cable-bretelle-xlr-male-3b-jack-male-mono-060m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-male-3b-jack-male-mono-060m-elite-plugger-7600.html",
+      "price": 32.0,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Mâle 3b - Jack Mâle Mono 0.60m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - Jack Mâle Mono 0.60m Plugger série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9b0ead00a217ea2c12e06a72eec4923f",
+      "id": "7599",
+      "image_link": "https://www.centralsono.com/23550-googleshopping/cable-bretelle-xlr-femelle-3b-jack-male-mono-060m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-jack-male-mono-060m-elite-plugger-7599.html",
+      "price": 32.0,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - Jack Mâle Mono 0.60m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Y Jack Mâle Stéréo - Jack Mâle Mono 6.35mm, longueur 3m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ba7e36c43aff315c00ec2b8625e3b719",
+      "id": "7598",
+      "image_link": "https://www.centralsono.com/23547-googleshopping/cable-y-jack-male-stereo-jack-male-mono-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-y-jack-male-stereo-jack-male-mono-3m-elite-plugger-7598.html",
+      "price": 31.0,
+      "sale_price": null,
+      "title": "Câble Y Jack Mâle Stéréo - Jack Mâle Mono 3m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Y Jack Mâle Stéréo - Jack Mâle Mono 6.35mm, longueur 1.50m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7a9e5de95f737b31cb6dfe05b616e644",
+      "id": "7597",
+      "image_link": "https://www.centralsono.com/23544-googleshopping/cable-y-jack-male-stereo-jack-male-mono-150m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-y-jack-male-stereo-jack-male-mono-150m-elite-plugger-7597.html",
+      "price": 12.0,
+      "sale_price": null,
+      "title": "Câble Y Jack Mâle Stéréo - Jack Mâle Mono 1.50m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle Jack Mâle - Jack Mâle Mono 6.35mm, longueur 6m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1796a48fa1968edd5c5d10d42c7b1813",
+      "id": "7596",
+      "image_link": "https://www.centralsono.com/23541-googleshopping/cable-bretelle-jack-male-mono-jack-male-mono-6m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-jack-male-mono-jack-male-mono-6m-elite-plugger-7596.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Câble Bretelle Jack Mâle Mono - Jack Mâle Mono 6m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle Jack Mâle - Jack Mâle Mono 6.35mm, longueur 3m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cd42c963390a9cd025d007dacfa99351",
+      "id": "7595",
+      "image_link": "https://www.centralsono.com/23538-googleshopping/cable-bretelle-jack-male-mono-jack-male-mono-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-jack-male-mono-jack-male-mono-3m-elite-plugger-7595.html",
+      "price": 37.0,
+      "sale_price": null,
+      "title": "Câble Bretelle Jack Mâle Mono - Jack Mâle Mono 3m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle Jack Mâle - Jack Mâle Mono 6.35mm, longueur 1.50m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f26bdcba3e7ea29ba3b9f8bc2555fefa",
+      "id": "7594",
+      "image_link": "https://www.centralsono.com/23535-googleshopping/cable-bretelle-jack-male-mono-jack-male-mono-150m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-jack-male-mono-jack-male-mono-150m-elite-plugger-7594.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "Câble Bretelle Jack Mâle Mono - Jack Mâle Mono 1.50m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle Jack Mâle - Jack Mâle Mono 6.35mm, longueur 0.60m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3261769be720b0fefbfffec05e9d9202",
+      "id": "7593",
+      "image_link": "https://www.centralsono.com/23532-googleshopping/cable-bretelle-jack-male-mono-jack-male-mono-060m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-jack-male-mono-jack-male-mono-060m-elite-plugger-7593.html",
+      "price": 32.0,
+      "sale_price": null,
+      "title": "Câble Bretelle Jack Mâle Mono - Jack Mâle Mono 0.60m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - XLR Mâle 3 broches, longueur 1.50m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fc9812127bf09c7bd29ad6723c683fb5",
+      "id": "7592",
+      "image_link": "https://www.centralsono.com/23529-googleshopping/cable-bretelle-xlr-femelle-3b-xlr-male-3b-150m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-xlr-male-3b-150m-elite-plugger-7592.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - XLR Mâle 3b 1.50m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - XLR Mâle 3 broches, longueur 0.60m PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@274231193c4e40abc64d2f2d8cb6b415",
+      "id": "7591",
+      "image_link": "https://www.centralsono.com/23526-googleshopping/cable-bretelle-xlr-femelle-3b-xlr-male-3b-060m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-xlr-male-3b-060m-elite-plugger-7591.html",
+      "price": 32.0,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - XLR Mâle 3b 0.60m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle 6.35mm Stéréo / Jack Mâle 6.35mm Stéréo, diamètre OD7, longueur 15 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9d27fdf2477ffbff837d73ef7ae23db9",
+      "id": "7590",
+      "image_link": "https://www.centralsono.com/23523-googleshopping/cable-jack-male-stereo-jack-male-stereo-15-m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-15-m-elite-plugger-7590.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 15 m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bundle 2X ePro12A avec housses de transport Elokance...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@430a27748f3853d3745bda9d32419fef",
+      "id": "7815",
+      "image_link": "https://www.centralsono.com/25280-googleshopping/epro-12a-bundle-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-12a-bundle-elokance-7815.html",
+      "price": 1259.0,
+      "sale_price": null,
+      "title": "ePro 12A Bundle Elokance",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

@@ -1,0 +1,814 @@
+{
+  "sonorisation": {
+    "speakers": {
+      "active_speakers": {
+        "active_subwoofers": null,
+        "active_front_speakers": null,
+        "active_stage_monitors": null
+      },
+      "passive_speakers": {
+        "passive_subwoofers": null,
+        "passive_front_speakers": null,
+        "passive_stage_monitor": null
+      },
+      "monitoring_Speakers": {
+        "active_monitor_speakers": null,
+        "passive_monitor_speakers": null,
+        "subwoofers": null,
+        "monitor_controllers": null,
+        "monitor_speaker_stand": null,
+        "monitoring_Accessories": null
+      },
+      "speaker_accessories": {
+        "protective_covers_for_speakers": null,
+        "speaker_stands": null,
+        "accessories_for_self_contained_speakers": null
+      },
+      "autonomous_speakers": null,
+      "bluetooth_speakers": null,
+      "enclosures_for_installations": null,
+      "speaker_packages": null,
+      "amplified_system": null,
+      "column_systems": null,
+      "line_arrays": null,
+      "megaphones": null,
+      "spare_parts_for_loudspeakers_and_baffles": null,
+      "mixing_consoles": {
+        "analog_mixing_consoles": null,
+        "digital_mixing_consoles": null,
+        "powered_mixing_consoles": null,
+        "rackmount_mixers": null,
+        "dj_mixer": null,
+        "splitter_zoner_mixer": null,
+        "mixer_amplifiers": null,
+        "matrix_mixers": null,
+        "summons": null,
+        "dj_turntable": null,
+        "midi_controller": null,
+        "flight_cases_for_mixing_desks": null,
+        "expansion_cards_for_digital_consoles": null,
+        "stage_boxes_for_digital_consoles": null,
+        "lids_and_protective_covers_for_mixers": null,
+        "accessories_for_mixing_consoles": null
+      },
+      "amplifiers": {
+        "pa_amplifiers": null,
+        "multichannel_amplifiers": null,
+        "mixer_amplifiers": null,
+        "power_amplifiers_for_installation": null,
+        "power_amplifier_systems": null,
+        "powered_mixers": null
+      },
+      "microphones": {
+        "Vocal_microphones": {
+          "dynamic_vocal_microphones": null,
+          "condenser_vocal_microphones": null,
+          "group_vocal_microphones": null
+        },
+        "instrument_microphones": {
+          "general_purpose_dynamic_microphones": null,
+          "small_diaphragm_condenser_microphones": null,
+          "microphones_for_wind_instruments": null,
+          "drum_microphones": null,
+          "acoustic_guitar_microphones": null,
+          "string_instrument_microphones": null,
+          "microphones_for_control": null,
+          "piano_microphones": null,
+          "microphones_for_various_instruments": null
+        },
+        "installation_microphones": {
+          "gooseneck_microphones": null,
+          "hanging_microphones": null,
+          "interchangeable_capsule_microphones": null
+        },
+        "measurement_microphones": null,
+        "large_diaphragm_microphones": null,
+        "Small_diaphragm_microphone": null,
+        "ribbon_microphones": null,
+        "lavalier_microphones": null,
+        "conference_microphones": null,
+        "dynamic_microphones": null,
+        "headworn_microphones": null,
+        "microphones_usb": null,
+        "tube_microphones": null,
+        "wired_microphones": null,
+        "microphones_hf": null,
+        "microphone_set": null,
+        "wireless_systems": null,
+        "studio_preamplifiers": null,
+        "accessories_stands_for_microphones": null
+      },
+      "effects_and_peripherals": {
+        "analog_devices": {
+          "headphone_amplifiers": null,
+          "anti_larsen": null,
+          "di_boxes": null,
+          "magic_boxes": null,
+          "channel_strip": null,
+          "compressor_limiter_gate": null,
+          "voice_effects": null,
+          "equalizers": null,
+          "filter_crossover": null,
+          "format_500_and_modular": null,
+          "mastering": null,
+          "accessories": null
+        },
+        "studio_preamplifiers": null,
+        "equalizer": null,
+        "multi_effects": null,
+        "processor": null,
+        "cd_player": null,
+        "digital_recorder": null
+      },
+      "sounding_accessories": {
+        "power_supplies_and_batteries": null,
+        "cables": null,
+        "power_distributor": null,
+        "speakers": null,
+        "cover_for_speakers": null,
+        "cable_passage": null,
+        "microphone_stands": null,
+        "speaker_stands_and_tubes": null
+      }
+    },
+
+    "homestudio": {
+      "i": "vs-homestudio.svg",
+      "c": {
+        "helmets": {
+          "noise_canceling_headphones": null,
+          "multimedia_headsets": null,
+          "urban_style_helmets": null,
+          "wireless_headsets": null,
+          "headphones": null,
+          "dj_headphones": null,
+          "in_ear_headphones": null,
+          "ear_monitor_systems": null,
+          "headphone_amplifiers": null,
+          "helmet_accessories": null
+        },
+        "master_keyboards": {
+          "25_key_master_keyboard": null,
+          "49_key_master_keyboard": null,
+          "61_key_master_keyboard": null,
+          "88_key_master_keyboard": null
+        },
+        "controllers": {
+          "video_controllers": null,
+          "daw_controllers": null,
+          "midi_controllers": null,
+          "25_key_midi_keyboard": null,
+          "49_key_midi_keyboard": null,
+          "61_key_midi_keyboard": null,
+          "76_key_midi_keyboard": null,
+          "88_key_midi_keyboard": null,
+          "other_controllers": null
+        },
+        "recorders": {
+          "multitrack_recorders": null,
+          "portable_recorders": null,
+          "rack_recorders": null,
+          "master_stereo_recorders": null,
+          "storage_media": null,
+          "accessories_for_recorders": null
+        },
+        "audio_interfaces": {
+          "smartphone_audio_interfaces": null,
+          "interfaces_audio_thunderbolt": null,
+          "firewire_audio_interfaces": null,
+          "interfaces_audio_usb": null,
+          "midi_interfaces": null,
+          "pcie_interfaces": null,
+          "other_audio_interfaces": null,
+          "psd_processing": null,
+          "audio_interface_accessories": null
+        },
+        "mixing_and_production": {
+          "mixing_consoles": {
+            "analog_consoles": null,
+            "analog_studio_consoles": null,
+            "analog_consoles_digital_outputs": null,
+            "digital_consoles": null,
+            "powered_consoles": null
+          },
+          "options_and_accessories": null,
+          "summons": null
+        },
+        "digital_devices": {
+          "converters": null,
+          "clock_generator_and_synchronisation": null
+        },
+        "analog_devices": {
+          "effects_and_peripherals": {
+            "di_boxes": null,
+            "voice_effects": null,
+            "compressor_limiter_gate": null,
+            "equalizers": null,
+            "studio_preamplifiers": null,
+            "channel_strip": null,
+            "format_500_and_modular": null,
+            "multi_effects": null,
+            "psychoacoustic_effects": null,
+            "speech_processors": null,
+            "interfaces_for_signal_processors": null,
+            "signal_processor_accessories": null
+          },
+          "anti_larsen": null,
+          "other_processors": null,
+          "magic_boxes": null,
+          "channel_strip": null,
+          "filter_crossover": null,
+          "mastering": null,
+          "options_and_accessories": null
+        },
+        "midi_equipment": {
+          "midi_interfaces": null,
+          "midi_tools": null,
+          "midi_cables": null
+        },
+        "summing": null,
+        "sampler_groovebox": null,
+        "analog_mixers": null,
+        "digital_mixers": null,
+        "various_studio_devices": null,
+        "storage_media": null,
+        "studio_software": null,
+        "packs_homestudio": null,
+        "studio_accessories": null,
+        "magnetic_strips_and_accessories": null,
+        "acoustic_treatment_materials": null
+      }
+    }
+  },
+
+  "deejay": {
+    "i": "vs-deejay.svg",
+    "c": {
+      "dj_accessories": {
+        "power_supply_and_batteries": null,
+        "cables": null,
+        "time_code_CDs_and_vinyls": null,
+        "dj_furniture": {
+          "tables": null
+        },
+        "cd_storage": null,
+        "digital_mix_bags": null,
+        "felts_for_turntables": null,
+        "phono_preamplifiers": null,
+        "stand_for_dj_laptops": null,
+        "spare_parts_for_dj_equipment": null,
+        "crossfaders_and_spare_faders": null,
+        "accessories_for_turntables": null,
+        "dj_software_accessories": null,
+        "accessories_for_tables_and_dj_furniture": null,
+        "other_dj_accessories": null,
+        "bags_and_flight_cases": {
+          "flight_cases_for_dj_setup": null,
+          "flight_cases_for_dj_equipment": null,
+          "flight_cases_for_dj_controllers": null,
+          "flight_cases_for_dj_mixers": null,
+          "house_and_storage_for_cds": null,
+          "bag_for_usb_controller": null,
+          "bag_for_players_and_consoles": null,
+          "multi_function_bag": null
+        }
+      },
+      "cells_and_diamonds": {
+        "cells": null,
+        "boxes": null,
+        "diamonds": null,
+        "hifi_cells": null,
+        "cell_door": null
+      },
+      "dj_effects": null,
+      "karaoke": null,
+      "digital_mixers": {
+        "usb_dj_controllers": null,
+        "standalone_dj_controllers": null,
+        "remix_and_production_controllers": null,
+        "dj_software": null,
+        "dj_sound_interface": null,
+        "interfaces_for_timecoded_vinyls": null,
+        "digital_mixing_accessories": null
+      },
+      "dj_packs": null,
+      "cd_platinum": {
+        "flat": null,
+        "double_racks": null,
+        "simple_racks": null
+      },
+      "vinyl_plates": {
+        "direct_drive": null,
+        "belt_drive": null
+      },
+      "dj_mixing_table": {
+        "2_way": null,
+        "3_way": null,
+        "4_way_and_more": null
+      },
+      "veejay": {
+        "video_editing_software": null,
+        "video_projector": null,
+        "projection_screen": null,
+        "video_player_and_console": null
+      }
+    }
+  },
+
+  "musical_instruments": {
+    "i": "vs-musical_instrument.svg",
+    "c": {
+      "guitars": {
+        "guitar_accessories": {
+          "guitar_tuner": null,
+          "energy_and_batteries ": null,
+          "bottlenecks ": null,
+          "slides": null,
+          "capodastre": null,
+          "guitar_strings": null,
+          "houses_and_cases ": null,
+          "jack_guitar_cables ": null,
+          "mediators ": null,
+          "guitar_tabs": null,
+          "metronomes": null,
+          "polish_and_cleaning": null,
+          "lectern_and_accessories": null,
+          "sangles_and_belts": null,
+          "stands_and_footrests ": null,
+          "packs_accessories": null,
+          "various_accessories ": null
+        },
+        "bass": {
+          "acoustic_and_electro_bass": null,
+          "bass_custom_shop": null,
+          "travel_basses": null,
+          "4_string_electric_bass": null,
+          "5_string_electric_bass": null,
+          "electric_bass_6_strings_and_more": null,
+          "bass_fretless": null,
+          "basses_for_lefties": null,
+          "packs_bass": null
+        },
+        "acoustic_guitars": {
+          "12_acoustic_strings": null,
+          "folk": null,
+          "travel_folk": null,
+          "folk_for_lefties ": null,
+          "manouches": null,
+          "acoustic_packs": null
+        },
+        "classic_guitars": {
+          "classics_1_4_and_1_2": null,
+          "classics_3_4": null,
+          "classics_4_4": null,
+          "classics_7_8": null,
+          "classic_electro": null,
+          "classics_for_lefties": null,
+          "flamenco": null,
+          "left_guitar_packs": null,
+          "packs_classic": null
+        },
+        "electric_guitars": {
+          "12_electric_strings ": null,
+          "7_strings": null,
+          "8_and_9_strings": null,
+          "custom_shop": null,
+          "semi_hollow_guitars": null,
+          "various": null,
+          "double_cut": null,
+          "electric_for_lefties": null,
+          "child_travel": null,
+          "st_form": null,
+          "t_form": null,
+          "metal_modern": null,
+          "guitars_modeling - synth": null,
+          "retro_vintage": null,
+          "singlec_cut": null,
+          "electro_acoustics_travel": null,
+          "folk_electric": null,
+          "folk_electric_nylon_strings": null,
+          "packs_electric": null
+        },
+        "various_instruments": {
+          "resonator": null,
+          "banjos": null,
+          "lap_steel": null,
+          "lauds_and_bandurrias": null,
+          "mandolin": null,
+          "bouzoukis": null
+        },
+        "spare_parts": {
+          "attach_straps_and_straplocks": null,
+          "buttons": null,
+          "cover_microphones": null,
+          "bridges_and_tailpieces": null,
+          "body": null,
+          "frets": null,
+          "haft": null,
+          "mechanical": null,
+          "guitar_pickups_and_preamps": null,
+          "tools": null,
+          "pickguards": null,
+          "slab": null,
+          "potentiometers": null,
+          "jack_and_female_socket": null,
+          "selecteurs": null,
+          "sillets": null,
+          "vibratos": null,
+          "fasteners": null
+        },
+        "ukulele": {
+          "barytone": null,
+          "concert": null,
+          "electro": null,
+          "guitalele": null,
+          "soprano": null,
+          "tenor": null,
+          "bass_ukulele": null
+        }
+      },
+      "drums_and_percussion": {
+        "drums_accessories": {
+          "general_accessories": null,
+          "chopsticks_and_bats": {
+            "chopsticks_accessories": null,
+            "classic_drumsticks": null,
+            "drumsticks": null,
+            "drum_chopsticks": null,
+            "glockenspiel_chopsticks": null,
+            "marimba_chopsticks": null,
+            "various_toms_chopsticks": null,
+            "multi_percussions_chopsticks": null,
+            "chopsticks_repinique": null,
+            "chopsticks_tamborim": null,
+            "orchestra_timpani_mallets": null,
+            "latin_timbal_mallets": null,
+            "vibraphone_sticks - marimba": null,
+            "xylophone_drumsticks": null,
+            "sweep": null,
+            "tubular_bell_beaters": null,
+            "beaters_surdo_maracatu_alfaia": null,
+            "classic_bass_drum_beaters": null,
+            "marching_bass_drum_beaters": null,
+            "rods_sticks": null,
+            "bag_for_chopsticks": null,
+            "beaters_gongs": null
+          },
+          "helmets_and_caps": null,
+          "hardware_drums": {
+            "clamps_and_brackets": null,
+            "hardware_pack": null,
+            "hardware_drum_rack": null,
+            "hi_hat_charleston_pedals": null,
+            "snare_stands": null,
+            "straight_cymbal_stands_and_booms": null,
+            "tom_stands_and_stands": null
+          },
+          "percussion_bags_and_cases": {
+            "covers_clear_cases": null,
+            "bags_cymbal_cases": null,
+            "covers_djembe_cases": null,
+            "covers_marching_band_cases": null,
+            "bags_bass_drum_cases": null,
+            "covers_drum_kit_cases": null,
+            "bags_bass_drum_pedal_cases": null,
+            "covers_small_percussion_cases": null,
+            "covers_cases_for_hardware": null,
+            "covers_steel_pan_cases": null,
+            "covers_Latin_timpani_cases": null,
+            "covers_tom_cases": null,
+            "bag_for_chopsticks": null
+          },
+          "practice_pads": null,
+          "skins": {
+            "bongo_skins": null,
+            "conga_heads": null,
+            "various_percussion_skins": null,
+            "bass_drum_skins": null,
+            "mesh_skins_silent": null,
+            "timpani_skins": null,
+            "tom_heads_snare_drums": null
+          },
+          "bass_drum_pedals": {
+            "dual_bass_drum_pedals": null,
+            "Simple_bass_drum_pedals": null
+          },
+          "detached_pedals": {
+            "memory_rings": null,
+            "hoops": null,
+            "drum_key": null,
+            "drums_shells": null,
+            "bass_drum_hooks": null,
+            "events_decompression_eyelets": null,
+            "snare_drum_parts": null,
+            "spare_parts_for_hi_hat_pedal": null,
+            "cymbal_stand_spare_parts": null,
+            "parts_for_bass_drum_pedals": null,
+            "floor_tom_feet": null,
+            "bass_drum_picks": null,
+            "masking_plate_for_barrels": null,
+            "tom_support_plate_on_bass_drum": null,
+            "battery_cleaning_and_maintenance_products": null,
+            "tie_rods_for_screws": null,
+            "wing_screws_and_nuts": null,
+            "screws_and_bolts": null
+          },
+          "seats": null,
+          "drum_mutes": null
+        },
+        "acoustic Drums": {
+          "beginner_Drums": null,
+          "20_fusion_drums": null,
+          "22_fusion_drums": null,
+          "jazz_drums": null,
+          "drums_junior": null,
+          "rock_drums": null,
+          "stage_drums": null,
+          "standard_drums": null,
+          "studio_drums": null,
+          "build_your_drums": null,
+          "bass_drums": null,
+          "octobans_and_mini_Latin_timpani": null,
+          "toms_bass": null,
+          "drums_toms": null
+        },
+        "electronic_drums": {
+          "electronic_drum_amplifier": null,
+          "drum_machines": null,
+          "electronic_kit": null,
+          "modules": null,
+          "multi_percussion_pad": null,
+          "pads_accessories": null
+        },
+        "snare_drums": {
+          "snare_accessories": null,
+          "student_snare_drums": null,
+          "acrylic_drums_and_other_materials": null,
+          "wooden_barrels": null,
+          "metal_barrels": null,
+          "snare_drum_parts": null
+        },
+        "cymbals": {
+          "cymbals_accessories": null,
+          "charleston": null,
+          "china": null,
+          "bells": null,
+          "crashs": null,
+          "cymbals_effects": null,
+          "cymbals_cases ": null,
+          "rides": null,
+          "splashs": null,
+          "cymbals_packs": null
+        },
+        "handpan_tongue_drum": {
+          "bongos": null,
+          "cajon": null,
+          "congas": null,
+          "darbukas": null,
+          "didgeridoo": null,
+          "djembes": null,
+          "kalimba": null,
+          "octobans_and_mini_latin_timpani": null,
+          "hand_percussion": null,
+          "african_percussion": null,
+          "latin_timpani": null,
+          "udu_ibo": null
+        },
+        "marching_and_brass_band": {
+          "drum_sticks": null,
+          "baguettes_multi_toms": null,
+          "multi_tom_drumsticks": null,
+          "cymbals_brass_band": null,
+          "bass_drums_brass_band_marching": null,
+          "harnesses ": null,
+          "drums": null
+        },
+        "music_therapy": {
+          "tibetan_bowls": null,
+          "traditional_bells": null,
+          "energy_chimes": null,
+          "gongs": null
+        },
+        "african_drums": {
+          "other_african_drums": null,
+          "batas_drum": null,
+          "djembes": null,
+          "small_african_drums": null,
+          "cylindrical_drum ": null
+        },
+        "brazilian_drums": {
+          "accessories_samba_brazil": null,
+          "agogo_and_whistle_apito_samba": null,
+          "caixa": null,
+          "capoiera_maracatu": null,
+          "claves": null,
+          "cuica": null,
+          "packs_samba": null,
+          "pandeiro_pandeirao": null,
+          "reco _and_frigidera": null,
+          "Repinique & repique de mao": null,
+          "rocar_and_ganza": null,
+          "surdo": null,
+          "tamborim_and_tamborica": null,
+          "tantan_and_rebolo": null,
+          "timbal": null,
+          "zabumba": null
+        },
+        "drums_orchestra ": {
+          "sticks_and_bats ": null,
+          "crotales": null,
+          "cymbal_orchestra": null,
+          "glockenspiel": null,
+          "gongs": null,
+          "concert_bass_drum": null,
+          "bell_games": null,
+          "marimba": null,
+          "orchestra_furniture": null,
+          "small_drums": null,
+          "orchestra_timpani": null,
+          "toms_orchestra": null,
+          "vibraphones": null,
+          "xylophones": null,
+          "carillons": null,
+          "various_orchestra": null
+        }
+      },
+      "keyboards_pianos": {
+        "keyboard_accessories": {
+          "keyboard_power_supply": null,
+          "other_keyboard_accessories": null,
+          "keyboard_benches": null,
+          "keyboard_covers": null,
+          "metronomes": null,
+          "keyboard_pedals": null,
+          "desks_and_accessories": null,
+          "keyboard_stands": null
+        },
+        "accordion": {
+          "chromatic_accordion": null,
+          "diatonic_accordion": null,
+          "straps": null,
+          "accordion_housse": null,
+          "briefcase": null,
+          "accordion_stand": null,
+          "v_accordion": null
+        },
+        "Keyboard amplifiers": null,
+        "keyboard benches": null,
+        "arranger keyboards": null,
+        "master_keyboards": {
+          "25_key_master_keyboards": null,
+          "49_key_master_keyboards": null,
+          "61_key_master_keyboards": null,
+          "88_key_master_keyboards": null
+        },
+        "keyboard_cover": {
+          "keyboard_cover_25_keys ": null,
+          "keyboard_cover_37_keys ": null,
+          "keyboard_cover_49_keys ": null,
+          "keyboard_cover_61_keys ": null,
+          "keyboard_cover_76_keys ": null,
+          "keyboard_cover_88_keys ": null
+        },
+        "organ": null,
+        "digital_pianos ": {
+          "stage_digital_pianos": null,
+          "furniture_digital_pianos": null,
+          "portable_digital_pianos": null
+        },
+        "stands clavier": null
+      },
+      "synthesizers": {
+        "synthesizer_accessories": {
+          "expandeurs": null,
+          "synthesizer_covers": null,
+          "midi_tools": null
+        },
+        "modular": {
+          "modular_accessories": null,
+          "effects_and_signal_processing": null,
+          "generator_vcos": null
+        },
+        "analog Synthesizers": null,
+        "digital Synthesizers": null,
+        "workstations": null
+      },
+      "wind_instruments": {
+        "bugles": null,
+        "clarinets ": null,
+        "horn": null,
+        "recorder": null,
+        "flute": null,
+        "harmonica": null,
+        "wind_accessories": null,
+        "oboe": null,
+        "bassoon": null,
+        "saxophone": null,
+        "trombonne": null,
+        "trumpet": null,
+        "cornets": null,
+        "various_instruments": {
+          "flageolet_tin_whistle": null,
+          "guimbardes": null,
+          "kazoo": null,
+          "melodicas": null,
+          "saxonett": null,
+          "electronic_wind_instruments ": null
+        },
+        "brass_instruments": {
+          "euphoniums": null,
+          "saxhorns": null,
+          "soubassophones": null,
+          "tubas": null,
+          "brass_accessories": null
+        }
+      }
+    },
+
+    "light": {
+      "i": "vs-light.svg",
+      "c": {
+        "controller_and_block": {
+          "power_block": null,
+          "dmx_controller ": null,
+          "dmx_splitter": null
+        },
+        "lightgame": null,
+        "lyre_and_scan  ": {
+          "lyre beam": null,
+          "lyre_spot": null,
+          "lyre_wash": null,
+          "lyre_hybride": null,
+          "scan": null
+        },
+        "machine_and_liquid": {
+          "fog_machine ": null,
+          "smoke_machine ": null
+        },
+        "led_projector": {
+          "bar_at_led": null,
+          "projector_archi_at_led": null,
+          "par_led": null
+        },
+        "par_projector": null,
+        "theater_projector": {
+          "cyclo_and_blinder": null,
+          "cuts_projector": null,
+          "fresnel": null,
+          "pc": null
+        },
+        "light_accessories": {
+          "accessories_projector": null
+        }
+      }
+    },
+
+    "video": {
+      "i": "vs-video.svg",
+      "c": {
+        "canvas_screen": null,
+        "projector_video": null,
+        "accessory": null
+      }
+    }
+  },
+
+  "scene": {
+    "i": "vs-scene.svg",
+    "c": {
+      "structure": {
+        "beam": null,
+        "lifting_foot ": null,
+        "accessories_structure": null,
+        "packs_structure": null
+      },
+      "practical": {
+        "practicable_exterior ": null,
+        "practicable_interior ": null
+      },
+      "cable_passage": null,
+      "palan": null,
+      "flight_case": null,
+      "stop_falling": null,
+      "dance_mats": null,
+      "patience_rail_stage_curtain": null
+    }
+  },
+
+  "power_system": {
+    "i": "vs-power_system.svg",
+    "c": {
+      "batteries": null,
+      "inverted_generator": {
+        "non_quiet_generator": null,
+        "quiet_generator": null,
+        "super_quiet_generator": null,
+        "portable_generator": null,
+        "portable_quiet_generator": null
+      },
+      "fuel_tank": null,
+      "trailer": null,
+      "accessories": null
+    }
+  }
+}

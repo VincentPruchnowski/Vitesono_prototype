@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Products</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/module.css" />
+</head>
+
+<body>
+    <!-- Logo + Welcome -->
+    <header>
+        <div class="container">
+            <span class="logo">
+                VS
+            </span>
+            <span class="vite">VITE</span>
+            <span class="sono">SONO</span>
+            <div class="flex-item02">Administration - Welcome, identifiant</div>
+            <div class="flex-item03">
+                <form method="post" action="Logout">
+                    <input type="submit" value="Logout" />
+                </form>
+            </div>
+        </div>
+    </header>
+
+    <!-- Title -->
+    <h1 class="title">Module edit</h1>
+
+    <!-- Navbar column -->
+    <div class="container-column">
+        <nav>
+            <ul class="navbar">
+                <li><a class="active" href="../../login.html"><i class="fa fa-fw fa-user"></i> Login</a>
+                <li><a class="active" href="../../app.sys.html"><i class="fa fa-fw fa-user"></i> App.sys</a>
+                <li><a class="active" href="../../index.html"><i class="fa fa-fw fa-home"></i> History</a>
+                <li><a class="active" href="../../search.html"><i class="fa fa-fw fa-search"></i> Search</a>
+                <li><a class="active" href="../../search_test.html"><i class="fa fa-fw fa-search"></i> Search_test</a>
+                <li><a class="active" href="../../product.html"><i class="fa fa-fw fa-product-hunt"></i> Product</a>
+                <li><a class="active" href="../../module.html"><i class="fa fa-fw fa-sticky-note"></i> Module</a>
+                <li><a class="active" href="../../contact.html"><i class="fa fa-fw fa-envelope"></i> Contact</a>
+                <li><a class="active" href="../../settings.html"><i class="fa fa-fw fa-cog"></i> Settings</a>
+            </ul>
+        </nav>
+    </div>
+
+    <main>
+        <!-- Information fiche -->
+        <div class="conteneur-flexible colonne stretch-sec">
+            <div class="element-flexible">
+                <img class="hiddenSpeaker" src="assets/img/pack/speaker_pack.jpg" height="184px" width="178px"
+                    alt="Speaker" id="test5" />
+                <p>ART 725 MK4</p>
+                <p>Birthday Party</p>
+            </div>
+            <div class="element-flexible02">
+                Description
+                <p>
+                    Very nice set specially adapted for birthday parties.<br />
+                    To see if a description is necessary...
+                </p>
+            </div>
+        </div>
+        </div>
+
+        <!-- Data mapping -->
+        <aside>
+            <h2 class="subtitle">Data mapping</h2>
+            <div class="container-modification">
+                <!-- Product -->
+                <div class="container-product">
+                    <div class="itemP"><strong>Product pack</strong></div>
+                    <div class="item">
+                        <p>Reference</p><input type="text" value="product_pack_name">
+
+                        <p>Event type</p>
+                        <!-- Filter -->
+                        <div class="category-select">
+                            <select>
+                                <option value="0">Event selection</option>
+                                <option value="1">Wedding</option>
+                                <option value="2">Concert</option>
+                                <option value="3">Party</option>
+                                <option value="4">Birthday party</option>
+                                <option value="5">Reception</option>
+                                <option value="6">Gala</option>
+                            </select>
+                        </div>
+                        <div class="item">
+                            <p>Description<br>
+                            </p><input class="prdct" type="text" value=" event description">
+                        </div>
+                    </div>
+                    <div class="save-button">
+                        <button class="product-save" type="button">Save</button>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </main>
+    <!-- Footer -->
+    <footer>
+        <!-- Credits -->
+        <div class="container02">
+            <div class="items">
+                <p>VITESONO</p>
+                <br />
+                Version 1.0
+            </div>
+
+            <!-- Pagination -->
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link">of</a></li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+
+</html>

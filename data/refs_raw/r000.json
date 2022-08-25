@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 1,
+  "query": "sonorisation",
+  "query_counter": 3,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Pupitre <em>sonorisé</em> 100w + récepteur double pour 2 micros sans fil (micros HF et cols de cygne en option",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@672cf3025399742b1a047c8dc6b1e992",
+      "id": "8615",
+      "image_link": "https://www.centralsono.com/31336-googleshopping/monacor-speech-204-pupitre-de-conference-sonorise.jpg",
+      "link": "https://www.centralsono.com/pupitre-conference/monacor-speech-204-pupitre-de-conference-sonorise-8615.html",
+      "price": 1699.0,
+      "sale_price": 1649.0,
+      "title": "Monacor SPEECH 204 Pupitre de conférence sonorisé",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système de <em>sonorisation</em> portable autonome 2x10\" / 25cm 600W avec USB, SD, Vox, Bluetoth et 2 micros VHF",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@22f7e834551fbb0f6ea55b04889e8eb1",
+      "id": "6562",
+      "image_link": "https://www.centralsono.com/17170-googleshopping/port225vhf-bt-systeme-de-sonorisation-portable-autonome-600w-ibiza-sound.jpg",
+      "link": "https://www.centralsono.com/enceinte-autonome/port225vhf-bt-systeme-de-sonorisation-portable-autonome-600w-ibiza-sound-6562.html",
+      "price": 349.0,
+      "sale_price": null,
+      "title": "PORT225VHF-BT Système de sonorisation portable autonome 600W - Ibiza Sound",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pupitre <em>sonorisé</em> 100w + récepteur double pour 2 micros sans fil (micros HF et cols de cygne en option",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ea4b47f29f0030a6162b40662ff91c70",
+      "id": "8616",
+      "image_link": "https://www.centralsono.com/31341-googleshopping/monacor-speech-500gr-pupitre-de-conference-sonorise.jpg",
+      "link": "https://www.centralsono.com/pupitre-conference/monacor-speech-500gr-pupitre-de-conference-sonorise-8616.html",
+      "price": 3099.0,
+      "sale_price": 2999.0,
+      "title": "Monacor SPEECH 500/GR Pupitre de conférence sonorisé",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifiée, 2 voies Bass-reflex, amplification numérique 1500W, avec mixer 3 canaux, connectivité Bluetooth, DSP 4 Preset, haut parleur de 15\" custom, dans un boitier en polypropylène.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3677481dc67fc92d2347a706e9a64285",
+      "id": "9141",
+      "image_link": "https://www.centralsono.com/35569-googleshopping/x-lite-15a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-lite-15a-fbt-9141.html",
+      "price": 599.0,
+      "sale_price": 589.0,
+      "title": "X-LITE 115A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour enceinte FBT X-Lite 15A - Housse pour enceinte FBT X-Lite 15A - Matériau : Nylon - Dimensions interne : 440x735x440 mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4b7f871c66be5ac7630c27bb5e21fe7f",
+      "id": "7766",
+      "image_link": "https://www.centralsono.com/24988-googleshopping/xl-c-15-housse-pour-x-lite-15a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-c-15-housse-pour-x-lite-15a-fbt-7766.html",
+      "price": 43.0,
+      "sale_price": null,
+      "title": "XL-C 15 housse pour X-Lite 15A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 21DS115 : Haut Parleur Infra Basse de 21'' (53cm), 3400 Watts AES / 8 Ohms, Bobine mobile de 115mm, aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d627f44819e0cdb235a1ba10dc32df2e",
+      "id": "8154",
+      "image_link": "https://www.centralsono.com/26938-googleshopping/21ds115-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/21ds115-b-and-c-8154.html",
+      "price": 407.0,
+      "sale_price": null,
+      "title": "21DS115 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système triphonique parfaitement adapté aux applications mobiles, et convient aussi l'installation fixe. Caisson 12\", satellites 6.5\", puissance de sortie : 2000W crête. Pour une excellente restitutio…",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cb7c403aa312160380010ee3dd4bfc53",
+      "id": "8474",
+      "image_link": "https://www.centralsono.com/29349-googleshopping/dave-12-g3-systeme-amplifie-ld-systemes.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dave-12-g3-systeme-amplifie-ld-systemes-8474.html",
+      "price": 749.0,
+      "sale_price": 698.0,
+      "title": "DAVE 12 G3 - Système amplifié LD Systèmes",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi-amplifiée en bois de 1500W FBT XPRO 115A 2 voies avec haut parleur de 15'' (38cm) + moteur 1'', 130db SPL, 2 entrées sur XLR, Jack/RCA et sorties XLR. DSP avec 4 prog…",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5eb2a86c4e7f9ba6dfe6f786e90c26d7",
+      "id": "9133",
+      "image_link": "https://www.centralsono.com/35486-googleshopping/x-pro-115a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-pro-115a-fbt-9133.html",
+      "price": 699.0,
+      "sale_price": null,
+      "title": "X-PRO 115A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Double micro main sans fil VHF idéal pour Karaoké / Animation",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cfbce4c1d7c425baf21d6b6f2babe6be",
+      "id": "891",
+      "image_link": "https://www.centralsono.com/1167-googleshopping/power-acoustics-wm-4000-mh.jpg",
+      "link": "https://www.centralsono.com/sonorisation/power-acoustics-wm-4000-mh-891.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "Power Acoustics Micro WM 4000 MH",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive 300w 25cm + tweeter.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a6da680bcb675843419f2ba88a7ab7b8",
+      "id": "5158",
+      "image_link": "https://www.centralsono.com/14474-googleshopping/ibiza-xtk10.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ibiza-xtk10-5158.html",
+      "price": 79.0,
+      "sale_price": 69.0,
+      "title": "Ibiza XTK 10",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 210W RMS/8 Ohms, 2 x 320W RMS/4Ohms, 2 x 430W RMS/2Ohms. Utilisation en Bridge Possible : 1 x 850W / 4Ohms. Le HPA A900 propose 3 mode de fonctionnement (stéréo, parallèle et b...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c70341de2c112a6b3496aec1f631dddd",
+      "id": "6931",
+      "image_link": "https://www.centralsono.com/19123-googleshopping/a900-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/a900-hpa-6931.html",
+      "price": 385.0,
+      "sale_price": 349.0,
+      "title": "A900 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Haut-Parleur basses 46cm (18'') 500 Watts RMS sous 8 Ohms, réponse en fréquence : 30Hz-1.5KHz, sensibilité : 97 dB/W/m...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c9d9edbf9b9e23eb5d4819bbcce9b078",
+      "id": "7102",
+      "image_link": "https://www.centralsono.com/20170-googleshopping/18wf1000sub-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18wf1000sub-elokance-7102.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "18WF1000SUB Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur RCA Femelle/ Jack Mâle Mono 6.35mm Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3d600348cf3aca45a777c9bc043054d4",
+      "id": "7333",
+      "image_link": "https://www.centralsono.com/22141-googleshopping/adaptateur-rca-femelle-jack-male-mono-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-rca-femelle-jack-male-mono-easy-plugger-7333.html",
+      "price": 1.45,
+      "sale_price": null,
+      "title": "Adaptateur RCA Femelle - Jack Mâle Mono Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Fender Bluetooth Noire Fonctionne sur Batterie Fender Indio Blonde",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c338d814c14c9d479eb5ec0b99d887f6",
+      "id": "8630",
+      "image_link": "https://www.centralsono.com/31380-googleshopping/fender-indio-bluetooth-speaker.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fender-indio-bluetooth-speaker-8630.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "FENDER - INDIO BLUETOOTH SPEAKER BLONDE",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection Pluie pour enceinte Hk audio PR PR15X(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3eb71f6293a2a31f3569e10af6552658",
+      "id": "1170",
+      "image_link": "https://www.centralsono.com/1477-googleshopping/hk-audio-wpc-pro15x.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-wpc-pro15x-1170.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "Hk audio WPC/PRO15X",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection Pluie pour enceinte Hk audio PR PR15(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1e1d184167ca7676cf665225e236a3d2",
+      "id": "1169",
+      "image_link": "https://www.centralsono.com/1476-googleshopping/hk-audio-wpc-pro15.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-wpc-pro15-1169.html",
+      "price": 58.0,
+      "sale_price": null,
+      "title": "Hk audio WPC/PRO15",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection Pluie pour enceinte Hk audio PR PR12(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2f29b6e3abc6ebdefb55456ea6ca5dc8",
+      "id": "1168",
+      "image_link": "https://www.centralsono.com/1475-googleshopping/hk-audio-wpc-pro12.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-wpc-pro12-1168.html",
+      "price": 54.0,
+      "sale_price": null,
+      "title": "Hk audio WPC/PRO12",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection Pluie pour enceinte Hk audio PR PR10X(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9da187a7a191431db943a9a5a6fec6f4",
+      "id": "1167",
+      "image_link": "https://www.centralsono.com/1474-googleshopping/hk-audio-wpc-pro10x.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-wpc-pro10x-1167.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "Hk audio WPC/PRO10X",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection Pluie pour enceinte Hk audio PR PRO08(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0f2c9a93eea6f38fabb3acb1c31488c6",
+      "id": "1166",
+      "image_link": "https://www.centralsono.com/1473-googleshopping/hk-audio-wpc-pro8.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-wpc-pro8-1166.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "Hk audio WPC/PRO8",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection pour enceinte Hk audio PR PRO 15(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6e7d2da6d3953058db75714ac400b584",
+      "id": "1163",
+      "image_link": "https://www.centralsono.com/1470-googleshopping/hk-audio-cov-pro15.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-cov-pro15-1163.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "Hk audio COV/PRO15",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection pour retour de scène Hk audio PR PRO 12M(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@abea47ba24142ed16b7d8fbf2c740e0d",
+      "id": "1162",
+      "image_link": "https://www.centralsono.com/1469-googleshopping/hk-audio-cov-pro-12m.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-cov-pro-12m-1162.html",
+      "price": 34.0,
+      "sale_price": null,
+      "title": "Hk audio COV/PRO 12M",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection pour enceinte Hk audio PR PRO 12(A)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@38ca89564b2259401518960f7a06f94b",
+      "id": "1161",
+      "image_link": "https://www.centralsono.com/1468-googleshopping/hk-audio-cov-pro12.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-cov-pro12-1161.html",
+      "price": 33.0,
+      "sale_price": null,
+      "title": "Hk audio COV/PRO12",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boîtier émetteur ceinture à 16 fréquences UHF sans micro bande de fréquence F8",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@09fb05dd477d4ae6479985ca56c5a12d",
+      "id": "1863",
+      "image_link": "https://www.centralsono.com/2085-googleshopping/audiophony-go-body.jpg",
+      "link": "https://www.centralsono.com/sonorisation/audiophony-go-body-1863.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "Audiophony GO-BODY",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection pour Hk audio ELEMENTS EF45.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d16509f6eaca1022bd8f28d6bc582cae",
+      "id": "2432",
+      "image_link": "https://www.centralsono.com/2757-googleshopping/hk-audio-elements-cov-ef45.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-elements-cov-ef45-2432.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "Hk audio ELEMENTS COV/EF45",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Protection pour 1 caisson basse Hk audio ELEMENTS E 110SUB.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cbf8710b43df3f2c1553e649403426df",
+      "id": "2431",
+      "image_link": "https://www.centralsono.com/2756-googleshopping/hk-audio-elements-cov-e110.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-elements-cov-e110-2431.html",
+      "price": 26.0,
+      "sale_price": null,
+      "title": "Hk audio ELEMENTS COV/E110",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Hk Audio housse pour enceinte L5 LSUB 2000.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@43b52842663fa6e4100c72751d08de6f",
+      "id": "3570",
+      "image_link": "https://www.centralsono.com/4264-googleshopping/hk-audio-linear-5-cov-lsub-2000.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-linear-5-cov-lsub-2000-3570.html",
+      "price": 66.0,
+      "sale_price": null,
+      "title": "Hk audio LINEAR 5 COV LSUB 2000",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Hk Audio housse pour enceinte L5 LSUB 1200.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@77c493ec14246d748db3ee8fce0092db",
+      "id": "3569",
+      "image_link": "https://www.centralsono.com/4263-googleshopping/hk-audio-linear-5-cov-lsub-1200.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-linear-5-cov-lsub-1200-3569.html",
+      "price": 51.0,
+      "sale_price": null,
+      "title": "Hk audio LINEAR 5 COV LSUB 1200",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Hk Audio housse pour enceinte L5 LF115F.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dccab9bd9e0b69c49302025efdf19702",
+      "id": "3567",
+      "image_link": "https://www.centralsono.com/4262-googleshopping/hk-audio-linear-5-cov-lf115f.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-linear-5-cov-lf115f-3567.html",
+      "price": 37.0,
+      "sale_price": null,
+      "title": "Hk audio LINEAR 5 COV LF115F",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Hk Audio housse pour enceinte L5 LF112X.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6346dc723395e1ee8ef57f4883be4cb4",
+      "id": "3566",
+      "image_link": "https://www.centralsono.com/4261-googleshopping/hk-audio-linear-5-cov-lf112x.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-linear-5-cov-lf112x-3566.html",
+      "price": 37.0,
+      "sale_price": null,
+      "title": "Hk audio LINEAR 5 COV LF112X",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Hk Audio housse pour enceinte L5 LF112F.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e6e713296627dff6475085cc6a224464",
+      "id": "3565",
+      "image_link": "https://www.centralsono.com/4260-googleshopping/hk-audio-linear-5-cov-lf112f.jpg",
+      "link": "https://www.centralsono.com/sonorisation/hk-audio-linear-5-cov-lf112f-3565.html",
+      "price": 37.0,
+      "sale_price": null,
+      "title": "Hk audio LINEAR 5 COV LF112F",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

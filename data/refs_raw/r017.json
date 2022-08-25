@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 20,
+  "query": "sonorisation",
+  "query_counter": 22,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Tube de couplage pour système FBT VERTUS finition noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1f8f69b53d86cf2a952bf95d87a59b0c",
+      "id": "7693",
+      "image_link": "https://www.centralsono.com/24286-googleshopping/fms-220-la-piece-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fms-220-la-piece-fbt-7693.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "FMS 220 (la pièce) FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Sonorisation</em> Portable Autonome Haute Qualité avec Micro main sans fil ACT32H et récepteur MRM70B + Housse",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c74c4bf0dad9cbae3d80faa054b7d8ca",
+      "id": "7691",
+      "image_link": "https://www.centralsono.com/24265-googleshopping/ma-708pack-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-708pack-mipro-7691.html",
+      "price": 1199.0,
+      "sale_price": null,
+      "title": "MA 708PACK Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bundle Mipro MA 707PAD + Micro ACT32H + Récepteur MRM70B + housse de transport, idéal pour animation ou discours...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c6776f93bc9afe2e511a1dbd5478362c",
+      "id": "7690",
+      "image_link": "https://www.centralsono.com/34401-googleshopping/ma-707pack-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-707pack-mipro-7690.html",
+      "price": 940.0,
+      "sale_price": 889.0,
+      "title": "MA 707PACK Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de 100 mètres de câble micro 3 connecteurs pour XLR, Plugger...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6069cecf34adb1d6db60007da39e2ee8",
+      "id": "7688",
+      "image_link": "https://www.centralsono.com/24243-googleshopping/bobine-100m-de-cable-micro-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-100m-de-cable-micro-plugger-7688.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "Bobine 100m de Câble micro Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de 50 mètres de câble micro 3 connecteurs pour XLR, Plugger...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@89db09d856d45d361982edc10ce738a2",
+      "id": "7687",
+      "image_link": "https://www.centralsono.com/24242-googleshopping/bobine-50m-de-cable-micro-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-50m-de-cable-micro-plugger-7687.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "Bobine 50m de Câble micro Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de 20 mètres de câble micro 3 connecteurs pour XLR, Plugger...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fbd3230f4d8dcf11a06b19fd0cfd8ef1",
+      "id": "7686",
+      "image_link": "https://www.centralsono.com/24240-googleshopping/bobine-20m-de-cable-micro-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-20m-de-cable-micro-plugger-7686.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Bobine 20m de Câble micro Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 4 x 1.5mm², longueur 100 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1b9a80606d74d3da6db2f1274557e644",
+      "id": "7685",
+      "image_link": "https://www.centralsono.com/24239-googleshopping/bobine-hp-4-x-15mm-100-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-4-x-15mm-100-metres-plugger-7685.html",
+      "price": 170.0,
+      "sale_price": null,
+      "title": "Bobine HP 4 x 1.5mm² 100 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur pour montage d'enceinte embase 25 mm sur pied 35 mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@af1c25e88a9e818f809f6b5d18ca02e2",
+      "id": "7684",
+      "image_link": "https://www.centralsono.com/24237-googleshopping/aj-8-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/aj-8-fbt-7684.html",
+      "price": 22.0,
+      "sale_price": null,
+      "title": "AJ-8 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle 3b / Jack Mâle Stéréo 6.35mm, Connecteurs métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1592104031ceaa405b8a103c399e2633",
+      "id": "7682",
+      "image_link": "https://www.centralsono.com/24220-googleshopping/adaptateur-xlr-femelle-3b-jack-male-stereo-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-3b-jack-male-stereo-easy-plugger-7682.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle 3b - Jack Mâle Stéréo Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Passive Supplémentaire pour Mipro MA 505, 145 Watts RMS sous 8 Ohms, HP de 20 cm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@73f124c77df247a60e1963b8ab5940da",
+      "id": "7680",
+      "image_link": "https://www.centralsono.com/24198-googleshopping/ma-505exp-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-505exp-mipro-7680.html",
+      "price": 357.0,
+      "sale_price": 339.0,
+      "title": "MA 505EXP Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système Audio sans fil totalement autonome Elokance Air-Sound. Ce système avec satellites sur batterie vous permettra d'installer votre sono n'importe où avec une facilité déconcer...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7ec2442aa04c157590b2fa1a7d093a33",
+      "id": "7672",
+      "image_link": "https://www.centralsono.com/24101-googleshopping/air-sound-system-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/air-sound-system-elokance-7672.html",
+      "price": 699.0,
+      "sale_price": null,
+      "title": "Air-Sound SYSTEM Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Paire de Pieds d'enceinte en métal noir BoomTone DJ SV-50, diamètre 35 mm, Hauteur réglable de 72 à 130 cm, Charge maximale 30kg par pied....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@06fb3cba82080bf8f3721739019d6792",
+      "id": "7671",
+      "image_link": "https://www.centralsono.com/24091-googleshopping/sv-50-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sv-50-boomtone-dj-7671.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "SV-50 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tôle 19'' 3U avec logo Elokance...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@933596b8ed665b3c5c6ed32079b2d20e",
+      "id": "7670",
+      "image_link": "https://www.centralsono.com/24089-googleshopping/tole-19-pouces-3u-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/tole-19-pouces-3u-elokance-7670.html",
+      "price": 19.0,
+      "sale_price": null,
+      "title": "Tôle 19 pouces 3U Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tôle 19'' 2U avec logo Elokance...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9c16f6606460d1543759fc966b9bb797",
+      "id": "7669",
+      "image_link": "https://www.centralsono.com/24087-googleshopping/tole-19-pouces-2u-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/tole-19-pouces-2u-elokance-7669.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "Tôle 19 pouces 2U Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tôle 19'' 1U avec logo Elokance...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b4d6f2b565ca0eef1f9245403aac366a",
+      "id": "7668",
+      "image_link": "https://www.centralsono.com/24085-googleshopping/tole-19-pouces-1u-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/tole-19-pouces-1u-elokance-7668.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Tôle 19 pouces 1U Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Embase 10mm + Molette 10mm pour enceinte avec embase 35mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@09853c7fb1d3f8ee67a61b6bf4a7f8e6",
+      "id": "7667",
+      "image_link": "https://www.centralsono.com/24083-googleshopping/base-screw-10mm-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/base-screw-10mm-elokance-7667.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Base Screw 10mm Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble bretelle Pro pour DJ ou Prestataire. Liaison en XLR F -Jack 6.35mm 1m. La marque Oyaide est réputée pour sa fiabilité !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@de8aa43e5d5fa8536cf23e54244476fa",
+      "id": "7662",
+      "image_link": "https://www.centralsono.com/24004-googleshopping/class-b-xlr-f-jack-1m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-xlr-f-jack-1m-oyaide-7662.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Class B XLR F - JACK 1m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble bretelle Pro pour DJ ou Prestataire. Liaison en XLR F -Jack 6.35mm 3m. La marque Oyaide est réputée pour sa fiabilité !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2ec0274c1774841e6820ad9339b81dbf",
+      "id": "7661",
+      "image_link": "https://www.centralsono.com/24003-googleshopping/class-b-xlr-f-jack-3m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-xlr-f-jack-3m-oyaide-7661.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "Class B XLR F - JACK 3m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble bretelle Pro pour DJ ou Prestataire. Liaison en XLR F -RCA 3m.La marque Oyaide est réputée pour sa fiabilité !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@229aeb9e2ae66f2fac1149e5240b2fdd",
+      "id": "7660",
+      "image_link": "https://www.centralsono.com/24002-googleshopping/class-b-xlr-f-rca-3m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-xlr-f-rca-3m-oyaide-7660.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "Class B XLR F - RCA 3m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble série Class B de la marque Japonaise Oyaide en XLR F XLR M 5m....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@58b4095fb5335282cc3fde57c643da38",
+      "id": "7659",
+      "image_link": "https://www.centralsono.com/24001-googleshopping/class-b-xlr-f-xlr-m-5m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-xlr-f-xlr-m-5m-oyaide-7659.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "Class B XLR F - XLR M 5m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble série Class B de la marque Japonaise Oyaide en XLR F XLR M 3m....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e77910ebb93b511588557806310f78f1",
+      "id": "7658",
+      "image_link": "https://www.centralsono.com/24000-googleshopping/class-b-xlr-f-xlr-m-3m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-xlr-f-xlr-m-3m-oyaide-7658.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "Class B XLR F - XLR M 3m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble série Class B de la marque Japonaise Oyaide en XLR F XLR M 2m....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@82674fc29bc0d9895cee346548c2cb5c",
+      "id": "7657",
+      "image_link": "https://www.centralsono.com/23999-googleshopping/class-b-xlr-f-xlr-m-2m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-xlr-f-xlr-m-2m-oyaide-7657.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Class B XLR F - XLR M 2m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble série Class B de la marque Japonaise Oyaide en Jack Jack Stéréo 3m....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0dd6049f5fa537d41753be6d37859430",
+      "id": "7656",
+      "image_link": "https://www.centralsono.com/23998-googleshopping/class-b-jack-jack-stereo-3m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-jack-jack-stereo-3m-oyaide-7656.html",
+      "price": 43.0,
+      "sale_price": null,
+      "title": "Class B Jack Jack Stéréo 3m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble série Class B de la marque Japonaise Oyaide en Jack Jack Stéréo 1m....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@572201a4497b0b9f02d4f279b09ec30d",
+      "id": "7655",
+      "image_link": "https://www.centralsono.com/23997-googleshopping/class-b-jack-jack-stereo-1m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-jack-jack-stereo-1m-oyaide-7655.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Class B Jack Jack Stéréo 1m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Amplifiée ABS 2 voies Professionnelle 15'' 1000W BoomToneDJ PRO15-DSP , 2 Entrée Micros, 2 entrées ligne et 1 sortie LINK XLR, Utilisable en Façade ou en Retour de scène, ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e2a7555f7cabd6e31aef45cb8cda4999",
+      "id": "7654",
+      "image_link": "https://www.centralsono.com/23984-googleshopping/pro15-dsp-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro15-dsp-boomtone-dj-7654.html",
+      "price": 319.0,
+      "sale_price": null,
+      "title": "PRO 15 DSP BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Amplifiée ABS 2 voies Professionnelle 12'' 1000W BoomToneDJ PRO12-DSP , 2 Entrée Micros, 2 entrées ligne et 1 sortie LINK XLR, Utilisable en Façade ou en Retour de scène, ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@68aea522760347926520bfa959f15240",
+      "id": "7653",
+      "image_link": "https://www.centralsono.com/23970-googleshopping/pro12-dsp-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro12-dsp-boomtone-dj-7653.html",
+      "price": 269.0,
+      "sale_price": null,
+      "title": "PRO12-DSP BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Amplifiée ABS 2 voies Professionnelle 10'' 600W BoomToneDJ PRO10-DSP , 2 Entrée Micros, 2 entrées ligne et 1 sortie LINK XLR, Utilisable en Façade ou en Retour de scène, l...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@341cd40532980c4909c8c647f2138c03",
+      "id": "7652",
+      "image_link": "https://www.centralsono.com/23956-googleshopping/pro10-dsp-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro10-dsp-boomtone-dj-7652.html",
+      "price": 219.0,
+      "sale_price": null,
+      "title": "PRO10-DSP BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La marque Japonaise Oyaide vous offre une qualité traitement de son et une rapidité d'exécution validée par les plus grands DJs ! Câble USB 3m....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e3eb4194278df0f91258632682d0ae92",
+      "id": "7633",
+      "image_link": "https://www.centralsono.com/23736-googleshopping/class-b-usb-3m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-usb-3m-oyaide-7633.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "Class B USB 3m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "R1, l'aboutissement d'années de conception de <em>sonorisation</em> portable. Son clair et puissant :145 Watts RMS",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@20754aeb165b7072f49615f07ab6122e",
+      "id": "7632",
+      "image_link": "https://www.centralsono.com/23734-googleshopping/ma-505r1-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-505r1-mipro-7632.html",
+      "price": 760.0,
+      "sale_price": 699.0,
+      "title": "MA 505R1 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sono portable MIPRO MA303 SB, parfaite pour des applications scolaires, réunions, séminaires, présentations. 1 récepteurs intégré compatibles avec ACT32H ou ACT32T, 60 WATTS / 2 vo...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@312ecfdfa8b239e076b114498ce21905",
+      "id": "7631",
+      "image_link": "https://www.centralsono.com/23723-googleshopping/ma-303sb-white-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-303sb-white-mipro-7631.html",
+      "price": 449.0,
+      "sale_price": null,
+      "title": "MA 303SB White Mipro",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

@@ -1,0 +1,566 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 55,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 37,
+            "key": "CentralSono Bordeaux"
+          },
+          {
+            "doc_count": 6,
+            "key": "Centralsono"
+          },
+          {
+            "doc_count": 2,
+            "key": "AFX Light"
+          },
+          {
+            "doc_count": 2,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 2,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 2,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 1,
+            "key": "AMIX"
+          },
+          {
+            "doc_count": 1,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 1,
+            "key": "EVOLITE"
+          },
+          {
+            "doc_count": 1,
+            "key": "Reloop"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "total": {
+        "value": 55
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 55,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 42,
+            "key": "Location"
+          },
+          {
+            "doc_count": 5,
+            "key": "Eclairage"
+          },
+          {
+            "doc_count": 5,
+            "key": "Mobilier LED"
+          },
+          {
+            "doc_count": 5,
+            "key": "Mobilier lumineux"
+          },
+          {
+            "doc_count": 5,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 2,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 2,
+            "key": "Location sono"
+          },
+          {
+            "doc_count": 2,
+            "key": "Pack Location"
+          },
+          {
+            "doc_count": 1,
+            "key": "DJ"
+          },
+          {
+            "doc_count": 1,
+            "key": "Enceinte"
+          },
+          {
+            "doc_count": 1,
+            "key": "Enceinte portable"
+          },
+          {
+            "doc_count": 1,
+            "key": "Limiteur de son"
+          },
+          {
+            "doc_count": 1,
+            "key": "Limiteur de son aux normes"
+          },
+          {
+            "doc_count": 1,
+            "key": "Location video"
+          },
+          {
+            "doc_count": 1,
+            "key": "Mixage"
+          },
+          {
+            "doc_count": 1,
+            "key": "Pack enceinte"
+          },
+          {
+            "doc_count": 1,
+            "key": "Pack enceinte amplifiée"
+          },
+          {
+            "doc_count": 1,
+            "key": "Pioneer pro DJ"
+          },
+          {
+            "doc_count": 1,
+            "key": "Produit arrêté"
+          },
+          {
+            "doc_count": 1,
+            "key": "Sono portable"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 2
+      },
+      "total": {
+        "value": 82
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 16.471493,
+  "page": 1,
+  "query": "location",
+  "query_counter": 8,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un Pack de 2 enceintes amplifiées 2000W haut de gamme, idéales pour vos soirées de 80 à 150 … GIGBAR 2.0 . -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2107931de60c5a7c5d526bd1d6a8a34d",
+      "id": "6385",
+      "image_link": "https://www.centralsono.com/16196-googleshopping/location-paire-d-enceintes-2000w.jpg",
+      "link": "https://www.centralsono.com/pack-location-son-lumiere-bordeaux/location-paire-d-enceintes-2000w-6385.html",
+      "price": 150.0,
+      "sale_price": null,
+      "title": "Location Pack Soirée",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un Pack de 2 enceintes amplifiées 2000W haut de gamme, idéales pour vos soirées de 80 à 150 … personnes. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@37d0b499fb84a552c17fcbb1442d7895",
+      "id": "3372",
+      "image_link": "https://www.centralsono.com/14960-googleshopping/location-paire-d-enceintes-2000w.jpg",
+      "link": "https://www.centralsono.com/location/location-paire-d-enceintes-2000w-3372.html",
+      "price": 100.0,
+      "sale_price": null,
+      "title": "Location paire d'enceintes 2000W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>LOCATION</em> VIDEOPROJECTEUR 4500 LUMENS sur Bordeaux et sa région. Grâce à sa puissance, convient parfaitement … D'Ornon), merci de bien lire les conditions de <em>location</em> ci-dessous.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@af1b5754061ebbd4412adfb34c8d3534",
+      "id": "3695",
+      "image_link": "https://www.centralsono.com/4464-googleshopping/location-videoprojecteur-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-videoprojecteur-bordeaux-3695.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "Location Vidéoprojecteur 4000 Lumens",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pioneer RMX-1000 sur Bordeaux / Gironde / 33",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6fd9a99a5abed788d9afc9d52d54e91b",
+      "id": "5836",
+      "image_link": "https://www.centralsono.com/12736-googleshopping/location-pioneer-rmx-1000-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-pioneer-rmx-1000-bordeaux-5836.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "Location Pioneer RMX-1000",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Système de sonorisation amplifié 4600W -> Voir les conditions obligatoires de <em>location</em> -> Comment",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@218ac3fe3df6ff2c8fe8f9353f1084f6",
+      "id": "5687",
+      "image_link": "https://www.centralsono.com/28647-googleshopping/location-sono-amplifiee-4600w.jpg",
+      "link": "https://www.centralsono.com/location/location-sono-amplifiee-4600w-5687.html",
+      "price": 200.0,
+      "sale_price": null,
+      "title": "Location Sono Amplifiée 4600W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Machine à fumée sur Bordeaux. Idéal pour mettre en valeur tous vos éclairages et votre piste … danse! -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@675be3930765f553975c0b140bbf0863",
+      "id": "5650",
+      "image_link": "https://www.centralsono.com/12135-googleshopping/location-machine-a-fumee-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-machine-a-fumee-bordeaux-5650.html",
+      "price": 25.0,
+      "sale_price": null,
+      "title": "Location Machine à fumée",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Micro de reprise d'ambiance -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@337cd73a31464dd4adfc3c5dbc356cd0",
+      "id": "5649",
+      "image_link": "https://www.centralsono.com/14831-googleshopping/location-micro-ambiance-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-micro-ambiance-bordeaux-5649.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Location Micro d'ambiance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> portique pour jeux de lumière sur Bordeaux et sa région. Matériel à retirer dans notre point … point de vente / <em>location</em> à Villenave d'Ornon (33140)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fe45e3227f3805b1314414203c4e5206",
+      "id": "6049",
+      "image_link": "https://www.centralsono.com/13926-googleshopping/location-portique-jeux-de-lumiere-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-portique-jeux-de-lumiere-bordeaux-6049.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "Location Portique Lumière",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "mariages et évènementiel. Matériel disponible à la <em>location</em> sur Bordeaux (Villenave d'Ornon)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@75877cb75154206c4e65e76b88a12712",
+      "id": "5885",
+      "image_link": "https://www.centralsono.com/13026-googleshopping/location-stroboscope-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-stroboscope-bordeaux-5885.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "Location Stroboscope Led",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "animations -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1b84c4cee2b8b3d823b30e2d604b1878",
+      "id": "6206",
+      "image_link": "https://www.centralsono.com/15002-googleshopping/location-systeme-yamaha-2500w.jpg",
+      "link": "https://www.centralsono.com/location-sono/location-systeme-yamaha-2500w-6206.html",
+      "price": 140.0,
+      "sale_price": null,
+      "title": "Location Système Yamaha 2500W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un support pour vidéoprojecteur réglable -> Voir les conditions obligatoires de <em>location</em> ->",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@03924fb32bcc6248036e209a716e3339",
+      "id": "6205",
+      "image_link": "https://www.centralsono.com/14994-googleshopping/location-support-videoprojecteur.jpg",
+      "link": "https://www.centralsono.com/location-video/location-support-videoprojecteur-6205.html",
+      "price": 20.0,
+      "sale_price": null,
+      "title": "Location Support vidéoprojecteur réglable",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Machine à brouillardsur Bordeaux. Idéal pour mettre en valeur tous vos éclairages et votre piste … danse! -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@de9621d4c6fa69ce8aaa90f00e9110c5",
+      "id": "6143",
+      "image_link": "https://www.centralsono.com/14604-googleshopping/location-machine-a-brouillard.jpg",
+      "link": "https://www.centralsono.com/location/location-machine-a-brouillard-6143.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "Location Machine à brouillard",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un Pack de 2 enceintes amplifiées + SUB 2500W haut de gamme + 1 Table de mixage 4 voies + … complet. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7298332f04ac004a0ca44cc69ecf6f6b",
+      "id": "6390",
+      "image_link": "https://www.centralsono.com/16248-googleshopping/location-pack-soiree-discotheque.jpg",
+      "link": "https://www.centralsono.com/pack-location-son-lumiere-bordeaux/location-pack-soiree-discotheque-6390.html",
+      "price": 350.0,
+      "sale_price": null,
+      "title": "Location Pack Soirée Discothèque",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un pupitre amplifié 100W. Idéal pour vos discours et conférences jusqu'à 150 personnes. -> … -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4eab60e55fe4c7dd567a0be28016bff3",
+      "id": "6389",
+      "image_link": "https://www.centralsono.com/16228-googleshopping/location-pupitre-discours-amplifie.jpg",
+      "link": "https://www.centralsono.com/location/location-pupitre-discours-amplifie-6389.html",
+      "price": 150.0,
+      "sale_price": null,
+      "title": "Location Pupitre discours amplifié",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pied de micro perche.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6b493230205f780e1bc26945df7481e5",
+      "id": "5635",
+      "image_link": "https://www.centralsono.com/11799-googleshopping/location-pied-de-micro-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-pied-de-micro-bordeaux-5635.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "Location Pied de micro perche",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Micro chant Shure SM58 sur Bordeaux -> Voir les conditions obligatoires de <em>location</em> -> Comment",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cb41f167917ec4b8d870a90c54afef7d",
+      "id": "5633",
+      "image_link": "https://www.centralsono.com/11797-googleshopping/location-shure-sm58-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-shure-sm58-bordeaux-5633.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Location Micro chant Shure SM58",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>LOCATION</em> ECRAN pour VIDEOPROJECTEUR 180cm x 180cm sur Bordeaux Parfait complément d'un vidéoprojecteur … évènementiel. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@95c9d994f8d75d4d60f8bb8f25902339",
+      "id": "3696",
+      "image_link": "https://www.centralsono.com/4465-googleshopping/location-ecran-videoprojecteur-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-ecran-videoprojecteur-bordeaux-3696.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "Location Ecran Video 180 x 180",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bordeaux. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dce8af15f064d1accb98887a21029b08",
+      "id": "3594",
+      "image_link": "https://www.centralsono.com/13024-googleshopping/location-enceinte-sono-portable-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-enceinte-sono-portable-bordeaux-3594.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "Location Sono Portable sur Batterie avec 1 micro sans fil + Bluetooth",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un Micro sans fil Shure SM58 UHF -> Voir les conditions obligatoires de <em>location</em> -> Comment",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cdd0500dc0ef6682fa6ec6d2e6b577c4",
+      "id": "3593",
+      "image_link": "https://www.centralsono.com/14444-googleshopping/location-micro-sans-fil-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-micro-sans-fil-bordeaux-3593.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "Location Micro sans fil Shure SM58 HF",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Laser 1 Watt Multicouleur RGB sur Bordeaux. -> Voir les conditions obligatoires de <em>location</em>",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0b33f2e8843e8b440dd8caf7086995b0",
+      "id": "5719",
+      "image_link": "https://www.centralsono.com/12137-googleshopping/location-laser-1w-multicouleur-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-laser-1w-multicouleur-bordeaux-5719.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "Location Laser 1Watt Multicouleur RGB",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Table de Mixage Yamaha MG06X 4 entrées + réverb. -> Voir les conditions obligatoires de location",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ae5eb824ef87499f644c3f11a7176157",
+      "id": "5656",
+      "image_link": "https://www.centralsono.com/11854-googleshopping/location-table-de-mixage-sono-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-table-de-mixage-sono-bordeaux-5656.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "Location Table de Mixage Sono 4 entrées + réverb",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Micro grosse caisse Shure PGA52.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@84f2798f05d595273de40e3046329309",
+      "id": "5648",
+      "image_link": "https://www.centralsono.com/11833-googleshopping/location-micro-batterie-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-micro-batterie-bordeaux-5648.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Location Micro Grosse Caisse Shure PGA52",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pack 2 lyres led SPOT 60W sur Bordeaux. -> Voir les conditions obligatoires de <em>location</em> -> Comment",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9219adc5c42107c4911e249155320648",
+      "id": "5646",
+      "image_link": "https://www.centralsono.com/11828-googleshopping/location-lyre-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-lyre-bordeaux-5646.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "Location 2 Lyres LED SPOT 60W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Projecteur Lumière noire UV Lampe 400W pour soirées fluos sur Bordeaux.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6f6d7ea73f8b34354a3ecc69f872abfd",
+      "id": "5645",
+      "image_link": "https://www.centralsono.com/14807-googleshopping/location-projecteur-lumiere-noire-neon-400w.jpg",
+      "link": "https://www.centralsono.com/location/location-projecteur-lumiere-noire-neon-400w-5645.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "Location Projecteur Lumière noire 400W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pack Wifi pour projecteurs leds -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8db1d4a631a6e9a24e2c0e842e1f1772",
+      "id": "5644",
+      "image_link": "https://www.centralsono.com/11822-googleshopping/location-dmx-sans-fil-wifi-par-led-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-dmx-sans-fil-wifi-par-led-bordeaux-5644.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "Location Pack Wifi pour projecteurs leds",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> 4 Projecteurs LED 12x12W SIX Couleurs (Blanc / Rouge / Vert / Bleu / Ambre / UV (Lumière noire) … réceptions! -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bee3d07327a21d8e7f02e10ba4b35c15",
+      "id": "5643",
+      "image_link": "https://www.centralsono.com/11821-googleshopping/location-4-projecteurs-par-led-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-4-projecteurs-par-led-bordeaux-5643.html",
+      "price": 100.0,
+      "sale_price": null,
+      "title": "Location 4 Projecteurs LED 12x12W SIX",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Projecteur led 12x12W SIX Couleurs (Blanc/Bleu/Rouge/Vert/Ambre& UV) de 140W LED sur Bordeaux",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@754c32eb39c6dfd8b7c97531a459937c",
+      "id": "5642",
+      "image_link": "https://www.centralsono.com/11819-googleshopping/location-projecteur-par-led-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-projecteur-par-led-bordeaux-5642.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "Location Projecteur led 12x12W hexacolore",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Multi-effets lumineux GIGBAR 2.0 pour vos soirées entre amis, anniversaire, mariage, sur Bordeaux … région. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@71d2d6ccac82f8a334937ff0fcdc0d8a",
+      "id": "5637",
+      "image_link": "https://www.centralsono.com/11802-googleshopping/location-jeux-de-lumieres-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-jeux-de-lumieres-bordeaux-5637.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "Location Jeu de lumière Soirée",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Micro instrument Shure SM57 -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@72bcba983cd3b0bf1d4251311d8b3772",
+      "id": "5634",
+      "image_link": "https://www.centralsono.com/11798-googleshopping/location-micro-instrument-shure-sm57-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-micro-instrument-shure-sm57-bordeaux-5634.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Location Micro instrument Shure SM57",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> paire d'enceintes pour vos soirées. PACK 600W pour prestations de 30 à 80 personnes. -> Voir … Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cacbf64b8a464fa1974da1eb0aa92851",
+      "id": "5631",
+      "image_link": "https://www.centralsono.com/14438-googleshopping/location-paire-enceintes-amplifiees-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-paire-enceintes-amplifiees-bordeaux-5631.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "Location paire d'enceintes 600W Amplifiées",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 55,
+  "total_found": 55
+}

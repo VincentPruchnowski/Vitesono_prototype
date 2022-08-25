@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Homepage</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Lato&family=Montserrat:wght@200;400&display=swap');
+
+        body {
+            background-color: #ddd;
+            font-size: 1.08rem;
+            color: #444;
+        }
+
+        .font-fredoka {
+            font-family: 'Fredoka', sans-serif;
+        }
+
+        .font-montserrat {
+            font-family: 'Montserrat', sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50">
+    <header class="sticky top-0 z-10">
+        <div class="flex items-center justify-between header-container bg-black py-3">
+            <div class="flex items-center px-4 py-2 text-2xl font-extrabold font-fredoka">
+                <span class="rounded-full bg-white text-gray-900 p-3 mr-3">VS</span>
+                <span class="text-yellow-400">VITE</span>
+                <span class="text-white">SONO</span>
+            </div>
+
+            <a href="/login"><button
+                    class="bg-yellow-400 uppercase font-montserrat font-bold text-xs px-5 py-2 rounded sm:mr-10 mb-1"
+                    type="button">login</button></a>
+        </div>
+    </header>
+
+    <main>
+        <section>
+            <div class="flex items-start text-center p-6 ml-4 mr-6 py-4 mt-4 rounded-xl relative -z-1 ">
+                <div class="lg:w-2/3 text-gray-200 pl-16">
+                    <label class="relative block">
+                        <span class="sr-only">Search</span>
+                        <span class="absolute inset-y-0 left-0 flex items-center pl-4">
+                            <svg class="text-gray-800 h-4 w-4 fill-current" xmlns="http://www.w3.org/2000/svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px"
+                                viewBox="0 0 56.966 56.966" style="enable-background: new 0 0 56.966 56.966"
+                                xml:space="preserve" width="512px" height="512px">
+                                <path
+                                    d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z" />
+                            </svg>
+                        </span>
+                        <input
+                            class="placeholder:italic placeholder:text-slate-400 block relative bg-white lg:w-1/2 border-2 border-gray-500 border-transparent opacity-50 rounded-md py-2 pl-9 mx-2 pr-3 shadow-sm focus:outline-none focus:border-sky-500 focus:ring-sky-500 focus:ring-1 sm:text-sm"
+                            placeholder="Search..." type="text" name="search" />
+                    </label>
+                </div>
+
+                <div class="lg:w-1/3 flex space-x-2 text-gray-700 justify-start">
+                    <div
+                        class="border-2 border-gray-500 border-transparent opacity-50 pt-2 bg-white rounded-md h-10 px-2 pr-2 text-sm focus:outline-none">
+                        <select name="categorySelect" id="categorySelect">
+                            <option value="0">Category</option>
+                            <option value="1">Sonorisation</option>
+                            <option value="2">Homestudio</option>
+                            <option value="3">Deejay</option>
+                            <option value="4">Musical instrument</option>
+                            <option value="5">Light</option>
+                            <option value="6">Video</option>
+                            <option value="7">Scene</option>
+                            <option value="8">Power system</option>
+                        </select>
+                    </div>
+
+                    <div
+                        class=" border-2 border-gray-500 border-transparent opacity-50 pt-2 bg-white rounded-md h-10 px-2 pr-2  text-sm focus:outline-none">
+                        <select name="typeSelect" id="typeSelect">
+                            <option value="0">Type</option>
+                            <option value="1">Speakers</option>
+                            <option value="2">Mixing consoles</option>
+                            <option value="3">Amplifiers</option>
+                            <option value="4">Microphones</option>
+                            <option value="5">Effects and peripherals</option>
+                            <option value="6">Sounding accessories</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Container Area A + Area B -->
+        <article>
+            <div class="flex mb-2 ml-2 mr-2 ">
+                <div class="lg:w-1/2 bg-white h-auto mx-2 mt-6 shadow-lg ">
+                    <div class="flex mb-4">
+                        <div
+                            class="lg:w-1/2 bg-gray-300 text-gray-600 h-12 inline-flex items-center justify-start font-semibold pl-4">
+                            <div>
+                                <a href="">Sonorisation</a> / <a href="">speakers</a>
+                            </div>
+                        </div>
+
+                        <!-- Tools bar -->
+                        <div class="w-1/2 bg-gray-200 h-12 flex items-center justify-end pr-4">
+
+                            <!-- Download picture -->
+                            <button class="hover:text-gray-400 text-gray-600 py-1 px-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm5 6a1 1 0 10-2 0v3.586l-1.293-1.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V8z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+
+                            <!-- Edit -->
+                            <button class=" hover:text-gray-400 text-gray-600 py-1 px-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path
+                                        d="M13.586 3.586a2 2 0 112.828 2.828l-.793.793-2.828-2.828.793-.793zM11.379 5.793L3 14.172V17h2.828l8.38-8.379-2.83-2.828z" />
+                                </svg>
+                            </button>
+                        </div>
+
+                        <!-- Save -->
+                        <button class="flex-1 hover:text-gray-400 text-gray-600 bg-gray-300  py-1 px-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20"
+                                fill="currentColor">
+                                <path
+                                    d="M7.707 10.293a1 1 0 10-1.414 1.414l3 3a1 1 0 001.414 0l3-3a1 1 0 00-1.414-1.414L11 11.586V6h5a2 2 0 012 2v7a2 2 0 01-2 2H4a2 2 0 01-2-2V8a2 2 0 012-2h5v5.586l-1.293-1.293zM9 4a1 1 0 012 0v2H9V4z" />
+                            </svg>
+                        </button>
+
+                    </div>
+
+                    <!-- Reference + Logo -->
+                    <div class="flex mb-4">
+                        <div class="lg:w-1/2 lg:flex">
+                            <div class=" bg-white lg:shrink-0">
+                                <div class="font-bold items-center justify-center ml-28 mt-4">
+                                    <span class="text-lg lg:text-left">ART 725 MK4</span>
+                                    <img class="ml-4 mt-8 lg:48 lg:h-full" src="assets/img/maker/rcf_logo.png"
+                                        height="66" width="66" alt="maker_logo" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="w-1/2">
+                            <!-- Left sm arrow -->
+                            <div class=" bg-white inline-flex items-center justify-center">
+                                <div class=" h-24 text-right pt-10">
+                                    <button class="hover:text-gray-400 text-gray-600 py-2 px-4">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20"
+                                            fill="currentColor">
+                                            <path fill-rule="evenodd"
+                                                d="M9.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L7.414 9H15a1 1 0 110 2H7.414l2.293 2.293a1 1 0 010 1.414z"
+                                                clip-rule="evenodd" />
+                                        </svg>
+                                    </button>
+                                </div>
+
+                                <!-- Img -->
+                                <div class="lg:h-full lg:w-38">
+                                    <img class="hiddenSpeaker"
+                                        src="assets/img/sonorisation/speakers/RCF/art-708-a-mk-4.jpg" alt="Speaker"
+                                        id="test1" />
+                                </div>
+
+                                <!-- Right sm arrow -->
+                                <div class=" h-24 pt-10">
+                                    <button class="hover:text-gray-400 text-gray-600 py-2 px-4">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 20 20"
+                                            fill="currentColor">
+                                            <path fill-rule="evenodd"
+                                                d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z"
+                                                clip-rule="evenodd" />
+                                        </svg>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Description -->
+                    <div class="flex ">
+
+                        <!-- Translate -->
+                        <!-- <div class="bg-gray-200">
+                            <button
+                                class=" hover:text-gray-400 text-gray-600 bg-gray-300 py-1 px-2 h-12 flex items-center justify-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path stroke-linecap="round" stroke-linejoin="round"
+                                        d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+                                </svg>
+                            </button>
+                        </div> -->
+
+                        <div class="bg-gray-200">
+                            <select
+                                class=" hover:text-gray-400 text-gray-600 bg-gray-300 font-bold py-1 px-2 h-12 flex items-center justify-center">
+                                <option value="0">Translate</option>
+                                <option value="1">French</option>
+                                <option value="2">English</option>
+                                <option value="3">Spanish</option>
+                            </select>
+                        </div>
+
+                        <div
+                            class="lg:w-full inline-flex items-center justify-center pt-14 pb-14 font-medium bg-gray-200">
+                            <div>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+                                    voluptates alias commodi provident ab, <br />
+                                    quibusdam ipsum veritatis fugit dicta explicabo. Reiciendis,
+                                    nobis. <br />
+                                    Earum at possimus quisconsequatur dicta, odit placeat.
+                                </p>
+                                <br>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+                                    voluptates alias commodi provident ab, <br />
+                                    quibusdam ipsum veritatis fugit dicta explicabo. Reiciendis,
+                                    nobis. <br />
+                                    Earum at possimus quisconsequatur dicta, odit placeat.
+                                </p>
+                                <br>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+                                    voluptates alias commodi provident ab, <br />
+                                    quibusdam ipsum veritatis fugit dicta explicabo. Reiciendis,
+                                    nobis. <br />
+                                    Earum at possimus quisconsequatur dicta, odit placeat.
+                                </p>
+                            </div>
+                        </div>
+
+                        <!-- Tools description -->
+                        <div class="bg-gray-200   ">
+                            <!-- Lock -->
+                            <button
+                                class=" hover:text-gray-400 text-gray-600 bg-gray-300 py-1 px-2 h-12 flex items-center justify-center ">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- AreaB -->
+                <div class="lg:w-1/2 mt-6 bg-white mx-1 shadow-lg font-semibold">
+                    <div class="flex">
+                        <div class="w-1/2 bg-gray-300 h-12 inline-flex items-center justify-start p-1">
+
+                            <!-- Dots -->
+                            <!-- <button class=" hover:text-gray-400 text-gray-600 py-1 px-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path
+                                        d="M10 6a2 2 0 110-4 2 2 0 010 4zM10 12a2 2 0 110-4 2 2 0 010 4zM10 18a2 2 0 110-4 2 2 0 010 4z" />
+                                </svg>
+                            </button> -->
+
+                            <!-- Delete -->
+                            <button class=" hover:text-gray-400 text-gray-600 py-1 px-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M9 2a1 1 0 00-.894.553L7.382 4H4a1 1 0 000 2v10a2 2 0 002 2h8a2 2 0 002-2V6a1 1 0 100-2h-3.382l-.724-1.447A1 1 0 0011 2H9zM7 8a1 1 0 012 0v6a1 1 0 11-2 0V8zm5-1a1 1 0 00-1 1v6a1 1 0 102 0V8a1 1 0 00-1-1z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+
+                            <!-- Add new product -->
+                            <button class="hover:text-gray-400 text-gray-600 py-1 px-2 ">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20"
+                                    fill="currentColor">
+                                    <path fill-rule="evenodd"
+                                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </button>
+                        </div>
+
+                        <div
+                            class="w-1/2 hover:text-gray-400 bg-gray-200 h-12 inline-flex items-center font-bold justify-end pr-4">
+
+                            <!-- Pagination -->
+                            <div class="hover:text-gray-400 text-gray-600 text-center ">
+                                <button class="font-bold">1-12 of 32</button>
+                            </div>
+
+                            <!-- Chevron left -->
+                            <button class=" hover:text-gray-400 text-gray-600 py-1 px-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+                                </svg>
+                            </button>
+
+                            <!-- Chevron right -->
+                            <button class=" hover:text-gray-400 text-gray-600 py-1 px-2">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                                    stroke="currentColor" stroke-width="2">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Table -->
+                    <div class="flex flex-col">
+                        <div class="overflow-x-auto ">
+                            <div class="inline-block min-w-full align-middle ">
+                                <div class="overflow-hidden ">
+                                    <table
+                                        class="min-w-full divide-y divide-gray-200 table-fixed dark:divide-gray-700 ">
+                                        <tbody
+                                            class="bg-white divide-y divide-gray-200 dark:bg-gray-800 dark:divide-gray-700">
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-1" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-1" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    ART 708-A MK
+                                                    4</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-2" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-2" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    SUB 705-AS
+                                                    II</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-3" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-3" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    ART 710-A MK
+                                                    4</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-4" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-4" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    ART 712 A MK
+                                                    4</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    ART 715-A MK
+                                                    4</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    ART 725
+                                                    MK4</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    SUB 905-AS
+                                                    II</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    AYRA PRO
+                                                    8</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    AYRA PRO
+                                                    5</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    AYRA PRO
+                                                    6</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    NX 10 SMA</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700">
+                                                <td class="p-4 w-4">
+                                                    <div class="flex items-center">
+                                                        <input id="checkbox-table-5" type="checkbox"
+                                                            class="w-4 h-4 text-blue-600 bg-gray-100 rounded border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                                        <label for="checkbox-table-5" class="sr-only">checkbox</label>
+                                                    </div>
+                                                </td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    SUB 8003-AS
+                                                    II</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-500 whitespace-nowrap dark:text-white">
+                                                    RCF</td>
+                                                <td
+                                                    class="py-4 px-6 text-sm font-medium text-gray-900 whitespace-nowrap dark:text-white">
+                                                    Speakers</td>
+                                            </tr>
+                                            <tr class="hover:bg-gray-100 dark:hover:bg-gray-700"></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </article>
+    </main>
+
+    <footer>
+        <div class="absolute w-full">
+            <div class="bg-black flex px-9 mx-auto pt-4 text-white font-semibold">
+                <div class="lg:w-1/4  h-24">Efficiel Technologie<br> SAS</div>
+                <div class="lg:w-1/4  h-24">
+                    <a href="">About us</a><br />
+                    <a href="">Legal notice</a><br />
+                </div>
+                <div class="lg:w-1/4  h-24">
+                    <a href="">Terms & Condition</a><br />
+                    <a href="">Privacy Policy</a>
+                </div>
+                <div class="lg:w-1/4  h-24">
+                    <a href="">Contact us</a>
+                </div>
+                <div class="lg:w-1/4  mt-12 h-12">
+                    © 2022 VITESONO. All rights reserved.
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

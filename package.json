@@ -1,0 +1,35 @@
+{
+  "name": "vitesono",
+  "version": "0.0.1",
+  "description": "vitesono",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run start:nginx\" \"npm run start:api:dev\" \"npm run app.sys:dev\" ",
+    "build": "cd app.sys.svelte && npm run build",
+    "setup": "node setup.mjs && npm install && npm audit fix && cd app.sys.svelte && npm install && npm audit fix",
+    "app.sys:dev": "cd app.sys.svelte && npm run dev",
+    "proto:dev": "browser-sync start --server 'proto' --files 'proto' --port 5000",
+    "db:init": "Deno run --import-map=./import-map.json --allow-read --allow-write ./db.import.ts",
+    "start:api:dev": "Deno run --import-map=./import-map.json --allow-read --allow-write --allow-net=0.0.0.0:8000 --watch ./api.dev/api.dev.index.ts",
+    "start:api:debug": "Deno run --inspect --import-map=./import-map.json --allow-read --allow-write --allow-net=0.0.0.0:8000 ./api.dev/api.dev.index.ts",
+    "start:nginx": "cd ./nginx.dev/nginx-1.20.2 && .\\nginx.exe",
+    "stop:nginx": "cd ./nginx.dev/nginx-1.20.2 && .\\nginx.exe -s quit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "drk@195.154.114.15:/home/vsn/git_d/vitesono.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.26.1",
+    "browser-sync": "^2.27.7",
+    "concurrently": "^7.0.0",
+    "prettier": "^2.6.1",
+    "prettier-plugin-svelte": "^2.6.0"
+  }
+}

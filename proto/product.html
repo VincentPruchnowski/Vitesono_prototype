@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Products</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/product.css" />
+</head>
+
+<body>
+  <!-- Logo + Welcome -->
+  <header>
+    <div class="container">
+      <span class="logo">
+        VS
+      </span>
+      <span class="vite">VITE</span>
+      <span class="sono">SONO</span>
+      <div class="flex-item02">Administration - Welcome, identifiant</div>
+      <div class="flex-item03">
+        <form method="post" action="Logout">
+          <input type="submit" value="Logout" />
+        </form>
+      </div>
+    </div>
+  </header>
+
+  <!-- Title -->
+  <h1 class="title">Product edit</h1>
+
+  <!-- Navbar column -->
+  <div class="container-column">
+    <nav>
+      <ul class="navbar">
+        <li><a class="active" href="../../login.html"><i class="fa fa-fw fa-user"></i> Login</a>
+        <li><a class="active" href="../../app.sys.html"><i class="fa fa-fw fa-user"></i> App.sys</a>
+        <li><a class="active" href="../../index.html"><i class="fa fa-fw fa-home"></i> History</a>
+        <li><a class="active" href="../../search.html"><i class="fa fa-fw fa-search"></i> Search</a>
+        <li><a class="active" href="../../search_test.html"><i class="fa fa-fw fa-search"></i> Search_test</a>
+        <li><a class="active" href="../../product.html"><i class="fa fa-fw fa-product-hunt"></i> Product</a>
+        <li><a class="active" href="../../module.html"><i class="fa fa-fw fa-sticky-note"></i> Module</a>
+        <li><a class="active" href="../../contact.html"><i class="fa fa-fw fa-envelope"></i> Contact</a>
+        <li><a class="active" href="../../settings.html"><i class="fa fa-fw fa-cog"></i> Settings</a>
+      </ul>
+    </nav>
+  </div>
+
+  <main>
+    <!-- Information fiche -->
+    <div class="conteneur-flexible colonne stretch-sec">
+      <div class="element-flexible">
+        <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-725-mk4.jpg" height="184px"
+          width="178px" alt="Speaker" id="test5" />
+        <p>ART 725 MK4</p>
+        <img src="assets/img/maker/rcf_logo.png" height="46" width="46" alt="maker_logo" />
+      </div>
+      <div class="element-flexible02">
+        Description
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+          voluptates alias commodi provident ab, quibusdam ipsum veritatis
+          fugit dicta explicabo. Reiciendis, nobis. <br />
+          Earum at possimus quisconsequatur dicta, odit placeat.
+        </p>
+      </div>
+    </div>
+    </div>
+
+    <!-- Data mapping -->
+    <aside>
+      <h2 class="subtitle">Data mapping</h2>
+      <div class="container-modification">
+        <!-- Product -->
+        <div class="container-product">
+          <div class="itemP"><strong>Product</strong></div>
+          <div class="item">
+            <p>Reference</p><input type="text" value="product_name">
+          </div>
+          <div class="item">
+            <p>Description<br>
+              <!-- Rounded switch -->
+              <label class="switch">
+                <input type="checkbox">
+                <span class="slider round"></span>
+              </label>
+            </p><input class="prdct" type="text" value=" description switch FR / EN ">
+          </div>
+          <p class="itemM">Media <br>.csv, .xml, .png, .jpg</p>
+          <div class="media">
+            <div class="item">
+              <p>Document</p><a href="path_to_file" download="proposed_file_name">Import</a>
+            </div>
+            <div class="item">
+              <p>logo</p><a href="path_to_file" download="proposed_file_name">Import</a>
+            </div>
+          </div>
+          <div class="save-button">
+            <button class="product-save" type="button">Save</button>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </main>
+  <!-- Footer -->
+  <footer>
+    <!-- Credits -->
+    <div class="container02">
+      <div class="items">
+        <p>VITESONO</p>
+        <br />
+        Version 1.0
+      </div>
+
+      <!-- Pagination -->
+      <ul class="pagination">
+        <li class="page-item"><a class="page-link" href="#">1</a></li>
+        <li class="page-item"><a class="page-link">of</a></li>
+        <li class="page-item"><a class="page-link" href="#">1</a></li>
+      </ul>
+    </div>
+  </footer>
+</body>
+
+</html>

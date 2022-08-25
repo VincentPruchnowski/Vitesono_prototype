@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 5,
+  "query": "sonorisation",
+  "query_counter": 7,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "2 x 450W RMS/8 Ohms, 2 x 700W RMS/4Ohms. Utilisation en Bridge Possible : 1 x 1400W / 8Ohms. Le HPA B1500 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) dans un cof...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@58c2ac6f92a1c369e00bcb3a28af2d18",
+      "id": "6986",
+      "image_link": "https://www.centralsono.com/19491-googleshopping/b1500-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/b1500-hpa-6986.html",
+      "price": 419.0,
+      "sale_price": null,
+      "title": "B1500 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Élément indispensable en studio pour éviter la transmission des vibration vers le micro. La suspension APEX IMC 3 est en deux parties avec élastiques de support. Pour micro APEX 43...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@219e052492f4008818b8adb6366c7ed6",
+      "id": "6985",
+      "image_link": "https://www.centralsono.com/19490-googleshopping/imc-3-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/imc-3-apex-electronics-6985.html",
+      "price": 18.0,
+      "sale_price": null,
+      "title": "IMC 3 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête dynamique cardioïde APEX 370. Optimisé pour utilisation rapprochée, il est idéal pour les applications où il y a besoin d'une entière liberté de mouvement, chanteu...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d6539d3b57159babf6a72e106beb45bd",
+      "id": "6984",
+      "image_link": "https://www.centralsono.com/19489-googleshopping/370-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/370-apex-electronics-6984.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "370 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Attache murale pour enceinte J8 de FBT...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4edb2dc80889b1aec708ec4730f22387",
+      "id": "6980",
+      "image_link": "https://www.centralsono.com/19476-googleshopping/sj-8u-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sj-8u-fbt-6980.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "SJ-8U FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Subwoofer Bois 1200W. HP 15'' aimant néodyme. Bande passante 38-120Hz. SPL max 132dB....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@29c0605a3bab4229e46723f89cf59d83",
+      "id": "6968",
+      "image_link": "https://www.centralsono.com/19381-googleshopping/promaxx-15sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-15sa-fbt-6968.html",
+      "price": 1345.0,
+      "sale_price": null,
+      "title": "ProMaxX 15Sa FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour AMICO 1000, 900, 500 et 400. FBT V44,...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b440369bceb6aecbd0ffa5b66301ca66",
+      "id": "6967",
+      "image_link": "https://www.centralsono.com/19380-googleshopping/v44-housse-pour-amico-10-usb-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v44-housse-pour-amico-10-usb-fbt-6967.html",
+      "price": 70.0,
+      "sale_price": null,
+      "title": "V44 housse pour Amico 10 USB FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Ensemble de <em>sonorisation</em> portatif de 800 watts RMS, FBT AMICO 10 USB. un caisson de Basse en 15'' (38cm)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dba4c1a117472f6aca95211285d0587e",
+      "id": "6966",
+      "image_link": "https://www.centralsono.com/19377-googleshopping/amico-10-usb-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/amico-10-usb-fbt-6966.html",
+      "price": 1795.0,
+      "sale_price": null,
+      "title": "AMICO 10 USB FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro pour le Chant et instruments de type Dynamique. APEX 381 Capsule au Néodyme, câble fourni....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@366ce3dedb69b786dae1aa8d75e4e765",
+      "id": "6964",
+      "image_link": "https://www.centralsono.com/19374-googleshopping/381-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/381-apex-electronics-6964.html",
+      "price": 89.0,
+      "sale_price": null,
+      "title": "381 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro dynamique pour le chant et instruments APEX Electronics 950. Interrupteur ON/OFF, Câble fourni....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6f5e4e86a87220e5d361ad82f1ebc335",
+      "id": "6963",
+      "image_link": "https://www.centralsono.com/19368-googleshopping/950-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/950-apex-electronics-6963.html",
+      "price": 25.0,
+      "sale_price": null,
+      "title": "950 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro dynamique pour le chant et instruments APEX Electronics 750. Interrupteur d'impédance Low/High, Câble fourni....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d347df3d73566108aa6d1b5d37b59703",
+      "id": "6960",
+      "image_link": "https://www.centralsono.com/19364-googleshopping/750-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/750-apex-electronics-6960.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "750 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Mixeur 8 entrées micro (XLR)/ligne (Jack) avec gain, alim. fantôme et EQ 2 bandes par voie - Sorties directes...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@481263854facf41a2f8a64a21956d87b",
+      "id": "6959",
+      "image_link": "https://www.centralsono.com/19354-googleshopping/mx-821-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mx-821-art-6959.html",
+      "price": 255.0,
+      "sale_price": null,
+      "title": "MX 821 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Mixeur 6 entrées (3 XLR micro + 3 RCA ligne) , Gain/canal et alim fantôme indiv.+1 aux. (FX) + EQ 2 bandes. Permet de combiner jusqu'à 6 sources....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@27e9661e033a73a6ad8cefcde965c54d",
+      "id": "6958",
+      "image_link": "https://www.centralsono.com/19348-googleshopping/mx-622-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mx-622-art-6958.html",
+      "price": 189.0,
+      "sale_price": null,
+      "title": "MX 622 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Mixeur/Zoner ART. 5 zones comprenant 2 sources (entrées commutable.stéréo/mono) par zone avec contrôle...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6fd86e0ad726b778e37cf270fa0247d7",
+      "id": "6957",
+      "image_link": "https://www.centralsono.com/19344-googleshopping/mx-225-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mx-225-art-6957.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "MX 225 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 80 watts / 8 ohms et 2 x 150 watts en 4 Ohms pour cet ampli en classe D ultra plat en 1U HPA D300. Refroidissement par dissipateur et possible d'utilisation en Bridge 1 x 300W ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5e34a2b4c23f4de585fb09a7f546f527",
+      "id": "6953",
+      "image_link": "https://www.centralsono.com/19303-googleshopping/d300-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/d300-hpa-6953.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "D300 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 130 watts / 8 ohms et 2 x 250 watts en 4 Ohms pour cet ampli en classe D ultra plat en 1U HPA D500. Refroidissement par dissipateur et possible d'utilisation en Bridge 1 x 500W...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a61f27ab2165df0e18cc9433bd7f27c5",
+      "id": "6952",
+      "image_link": "https://www.centralsono.com/19286-googleshopping/d500-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/d500-hpa-6952.html",
+      "price": 269.0,
+      "sale_price": null,
+      "title": "D500 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Compresseur optique à lampe professionnel deux canaux....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@99f0e91e4f90ecc1c3bdee598eadca30",
+      "id": "6950",
+      "image_link": "https://www.centralsono.com/19257-googleshopping/pro-vla-ii-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro-vla-ii-art-6950.html",
+      "price": 499.0,
+      "sale_price": null,
+      "title": "PRO VLA-II Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La MA 808EXP est l'enceinte passive du MIRPO MA808B ou PAD 250 Watts/8 Ohms...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f3be5eb7ff15f2013a3b65fbca4bf864",
+      "id": "6949",
+      "image_link": "https://www.centralsono.com/34450-googleshopping/ma-808exp-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-808exp-mipro-6949.html",
+      "price": 536.0,
+      "sale_price": 499.0,
+      "title": "MA 808EXP Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Sonorisation</em> Portable Haute Qualité, esclave de la MA 708PA ou PAD, Enceinte Passive...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ff7a2112f8c3e3224ce8e3e26de1d932",
+      "id": "6948",
+      "image_link": "https://www.centralsono.com/19247-googleshopping/ma-708exp-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-708exp-mipro-6948.html",
+      "price": 413.0,
+      "sale_price": 399.0,
+      "title": "MA 708EXP Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Transport Deluxe pour Sono Mipro MA 808...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a424ded436368e3f9f10da14c23acc85",
+      "id": "6947",
+      "image_link": "https://www.centralsono.com/19246-googleshopping/sc80-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sc80-mipro-6947.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "SC80 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tweeter a compression a Ogive de type ''Bullet'' B&C DE35 de 50W AES avec Diaphragme de 1,25'' (35mm) Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6ea3f1874b188558fafbab78e8c3a968",
+      "id": "6946",
+      "image_link": "https://www.centralsono.com/19244-googleshopping/de-35-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-35-b-and-c-6946.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "DE 35 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Transport Deluxe pour Sono Mipro MA 708...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6a783b626a6d892a132dc195e5504272",
+      "id": "6943",
+      "image_link": "https://www.centralsono.com/19202-googleshopping/sc75-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sc75-mipro-6943.html",
+      "price": 52.0,
+      "sale_price": null,
+      "title": "SC75 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Préampli haut de gamme 2 canaux à lampes 12AX7, le ART PRO MPA II dispose d'un matricage en stéréo Mid Sid....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c236337b043acf93c7df397fdb9082b3",
+      "id": "6942",
+      "image_link": "https://www.centralsono.com/19193-googleshopping/pro-mpa-ii-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro-mpa-ii-art-6942.html",
+      "price": 529.0,
+      "sale_price": null,
+      "title": "PRO MPA II Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boîtier de direct de scène actif, très pratique, Préampli Eletcronique...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@aad64398a969ec3186800d412fa7ab31",
+      "id": "6941",
+      "image_link": "https://www.centralsono.com/19184-googleshopping/xdirect-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xdirect-art-6941.html",
+      "price": 50.0,
+      "sale_price": 43.0,
+      "title": "XDirect Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boitier DI passif ART ZDIRECT, idéal pour symétriser votre signal ! Egalement pratique pour adapter l'impédance....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f75b757d3459c3e93e98ddab7b903938",
+      "id": "6940",
+      "image_link": "https://www.centralsono.com/19173-googleshopping/zdirect-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/zdirect-art-6940.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "ZDirect Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "4 x 200W RMS/8 Ohms, 2 x 300W RMS/4Ohms, Utilisation en Bridge Possible 2 voies par 2 : 600W / 8Ohms. Le HPA QA4300 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) d...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f056bfa71038e04a2400266027c169f9",
+      "id": "6939",
+      "image_link": "https://www.centralsono.com/19163-googleshopping/qa4300-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/qa4300-hpa-6939.html",
+      "price": 600.0,
+      "sale_price": 529.0,
+      "title": "QA4300 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "4 x 100W RMS/8 Ohms, 2 x 150W RMS/4Ohms, Utilisation en Bridge Possible 2 voies par 2 : 300W / 8Ohms. Le HPA QA4150 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) d...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@33cf42b38bbcf1dd6ba6b0f0cd005328",
+      "id": "6938",
+      "image_link": "https://www.centralsono.com/19157-googleshopping/qa4150-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/qa4150-hpa-6938.html",
+      "price": 519.0,
+      "sale_price": 449.0,
+      "title": "QA4150 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 700W RMS/8 Ohms, 2 x 1100W RMS/4Ohms, 2 x 1600W RMS/2Ohms. Utilisation en Bridge Possible : 1 x 3200W / 4Ohms. Le HPA A3200 propose 3 mode de fonctionnement (stéréo, parallèle ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4a300d3a0ae99b58b0dfcd3fde526bf5",
+      "id": "6936",
+      "image_link": "https://www.centralsono.com/19148-googleshopping/a3200-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/a3200-hpa-6936.html",
+      "price": 699.0,
+      "sale_price": null,
+      "title": "A3200 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 600W RMS/8 Ohms, 2 x 900W RMS/4Ohms, 2 x 1400W RMS/2Ohms. Utilisation en Bridge Possible : 1 x 2800W / 4Ohms. Le HPA A2800 propose 3 mode de fonctionnement (stéréo, parallèle e...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ccce2fab7336b8bc8362d115dec2d5a2",
+      "id": "6935",
+      "image_link": "https://www.centralsono.com/19144-googleshopping/a2800-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/a2800-hpa-6935.html",
+      "price": 750.0,
+      "sale_price": 649.0,
+      "title": "A2800 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 500W RMS/8 Ohms, 2 x 750W RMS/4Ohms, 2 x 1200W RMS/2Ohms. Utilisation en Bridge Possible : 1 x 2400W / 4Ohms. Le HPA A2400 propose 3 mode de fonctionnement (stéréo, parallèle e...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@10ffbba2ec9025b945acc154f3403aec",
+      "id": "6934",
+      "image_link": "https://www.centralsono.com/19139-googleshopping/a2400-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/a2400-hpa-6934.html",
+      "price": 685.0,
+      "sale_price": 599.0,
+      "title": "A2400 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 400W RMS/8 Ohms, 2 x 600W RMS/4Ohms, 2 x 900W RMS/2Ohms. Utilisation en Bridge Possible : 1 x 1800W / 4Ohms. Le HPA A1800 propose 3 mode de fonctionnement (stéréo, parallèle et...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ef2ee09ea9551de88bc11fd7eeea93b0",
+      "id": "6933",
+      "image_link": "https://www.centralsono.com/19133-googleshopping/a1800-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/a1800-hpa-6933.html",
+      "price": 600.0,
+      "sale_price": 499.0,
+      "title": "A1800 HPA",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

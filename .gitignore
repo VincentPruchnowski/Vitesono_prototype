@@ -1,0 +1,9 @@
+README.html
+README.architecture.html
+doc/Vitesono.pdf
+
+logs
+package-lock.json
+node_modules
+
+sqlite.db

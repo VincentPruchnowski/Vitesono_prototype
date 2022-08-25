@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 13,
+  "query": "sonorisation",
+  "query_counter": 15,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Micro HF Main BoomToneDJ VHF 10M F5, commutateur ON/OFF sur le micro, sortie XLR, idéal pour discours, animations, discomobiles......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c7b03782920d35145eb4c97556d194a3",
+      "id": "7311",
+      "image_link": "https://www.centralsono.com/21929-googleshopping/vhf-10m-f5-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10m-f5-boomtone-dj-7311.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10M F5 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la EPRO COVER 18 SUB pour l'enceinte EPRO SUB 18 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c923d8f64e256dde7c28bf1614d53602",
+      "id": "7308",
+      "image_link": "https://www.centralsono.com/21883-googleshopping/epro-cover-18-sub-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-cover-18-sub-elokance-7308.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "EPRO COVER 18 SUB Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la EPRO COVER 15 SUB pour l'enceinte EPRO SUB 15 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a1a527267c0d33a86382a03c4c721cd2",
+      "id": "7307",
+      "image_link": "https://www.centralsono.com/21882-googleshopping/epro-cover-15-sub-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-cover-15-sub-elokance-7307.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "EPRO COVER 15 SUB Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la EPRO COVER 15 pour l'enceinte EPRO 15 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a523426cc585745318d5f6d91a9c0706",
+      "id": "7306",
+      "image_link": "https://www.centralsono.com/21881-googleshopping/epro-cover-15-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-cover-15-elokance-7306.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "EPRO COVER 15 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la EPRO COVER 12 pour l'enceinte EPRO 12 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@588da7a73a2e919a23cb9a419c4c6d44",
+      "id": "7305",
+      "image_link": "https://www.centralsono.com/21880-googleshopping/epro-cover-12-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-cover-12-elokance-7305.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "EPRO COVER 12 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tube de couplage télescopique ajustable, hauteur réglable de 85 à 130 cm, charge maximale de 50 kgs...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d9437926cc8d785a7bdb8578fd85d8e3",
+      "id": "7302",
+      "image_link": "https://www.centralsono.com/21868-googleshopping/sp-m20-tube-couplage-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sp-m20-tube-couplage-boomtone-dj-7302.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "SP M20 Tube Couplage BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sono portable MIPRO MA303 SB, parfaite pour des applications scolaires, réunions, séminaires, présentations. 1 récepteur intégré compatible avec ACT32H ou ACT32T, 60 WATTS / 2 voie...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9c779f56f336b3c812343434f57b6a0e",
+      "id": "7301",
+      "image_link": "https://www.centralsono.com/21858-googleshopping/ma-303sb-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-303sb-mipro-7301.html",
+      "price": 399.0,
+      "sale_price": null,
+      "title": "MA 303SB Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Une solution 3 en 1 ! Micros HF Main, Serre-Tête et Cravate BoomToneDJ VHF ONE S MHL, Portée 80 mètres, commutateur MUTE et ON/OFF sur le micro, sortie sur Jack 6.35mm, idéal pour ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f953ad57910572bd6803da3faaa6e92b",
+      "id": "7295",
+      "image_link": "https://www.centralsono.com/21748-googleshopping/vhf-one-s-mhl-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-one-s-mhl-boomtone-dj-7295.html",
+      "price": 109.0,
+      "sale_price": 69.0,
+      "title": "VHF ONE S MHL BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro HF Serre-Tête/cravate BoomToneDJ VHF ONE S HL, portée 80 mètres, commutateur MUTE et ON/OFF sur le micro, sortie sur Jack 6.35mm, idéal pour discours, animations......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bc047286b224b7bfa73d4cb02de1238d",
+      "id": "7294",
+      "image_link": "https://www.centralsono.com/21741-googleshopping/vhf-one-s-hl-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-one-s-hl-boomtone-dj-7294.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "VHF ONE S HL BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro HF Main BoomToneDJ VHF ONE S M, portée 80 mètres, commutateur MUTE et ON/OFF sur le micro, sortie sur Jack 6.35mm, idéal pour discours, animations, karaoké en famille......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7d91786c01b3931e8d94baf248608979",
+      "id": "7293",
+      "image_link": "https://www.centralsono.com/21728-googleshopping/vhf-one-s-m-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-one-s-m-boomtone-dj-7293.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "VHF ONE S M BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flexible de 47cm monté sur embase de table avec commutateur On/Off. Le APEX 146 est un micro col de cygne de type dynamique à directivité Cradioïde...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8e50baf642bd6685e593bf238aa27051",
+      "id": "7286",
+      "image_link": "https://www.centralsono.com/21689-googleshopping/146-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/146-apex-electronics-7286.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "146 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Embase de 20mm type manchon avec 4 trous de fixation, pour permettre à vos enceintes de se mettre sur pied ! filetage 20mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@78ccad7da4c2fc2646d1848e965794c5",
+      "id": "7285",
+      "image_link": "https://www.centralsono.com/21687-googleshopping/ps-020-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ps-020-boomtone-dj-7285.html",
+      "price": 6.0,
+      "sale_price": null,
+      "title": "PS-020 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Lecteur enregistreur DPM3 pour Sonoportable Mipro MA 505 / 708 ou 808...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ac450d10e166657ec8f93a1b65ca1b14",
+      "id": "7284",
+      "image_link": "https://www.centralsono.com/21675-googleshopping/dpm-3-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dpm-3-mipro-7284.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "DPM 3 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte ABS professionnelle amplifiée 2 voies 8'' 100W RMS BoomToneDJ MS8A, 1 entrée micro, 1 entrée ligne et 1 sortie link, utilisable en façade ou en retour de scène, le meilleu...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f82798ec8909d23e55679ee26bb26437",
+      "id": "7283",
+      "image_link": "https://www.centralsono.com/21662-googleshopping/ms8a-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms8a-boomtone-dj-7283.html",
+      "price": 159.0,
+      "sale_price": null,
+      "title": "MS8A BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte professionnelle amplifiée ABS 2 voies 15'' 300W BoomToneDJ MS15A MP3,1 entrée micro, 1 entrée ligne et 1 sortie link, un lecteur USB/SDHC et un récepteur BlueTooth. Utilis...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@701d804549a4a23d3cae801dac6c2c75",
+      "id": "7281",
+      "image_link": "https://www.centralsono.com/21644-googleshopping/ms15a-mp3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms15a-mp3-boomtone-dj-7281.html",
+      "price": 349.0,
+      "sale_price": null,
+      "title": "MS15A MP3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte professionnelle amplifiée ABS 2 voies 12'' 200W BoomToneDJ MS12A MP3, 1 entrée micro, 1 entrée ligne et 1 sortie link, un lecteur USB/SDHC et un récepteur BlueTooth. Utili...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b05b57f6add810d3b7490866d74c0053",
+      "id": "7280",
+      "image_link": "https://www.centralsono.com/21630-googleshopping/ms12a-mp3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms12a-mp3-boomtone-dj-7280.html",
+      "price": 269.0,
+      "sale_price": null,
+      "title": "MS12A MP3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte professionnelle amplifiée ABS 2 voies 10'' 150W BoomToneDJ MS10A MP3, 2 entrées micros, 1 entrée ligne et 1 sortie link, un lecteur USB/SDHC et un récepteur BlueTooth. Uti...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f75dddd1e79826a219cb0bec217dc096",
+      "id": "7279",
+      "image_link": "https://www.centralsono.com/21624-googleshopping/ms10a-mp3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms10a-mp3-boomtone-dj-7279.html",
+      "price": 229.0,
+      "sale_price": null,
+      "title": "MS10A MP3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Emetteur HF pour sono portables MIPRO, permet d'envoyer le signal d'une sono portable vers une autre en HF....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3332880692313818482a5a0286608ab6",
+      "id": "7278",
+      "image_link": "https://www.centralsono.com/21623-googleshopping/mtm-92-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mtm-92-mipro-7278.html",
+      "price": 256.0,
+      "sale_price": 239.0,
+      "title": "MTM 92 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Jack d'une longueur de 3m est idéal pour la <em>sonorisation</em> ou DJ....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dcacff2565700c8f88f59cf4a16f9dfc",
+      "id": "7277",
+      "image_link": "https://www.centralsono.com/21622-googleshopping/class-b-jack-3m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-jack-3m-oyaide-7277.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Class B Jack 3m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Jack d'une longueur de 2m est idéal pour la <em>sonorisation</em> ou DJ....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f7b027d45fd7484f6d0833823b98907e",
+      "id": "7276",
+      "image_link": "https://www.centralsono.com/21621-googleshopping/class-b-jack-2m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-jack-2m-oyaide-7276.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Class B Jack 2m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Jack d'une longueur de 1m est idéal pour la <em>sonorisation</em> ou DJ....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bb921944c8c4531826da3fa99b494c1a",
+      "id": "7275",
+      "image_link": "https://www.centralsono.com/21620-googleshopping/class-b-jack-1m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-jack-1m-oyaide-7275.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Class B Jack 1m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Double module récepteur UHF à encastrer pour MA708 et MA808. Choix parmi 16 canaux avec écran à DIGIT. Fonctions SCAN et ACT...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1301962d8b7bd03fffaa27119aa7fc2b",
+      "id": "7274",
+      "image_link": "https://www.centralsono.com/21619-googleshopping/mrm-72b-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mrm-72b-mipro-7274.html",
+      "price": 239.0,
+      "sale_price": null,
+      "title": "MRM 72B Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Idéal pour un système en multi-amplification.4 x 75W/8 Ohms, 4 x 150W/4 Ohms et 2 x 300W/8Ohms en Gridge par groupe de 2 canaux. Selecteur de mode Stéréo, Parallèle ou Bridge Le HP...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9d702ffd99ad9c70ac37e506facc8c38",
+      "id": "7273",
+      "image_link": "https://www.centralsono.com/21616-googleshopping/d604-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/d604-hpa-7273.html",
+      "price": 339.0,
+      "sale_price": null,
+      "title": "D604 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sono portable MIPRO MA303 DB, parfaite pour des applications scolaires, réunions, séminaires, présentations. 2 récepteurs intégrés compatibles avec ACT32H ou ACT32T, 60 WATTS / 2 v...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d2a1e34d86293cb12f959f89dddf263e",
+      "id": "7272",
+      "image_link": "https://www.centralsono.com/21614-googleshopping/ma-303db-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-303db-mipro-7272.html",
+      "price": 592.0,
+      "sale_price": 549.0,
+      "title": "MA 303DB Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "MRM70B-6A RECEPTEUR UHF ENCASTRABLE POUR MA 505/707/708/808- MRM-70B...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@52fc2aee802efbad698503d28ebd3a1f",
+      "id": "7271",
+      "image_link": "https://www.centralsono.com/21600-googleshopping/mrm-70b-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mrm-70b-mipro-7271.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "MRM 70B Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Lecteur CD professionnel à encastrer pour MA-505/705/708/808 PA....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7f489f642a0ddb10272b5c31057f0663",
+      "id": "7270",
+      "image_link": "https://www.centralsono.com/21598-googleshopping/cdm-2a-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cdm-2a-mipro-7270.html",
+      "price": 301.0,
+      "sale_price": 279.0,
+      "title": "CDM-2A Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boitier ceinture HF pour sono portable MIPRO (livré sans micro) - MU-53L - MU-55L - MU-13 - MU-23 - MU-210 - MU-53HN - MU-55HN - MU-40G...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@35d8f387d4934b6ee53ce5c9a1d8c1d7",
+      "id": "7269",
+      "image_link": "https://www.centralsono.com/21597-googleshopping/act-32t-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-32t-mipro-7269.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "ACT 32T Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro HF main pour sono portable MIPRO...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@69cd21a0e0b7d5f05dc88a0be36950c7",
+      "id": "7268",
+      "image_link": "https://www.centralsono.com/21585-googleshopping/act-32h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-32h-mipro-7268.html",
+      "price": 178.0,
+      "sale_price": 149.0,
+      "title": "ACT 32H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Le ART MX822 peut accepter un signal mono ou stéréo et fournit le niveau indépendant, pan et effets commandes d'envoi. Channel One comprend une sélection de source commutable mic/l...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@89c86ad4bb118af4b7d49925b1b319e1",
+      "id": "7264",
+      "image_link": "https://www.centralsono.com/21539-googleshopping/mx-822-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mx-822-art-7264.html",
+      "price": 228.0,
+      "sale_price": null,
+      "title": "MX 822 Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Batterie au Lithium, rechargeable, pour sono portable MA100 et MA300 Mipro....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7900770abf7086faafd8c122981cc82f",
+      "id": "7253",
+      "image_link": "https://www.centralsono.com/21403-googleshopping/mb-10-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mb-10-mipro-7253.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "MB 10 Mipro",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

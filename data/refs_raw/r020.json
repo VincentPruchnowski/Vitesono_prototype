@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 23,
+  "query": "sonorisation",
+  "query_counter": 25,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente la gamme E-Pro, des enceintes de 12'' en Néodyme pour une puissance de 300W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@454cecc4829279e64d624cd8a8c9ddf1",
+      "id": "7724",
+      "image_link": "https://www.centralsono.com/24611-googleshopping/e-pro-12-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/e-pro-12-mk2-elokance-7724.html",
+      "price": 599.0,
+      "sale_price": null,
+      "title": "E Pro 12 mk2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente la gamme E-Pro mk2, des enceintes de 10'' en Néodyme pour une puissance de 250W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@da3fde159d754a2555eaa198d2d105b2",
+      "id": "7723",
+      "image_link": "https://www.centralsono.com/24605-googleshopping/e-pro-10-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/e-pro-10-mk2-elokance-7723.html",
+      "price": 469.0,
+      "sale_price": 399.0,
+      "title": "E Pro 10 mk2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble d'alimentation True One...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@be26abe76fb5c8a4921cf9d3e865b454",
+      "id": "7722",
+      "image_link": "https://www.centralsono.com/24566-googleshopping/true-one-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/true-one-easy-plugger-7722.html",
+      "price": 9.0,
+      "sale_price": null,
+      "title": "TRUE ONE EASY Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection BoomToneDJ Pro 15 DSP Cover, adaptée aux enceintes BoomToneDJ Pro 15 DSP...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0d22da4bd124d386f5546323c45bc924",
+      "id": "7717",
+      "image_link": "https://www.centralsono.com/24459-googleshopping/pro-15-dsp-cover-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro-15-dsp-cover-boomtone-dj-7717.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Pro 15 DSP Cover BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection BoomToneDJ Pro 12 DSP Cover, adaptée aux enceintes BoomToneDJ Pro 12 DSP...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0127b06252935c330e9f23651b398ce4",
+      "id": "7716",
+      "image_link": "https://www.centralsono.com/24454-googleshopping/pro-12-dsp-cover-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro-12-dsp-cover-boomtone-dj-7716.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Pro 12 DSP Cover BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection BoomToneDJ Pro 10 DSP Cover, adaptée aux enceintes BoomToneDJ Pro 10 DSP...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@958c530554f78bcd8e97125b70e6973d",
+      "id": "7715",
+      "image_link": "https://www.centralsono.com/24449-googleshopping/pro-10-dsp-cover-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro-10-dsp-cover-boomtone-dj-7715.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "Pro 10 DSP Cover BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ePro15A COVER pour l'enceinte EPRO 15 A !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3d91fffbdc07fc7b1240ba846c0f7e75",
+      "id": "7714",
+      "image_link": "https://www.centralsono.com/24443-googleshopping/epro15a-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro15a-cover-elokance-7714.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "ePro15A COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ePro10A COVER pour l'enceinte EPRO 10 A !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b55c86af1c55672a8792354910cd548d",
+      "id": "7713",
+      "image_link": "https://www.centralsono.com/24437-googleshopping/epro10a-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro10a-cover-elokance-7713.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "ePro10A COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifiée en bois 15'' 1000W RMS avec DSP, amplificateur classe D, SPL MAX : 128dB, Dimensions enceinte 450x460x670mm....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c5eee1896752e5ac19a3a0bb34fbab4b",
+      "id": "7712",
+      "image_link": "https://www.centralsono.com/24418-googleshopping/epro-15-a-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-15-a-elokance-7712.html",
+      "price": 899.0,
+      "sale_price": 699.0,
+      "title": "ePro 15 A Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 112 SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e48a900a95c8e0a3db31da9fbad6866e",
+      "id": "7936",
+      "image_link": "https://www.centralsono.com/26193-googleshopping/sl-c-112-housse-pour-subline-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-c-112-housse-pour-subline-112-fbt-7936.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "SL-C 112 housse pour SubLine 112 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 115 SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@439d8c975f26e5005dcdbf41b0d84161",
+      "id": "7935",
+      "image_link": "https://www.centralsono.com/26192-googleshopping/sl-c-115-housse-pour-subline-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-c-115-housse-pour-subline-115-fbt-7935.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "SL-C 115 housse pour SubLine 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 118S ou SubLine 118SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6c90885b28e58d1f44856d787da2078f",
+      "id": "7934",
+      "image_link": "https://www.centralsono.com/26191-googleshopping/sl-c-118s-housse-pour-subline-118s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-c-118s-housse-pour-subline-118s-fbt-7934.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "SL-C 118S housse pour SubLine 118S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 218S ou SubLine 218SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@18de4beb01f6a17b6e1dfb9813ba6045",
+      "id": "7933",
+      "image_link": "https://www.centralsono.com/26190-googleshopping/sl-c-218s-housse-pour-subline-218s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-c-218s-housse-pour-subline-218s-fbt-7933.html",
+      "price": 105.0,
+      "sale_price": null,
+      "title": "SL-C 218S housse pour SubLine 218S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT X-Sub 15SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7fc346397dc202259f27edc7d2adec88",
+      "id": "7932",
+      "image_link": "https://www.centralsono.com/26189-googleshopping/xs-c-15s-housse-pour-x-sub-15sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xs-c-15s-housse-pour-x-sub-15sa-fbt-7932.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "XS-C 15S housse pour X-Sub 15SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT X-Sub 18SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@36dcd524971019336af02550264b8a08",
+      "id": "7931",
+      "image_link": "https://www.centralsono.com/26188-googleshopping/xs-c-18s-housse-pour-x-sub18-sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xs-c-18s-housse-pour-x-sub18-sa-fbt-7931.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "XS-C 18S housse pour X-Sub18 SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte de retour FBT Ventis 112M En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2b52541089a553056a5558611365cc6a",
+      "id": "7930",
+      "image_link": "https://www.centralsono.com/26187-googleshopping/vn-c-112m-housse-pour-ventis-112m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-112m-housse-pour-ventis-112m-fbt-7930.html",
+      "price": 42.0,
+      "sale_price": null,
+      "title": "VN-C 112M housse pour Ventis 112M FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte de retour FBT Ventis 115M En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@07d2c6fd5472b9796184e152bd92a535",
+      "id": "7929",
+      "image_link": "https://www.centralsono.com/26186-googleshopping/vn-c-115m-housse-pour-ventis-115m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-115m-housse-pour-ventis-115m-fbt-7929.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "VN-C 115M housse pour Ventis 115M FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Ventis 206 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7a22c0c0a4515485e31f95fd372050c9",
+      "id": "7928",
+      "image_link": "https://www.centralsono.com/26185-googleshopping/vn-c-206-housse-pour-ventis-206-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-206-housse-pour-ventis-206-fbt-7928.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "VN-C 206 housse pour Ventis 206 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Ventis 108 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3dcaf04c357c577a857f3ffadc555f9b",
+      "id": "7927",
+      "image_link": "https://www.centralsono.com/26184-googleshopping/vn-c-108-housse-pour-ventis-108-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-108-housse-pour-ventis-108-fbt-7927.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "VN-C 108 housse pour Ventis 108 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Ventis 108A En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0da54aa0b1ee702d0c45af548b1a54c7",
+      "id": "7926",
+      "image_link": "https://www.centralsono.com/26183-googleshopping/vn-c-108a-housse-pour-ventis-108a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-108a-housse-pour-ventis-108a-fbt-7926.html",
+      "price": 38.0,
+      "sale_price": null,
+      "title": "VN-C 108A housse pour Ventis 108A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Ventis 110 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@de5eeca522e12fd5c9ff9077408dcf17",
+      "id": "7925",
+      "image_link": "https://www.centralsono.com/26182-googleshopping/vn-c-110-housse-pour-ventis-110-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-110-housse-pour-ventis-110-fbt-7925.html",
+      "price": 48.0,
+      "sale_price": null,
+      "title": "VN-C 110 housse pour Ventis 110 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Ventis 112 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cbf4d310ea68b3933521ba359d33ed5e",
+      "id": "7924",
+      "image_link": "https://www.centralsono.com/26181-googleshopping/vn-c-112-housse-pour-ventis-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-112-housse-pour-ventis-112-fbt-7924.html",
+      "price": 58.0,
+      "sale_price": null,
+      "title": "VN-C 112 housse pour Ventis 112 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Ventis 115 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ce4449660c6523b377b22a1dc2da5556",
+      "id": "7923",
+      "image_link": "https://www.centralsono.com/26180-googleshopping/vn-c-115-housse-pour-ventis-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-c-115-housse-pour-ventis-115-fbt-7923.html",
+      "price": 48.0,
+      "sale_price": null,
+      "title": "VN-C 115 housse pour Ventis 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur pour montage d'enceinte FBT J5 ou Jolly5 sur pied micro. Fournis avec adaptateur 5/8 3/8...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2cd2915e69546904e4e5d4a2ac9e1652",
+      "id": "7922",
+      "image_link": "https://www.centralsono.com/26178-googleshopping/aj-5-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/aj-5-fbt-7922.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "AJ-5 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte J12 et J15 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ad62cfd33e3870262d6bf5331c1f13b0",
+      "id": "7921",
+      "image_link": "https://www.centralsono.com/26177-googleshopping/box-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/box-112-fbt-7921.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "BOX 112 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte Jolly 5 et J5 de FBT, coloris blanc....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@255ea887b8bca36797426dfb35a809cc",
+      "id": "7920",
+      "image_link": "https://www.centralsono.com/26176-googleshopping/sj-5u-wht-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sj-5u-wht-fbt-7920.html",
+      "price": 20.7,
+      "sale_price": null,
+      "title": "SJ-5U WHT FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT J15, J12 et DJ15 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d800149d2f947ad4d64f34668f8b20f6",
+      "id": "7919",
+      "image_link": "https://www.centralsono.com/26175-googleshopping/v-38-housse-pour-j15-j12-et-dj15-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-38-housse-pour-j15-j12-et-dj15-fbt-7919.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "V-38 housse pour J15, J12 et DJ15 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural, pour enceinte Jolly 5 et J5 de FBT, coloris blanc...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bc3744cb38c6cf6b17e8814a9c2688a3",
+      "id": "7918",
+      "image_link": "https://www.centralsono.com/26172-googleshopping/sj-5-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sj-5-white-fbt-7918.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "SJ-5 WHITE FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène en bois, 12 pouces, 2 voies passive, 500W RMS sous 8 ohms. - Enceinte 2 voies - Haut-Parleur : 12'' B&C - Tweeter : 1'' B&C - Puissance : 500 W RMS - Impédance...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1bd2caf96a17d892c2c7e9959549cfc7",
+      "id": "7917",
+      "image_link": "https://www.centralsono.com/26169-googleshopping/ventis-112m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-112m-fbt-7917.html",
+      "price": 649.0,
+      "sale_price": null,
+      "title": "VENTIS 112M FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène en bois, 15 pouces, 2 voies, passive, 500 W RMS. - Enceinte de retour 2 voies - Haut-Parleur : 15'' B&C - Tweeter : 1'' B&C - Crossover : 1.4 kHz - Bande passa...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e0854e3c03ec877be65d351b90680d46",
+      "id": "7916",
+      "image_link": "https://www.centralsono.com/26166-googleshopping/ventis-115m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-115m-fbt-7916.html",
+      "price": 979.0,
+      "sale_price": null,
+      "title": "VENTIS 115M FBT",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

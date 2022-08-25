@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 25,
+  "query": "sonorisation",
+  "query_counter": 27,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène de type bain de pied FBT StageMaxX 12MA, amplifié en 500 watts RMS et équipé d'un haut parleur Coaxial en 31cm (12'') et moteur 1'' de B&C Speakers. Le nouveau St...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f0282b5ff85e7c9c66200d780bd7e72e",
+      "id": "7879",
+      "image_link": "https://www.centralsono.com/26017-googleshopping/stagemaxx-12ma-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/stagemaxx-12ma-fbt-7879.html",
+      "price": 945.0,
+      "sale_price": null,
+      "title": "STAGEMAXX 12MA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système Biamplifié compact de type Array colonne + caisson FBT VERTUS CS1000W version Blanc. Amplification de 1000 watts RMS avec caisson en 12'' (31cm) et 6 x HP de 3'' (7cm). DSP...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@21c3134ee5edcb618c4f9aae358d73a7",
+      "id": "7878",
+      "image_link": "https://www.centralsono.com/26010-googleshopping/vertus-cs-1000-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cs-1000-white-fbt-7878.html",
+      "price": 1379.0,
+      "sale_price": null,
+      "title": "VERTUS CS 1000 White FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série SUBline complète en grave toutes les séries d'enceintes de FBT. Fort SPL et DSP avec programmes résultats. Le SUBline 118Sa équipé d'un haut parleur de 18'' (46cm) amplifi...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d19a006fd6d25d23c93d3bf4e48eb25f",
+      "id": "7877",
+      "image_link": "https://www.centralsono.com/26007-googleshopping/subline-118sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/subline-118sa-fbt-7877.html",
+      "price": 1649.0,
+      "sale_price": null,
+      "title": "SUBLINE 118SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série SUBline complète en grave toutes les séries d'enceintes de FBT. Fort SPL et DSP avec programmes résultats. Le SUBline 115Sa équipé d'un haut parleur de 15'' (38cm) amplifi...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@42dab56861d81108ee356d037190c315",
+      "id": "7876",
+      "image_link": "https://www.centralsono.com/26004-googleshopping/subline-115sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/subline-115sa-fbt-7876.html",
+      "price": 1185.0,
+      "sale_price": null,
+      "title": "SUBLINE 115SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 2 x 15 pouces, 4 ohms, 2000 W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b543376b5721da011b230ba7ae9dd619",
+      "id": "7872",
+      "image_link": "https://www.centralsono.com/25987-googleshopping/archon-215s-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-215s-fbt-install-7872.html",
+      "price": 1929.0,
+      "sale_price": null,
+      "title": "ARCHON 215S FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 2 x 8 pouces, 8 ohms, 600 W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e46709aa58ba51019b4e6c1b23d9ae03",
+      "id": "7871",
+      "image_link": "https://www.centralsono.com/25977-googleshopping/archon-208s-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-208s-fbt-install-7871.html",
+      "price": 590.0,
+      "sale_price": null,
+      "title": "ARCHON 208S FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 5 pouces, 8 ohms, 200 W RMS. Utilisable en Ligne 100V en 50 W....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a42b4dde8771da0b852889d591002ad6",
+      "id": "7870",
+      "image_link": "https://www.centralsono.com/25967-googleshopping/archon-105-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-105-fbt-install-7870.html",
+      "price": 295.0,
+      "sale_price": null,
+      "title": "ARCHON 105 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 6 pouces, 8 ohms, 300 W RMS. Utilisable en Ligne 100V en 100 W....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@398024cb5e21d749d728926a28b19d00",
+      "id": "7869",
+      "image_link": "https://www.centralsono.com/25965-googleshopping/archon-106-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-106-fbt-install-7869.html",
+      "price": 385.0,
+      "sale_price": null,
+      "title": "ARCHON 106 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 8 pouces, 8 ohms, 350 W RMS. Utilisable en Ligne 100V en 100 W....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2b8501af7b64d1aaae7dd832805f0709",
+      "id": "7868",
+      "image_link": "https://www.centralsono.com/25955-googleshopping/archon-108-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-108-fbt-install-7868.html",
+      "price": 525.0,
+      "sale_price": null,
+      "title": "ARCHON 108 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 10 pouces, 8 ohms, 700 W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@10fb6cfa4c990d2bad5ddef4f70e8ba2",
+      "id": "7867",
+      "image_link": "https://www.centralsono.com/25945-googleshopping/archon-110-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-110-fbt-install-7867.html",
+      "price": 760.0,
+      "sale_price": null,
+      "title": "ARCHON 110 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 12 pouces, 8 ohms, 1000 W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1963bd5135521d623f6c29e6b1174975",
+      "id": "7866",
+      "image_link": "https://www.centralsono.com/25943-googleshopping/archon-112-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-112-fbt-install-7866.html",
+      "price": 1050.0,
+      "sale_price": null,
+      "title": "ARCHON 112 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 15 pouces, 8 ohms, 1000 W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4d1a65f1c6d24c1f8f714fe7e31d29fc",
+      "id": "7865",
+      "image_link": "https://www.centralsono.com/25941-googleshopping/archon-115-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-115-fbt-install-7865.html",
+      "price": 1279.0,
+      "sale_price": null,
+      "title": "ARCHON 115 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Jolly 8, J8 A, J8 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1437751a77305a0c4c8d44127bd8c285",
+      "id": "7864",
+      "image_link": "https://www.centralsono.com/25937-googleshopping/v-37-housse-pour-j8-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-37-housse-pour-j8-fbt-7864.html",
+      "price": 44.0,
+      "sale_price": null,
+      "title": "V-37 housse pour J8 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour 2 enceintes FBT Jolly 5, J5 A En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0ef037ce94ff9b7930d095a7e2ffee1f",
+      "id": "7863",
+      "image_link": "https://www.centralsono.com/25936-googleshopping/v-36-housse-pour-2-jolly-5-ou-j5-a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-36-housse-pour-2-jolly-5-ou-j5-a-fbt-7863.html",
+      "price": 31.0,
+      "sale_price": null,
+      "title": "V-36 housse pour 2 Jolly 5 ou J5 A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte FBT Pro MaxX 110...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a6b964c0bb675116a15ef1325b01ff45",
+      "id": "7862",
+      "image_link": "https://www.centralsono.com/25932-googleshopping/v-63-housse-pour-pro-maxx-110-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/v-63-housse-pour-pro-maxx-110-fbt-7862.html",
+      "price": 44.0,
+      "sale_price": null,
+      "title": "V-63 Housse pour Pro MaxX 110 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de sono passive en finition Blanche FBT J5W, 80 W RMS en 16 Ohms , 2 voies avec haut parleur de 5'' (13cm) et tweeter a dôme 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@aa78c3db4fc4a1a343183d6113ec46ba",
+      "id": "7861",
+      "image_link": "https://www.centralsono.com/25931-googleshopping/j5w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j5w-fbt-7861.html",
+      "price": 101.0,
+      "sale_price": null,
+      "title": "J5W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de sono passive FBT J15, 300 W RMS en 8 Ohms , 2 voies avec haut parleur de 15'' (38cm) et Moteur 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ddb4955263e6c08179393d1beaf18602",
+      "id": "7860",
+      "image_link": "https://www.centralsono.com/25928-googleshopping/j15-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j15-fbt-7860.html",
+      "price": 325.0,
+      "sale_price": null,
+      "title": "J15 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sono portable 12 pouces compacte BoomToneDJ Traveler Double 10 VHF avec 2 micros sans fil, télécommande IR, lecteur de média...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@961f1e759d4e9cca6754b1477b3b491a",
+      "id": "7856",
+      "image_link": "https://www.centralsono.com/33800-googleshopping/traveler-double-10-vhf-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/traveler-double-10-vhf-boomtone-dj-7856.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "Traveler Double 10 VHF BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sono portable compacte BoomToneDJ Traveler 8 VHF avec micro sans fil, télécommande IR, lecteur de média...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a0046ad4c1bafc4ef04e41e755f28368",
+      "id": "7854",
+      "image_link": "https://www.centralsono.com/25833-googleshopping/traveler-8-vhf-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/traveler-8-vhf-boomtone-dj-7854.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "Traveler 8 VHF BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection ELOKANCE eProSub 18A COVER, adaptée aux enceintes Elokance eProSub 18A uniquement....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@168411596e4c04bb30eaf83385d15c96",
+      "id": "7837",
+      "image_link": "https://www.centralsono.com/25559-googleshopping/eprosub-18a-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/eprosub-18a-cover-elokance-7837.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "eProSub 18A COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection ELOKANCE eProSub 15A COVER, adaptée aux enceintes Elokance eProSub 15A uniquement....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6354461b879d3b121b0c33d5e7e5da4f",
+      "id": "7836",
+      "image_link": "https://www.centralsono.com/25552-googleshopping/eprosub-15a-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/eprosub-15a-cover-elokance-7836.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "eProSub 15A COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de 2 Micros main et serre-tête/lavalier Chant et Voix dynamique UHF à fréquences fixes, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 20MHL ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c44bebb973e14fe539676e0e9155b121",
+      "id": "7834",
+      "image_link": "https://www.centralsono.com/25518-googleshopping/uhf-20mhl-f7-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-20mhl-f7-f8-boomtone-dj-7834.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "UHF 20MHL F7 F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de 2 Micros main et serre-tête/lavalier Chant et Voix dynamique UHF à fréquences fixes, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 20MHL ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4747f5ca63b8e8bd670b26e4b1573961",
+      "id": "7833",
+      "image_link": "https://www.centralsono.com/25510-googleshopping/uhf-20mhl-f5-f6-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-20mhl-f5-f6-boomtone-dj-7833.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "UHF 20MHL F5 F6 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 Micros Main Chant et Voix dynamique UHF à fréquence fixe, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 20M est un vrai caméléon, il s'adapte ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ed0e6f99c817e0b50d01e7254971e560",
+      "id": "7832",
+      "image_link": "https://www.centralsono.com/25497-googleshopping/uhf-20m-f7-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-20m-f7-f8-boomtone-dj-7832.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "UHF 20M F7 F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 Micros Main Chant et Voix dynamique UHF à fréquence fixe, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 20M est un vrai caméléon, il s'adapte ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ef48e3ef07e359006f7869b04fa07f5e",
+      "id": "7831",
+      "image_link": "https://www.centralsono.com/25485-googleshopping/uhf-20m-f5-f6-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-20m-f5-f6-boomtone-dj-7831.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "UHF 20M F5 F6 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 Micros serre-tête/lavalier Chant et Voix dynamique UHF à fréquence fixe, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 20HL est un vrai camélé...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2c601ad9d2ff9bc8b282670cdd54f69f",
+      "id": "7830",
+      "image_link": "https://www.centralsono.com/25477-googleshopping/uhf-20hl-f7-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-20hl-f7-f8-boomtone-dj-7830.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "UHF 20HL F7 F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 Micros serre-tête/lavalier Chant et Voix dynamique UHF à fréquence fixe, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 20HL est un vrai camélé...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5cd5058bca53951ffa7801bcdf421651",
+      "id": "7829",
+      "image_link": "https://www.centralsono.com/25470-googleshopping/uhf-20hl-f5-f6-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-20hl-f5-f6-boomtone-dj-7829.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "UHF 20HL F5 F6 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Ensemble de <em>sonorisation</em> 590 watts RMS haut de gamme composé de 4 ELO 6 mk2, 1 ELO SUB12A mk2 et 4 câbles",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9f564fef13bb8a7f9faa5f9071e4e045",
+      "id": "7828",
+      "image_link": "https://www.centralsono.com/25465-googleshopping/elo-600i-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-600i-mk2-elokance-7828.html",
+      "price": 999.0,
+      "sale_price": null,
+      "title": "ELO 600i mk2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive 14 pouces, 700W RMS, 8 ohms, protection IP55....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2d5d4cf93ccf992b3fe617b32b8296a3",
+      "id": "7821",
+      "image_link": "https://www.centralsono.com/25369-googleshopping/shadow-114s-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/shadow-114s-fbt-install-7821.html",
+      "price": 869.0,
+      "sale_price": null,
+      "title": "SHADOW 114S FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": null,
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@750263dbb2fb8547bdd810ee11a08c7a",
+      "id": "8036",
+      "image_link": "https://www.centralsono.com/26383-googleshopping/muse-210l-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/muse-210l-fbt-touring-8036.html",
+      "price": 1839.0,
+      "sale_price": null,
+      "title": "MUSE 210L FBT Touring",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

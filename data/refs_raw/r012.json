@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 15,
+  "query": "sonorisation",
+  "query_counter": 17,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - Jack Mâle Mono 6.35mm, longueur 6m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a4a83056b58ff983d12c72bb17996243",
+      "id": "7437",
+      "image_link": "https://www.centralsono.com/22450-googleshopping/cable-bretelle-rca-male-jack-male-mono-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-jack-male-mono-6m-easy-plugger-7437.html",
+      "price": 7.0,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - Jack Mâle Mono 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - Jack Mâle Mono 6.35mm, longueur 3m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dcae59eb2aed882ae1452bf903cb8263",
+      "id": "7436",
+      "image_link": "https://www.centralsono.com/22447-googleshopping/cable-bretelle-rca-male-jack-male-mono-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-jack-male-mono-3m-easy-plugger-7436.html",
+      "price": 6.0,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - Jack Mâle Mono 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - Jack Mâle Mono 6.35mm, longueur 1.50m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fe2b952bd6b9030970b3866b328bd9c7",
+      "id": "7435",
+      "image_link": "https://www.centralsono.com/22444-googleshopping/cable-bretelle-rca-male-jack-male-mono-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-jack-male-mono-150m-easy-plugger-7435.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - Jack Mâle Mono 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - Jack Mâle Mono 6.35mm, longueur 0.60m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e0f48a1058f0f0204b22d4a2fd6f18ae",
+      "id": "7434",
+      "image_link": "https://www.centralsono.com/22441-googleshopping/cable-bretelle-rca-male-jack-male-mono-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-jack-male-mono-060m-easy-plugger-7434.html",
+      "price": 3.5,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - Jack Mâle Mono 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - RCA Mâle, longueur 10m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bcb3303a96a92dc38c12992941de7627",
+      "id": "7433",
+      "image_link": "https://www.centralsono.com/22438-googleshopping/cable-bretelle-rca-male-rca-male-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-rca-male-10m-easy-plugger-7433.html",
+      "price": 9.9,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - RCA Mâle 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - RCA Mâle, longueur 6m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@48bea99c85bcbaaba618ba10a6f69e44",
+      "id": "7432",
+      "image_link": "https://www.centralsono.com/22435-googleshopping/cable-bretelle-rca-male-rca-male-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-rca-male-6m-easy-plugger-7432.html",
+      "price": 8.0,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - RCA Mâle 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - RCA Mâle, longueur 3m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@51c68dc084cb0b8467eafad1330bce66",
+      "id": "7431",
+      "image_link": "https://www.centralsono.com/22432-googleshopping/cable-bretelle-rca-male-rca-male-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-rca-male-3m-easy-plugger-7431.html",
+      "price": 6.5,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - RCA Mâle 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - RCA Mâle, longueur 1.50m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9ab8a8a9349eb1dd73ce155ce64c80fa",
+      "id": "7430",
+      "image_link": "https://www.centralsono.com/22429-googleshopping/cable-bretelle-rca-male-rca-male-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-rca-male-150m-easy-plugger-7430.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - RCA Mâle 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle RCA Mâle - RCA Mâle, longueur 0.60m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ff450ba01b0ca2695d62525505dd80eb",
+      "id": "7429",
+      "image_link": "https://www.centralsono.com/22426-googleshopping/cable-bretelle-rca-male-rca-male-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-rca-male-rca-male-060m-easy-plugger-7429.html",
+      "price": 3.9,
+      "sale_price": null,
+      "title": "Câble Bretelle RCA Mâle - RCA Mâle 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - RCA Mâle, longueur 3m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cc6ef8cb8df3af5693726838cd728163",
+      "id": "7428",
+      "image_link": "https://www.centralsono.com/22425-googleshopping/cable-bretelle-xlr-femelle-3b-rca-male-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-rca-male-3m-easy-plugger-7428.html",
+      "price": 5.5,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - RCA Mâle 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - RCA Mâle, longueur 0.60m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@aecad42329922dfc97eee948606e1f8e",
+      "id": "7427",
+      "image_link": "https://www.centralsono.com/22424-googleshopping/cable-bretelle-xlr-femelle-3b-rca-male-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-rca-male-060m-easy-plugger-7427.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - RCA Mâle 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Mâle 3 broches - RCA Mâle, longueur 3m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d60743aab4b625940d39b3b51c3c6a78",
+      "id": "7426",
+      "image_link": "https://www.centralsono.com/22421-googleshopping/cable-bretelle-xlr-male-3b-rca-male-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-male-3b-rca-male-3m-easy-plugger-7426.html",
+      "price": 5.5,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Mâle 3b - RCA Mâle 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Mâle 3 broches - RCA Mâle, longueur 0.60m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@966aad8981dcc75b5b8ab04427a833b2",
+      "id": "7425",
+      "image_link": "https://www.centralsono.com/22418-googleshopping/cable-bretelle-xlr-male-3b-rca-male-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-male-3b-rca-male-060m-easy-plugger-7425.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Mâle 3b - RCA Mâle 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - XLR Mâle 3 broches, longueur 1.50m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@420824960f755f8721c47b6027ead6ab",
+      "id": "7424",
+      "image_link": "https://www.centralsono.com/22417-googleshopping/cable-bretelle-xlr-femelle-3b-xlr-male-3b-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-xlr-male-3b-150m-easy-plugger-7424.html",
+      "price": 6.5,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - XLR Mâle 3b 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Bretelle XLR Femelle 3 broches - XLR Mâle 3 broches, longueur 0.60m PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8fe04df45a22b63156ebabbb064fcd5e",
+      "id": "7423",
+      "image_link": "https://www.centralsono.com/22416-googleshopping/cable-bretelle-xlr-femelle-3b-xlr-male-3b-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-bretelle-xlr-femelle-3b-xlr-male-3b-060m-easy-plugger-7423.html",
+      "price": 5.5,
+      "sale_price": null,
+      "title": "Câble Bretelle XLR Femelle 3b - XLR Mâle 3b 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Femelle Stéréo / Jack Mâle Stéréo, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@52aaa62e71f829d41d74892a18a11d59",
+      "id": "7422",
+      "image_link": "https://www.centralsono.com/22413-googleshopping/cable-jack-femelle-stereo-jack-male-stereo-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-femelle-stereo-jack-male-stereo-6m-easy-plugger-7422.html",
+      "price": 8.5,
+      "sale_price": null,
+      "title": "Câble Jack Femelle Stéréo - Jack Mâle Stéréo 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Femelle Stéréo / Jack Mâle Stéréo, longueur 1.50 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b9acb4ae6121c941324b2b1d3fac5c30",
+      "id": "7421",
+      "image_link": "https://www.centralsono.com/22410-googleshopping/cable-jack-femelle-stereo-jack-male-stereo-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-femelle-stereo-jack-male-stereo-150m-easy-plugger-7421.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "Câble Jack Femelle Stéréo - Jack Mâle Stéréo 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@968c9b4f09cbb7d7925f38aea3484111",
+      "id": "7420",
+      "image_link": "https://www.centralsono.com/22407-googleshopping/cable-jack-male-stereo-jack-male-stereo-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-15m-easy-plugger-7420.html",
+      "price": 16.0,
+      "sale_price": 11.9,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@54eea69746513c0b90bbe6227b6f46c3",
+      "id": "7419",
+      "image_link": "https://www.centralsono.com/22404-googleshopping/cable-jack-male-stereo-jack-male-stereo-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-10m-easy-plugger-7419.html",
+      "price": 9.9,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d5e705ceeeb7f7ece5dc5ee9bb5e148d",
+      "id": "7418",
+      "image_link": "https://www.centralsono.com/22401-googleshopping/cable-jack-male-stereo-jack-male-stereo-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-6m-easy-plugger-7418.html",
+      "price": 6.5,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo, longueur 3 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ce89f6b11bdc5b365085a84036e9365b",
+      "id": "7417",
+      "image_link": "https://www.centralsono.com/22398-googleshopping/cable-jack-male-stereo-jack-male-stereo-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-3m-easy-plugger-7417.html",
+      "price": 6.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo, longueur 1.50 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dc91cc9b6b3fc6325cf08272dbf9eb2f",
+      "id": "7416",
+      "image_link": "https://www.centralsono.com/22395-googleshopping/cable-jack-male-stereo-jack-male-stereo-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-150m-easy-plugger-7416.html",
+      "price": 2.95,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo, longueur 0.60 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e261489ab942429a6600c1c4121ac14d",
+      "id": "7415",
+      "image_link": "https://www.centralsono.com/22392-googleshopping/cable-jack-male-stereo-jack-male-stereo-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-060m-easy-plugger-7415.html",
+      "price": 3.8,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@297b631a88835f8931aa5aabdd06ece9",
+      "id": "7414",
+      "image_link": "https://www.centralsono.com/22389-googleshopping/cable-jack-male-mono-jack-male-mono-15m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-15m-easy-plugger-7414.html",
+      "price": 16.0,
+      "sale_price": 11.9,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 15m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 10 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ba3c5fe1d6d6708b5bffaeb6942b7e04",
+      "id": "7413",
+      "image_link": "https://www.centralsono.com/22386-googleshopping/cable-jack-male-mono-jack-male-mono-10m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-10m-easy-plugger-7413.html",
+      "price": 9.5,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 10m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 6mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e13748298cfb23c19fdfd134a2221e7b",
+      "id": "7412",
+      "image_link": "https://www.centralsono.com/22383-googleshopping/cable-jack-male-mono-jack-male-mono-6m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-6m-easy-plugger-7412.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 6m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 3 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8be6adae5ae0e157014d7d250870f212",
+      "id": "7411",
+      "image_link": "https://www.centralsono.com/22380-googleshopping/cable-jack-male-mono-jack-male-mono-3m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-3m-easy-plugger-7411.html",
+      "price": 4.5,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 3m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 1.50 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0c12278389532e91c601af4c8adef7fc",
+      "id": "7410",
+      "image_link": "https://www.centralsono.com/22377-googleshopping/cable-jack-male-mono-jack-male-mono-150m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-150m-easy-plugger-7410.html",
+      "price": 2.25,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 1.50m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono 6.35mm / Jack Mâle Mono 6.35mm, longueur 0.60 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@06cdc05791b8af29eed72084f39143c7",
+      "id": "7409",
+      "image_link": "https://www.centralsono.com/22374-googleshopping/cable-jack-male-mono-jack-male-mono-060m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-060m-easy-plugger-7409.html",
+      "price": 3.95,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 0.60m Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Tweed Jack Mâle Coudé 6.35mm / Jack Mâle Coudé 6.35mm, longueur 0.15 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@545e91a14706478dc240764245cd4bd1",
+      "id": "7408",
+      "image_link": "https://www.centralsono.com/22371-googleshopping/cable-tweed-jack-male-coude-jack-male-coude-015m-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-tweed-jack-male-coude-jack-male-coude-015m-easy-plugger-7408.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Câble Tweed Jack Mâle Coudé - Jack Mâle Coudé 0.15m Easy Plugger",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

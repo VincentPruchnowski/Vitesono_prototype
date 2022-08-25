@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>App.sys</title>
+    <link rel="stylesheet" href="/css/app.sys.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script src="assets/js/sonoImage.js"></script>
+</head>
+
+<body>
+    <!-- Logo + Welcome -->
+    <header>
+        <div class="container">
+            <span class="logo">VS</span>
+            <span class="vite">VITE</span>
+            <span class="sono">SONO</span>
+            <div class="containerLogin">
+                <a class="loginLink" href="../../login.html">Login</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Search List-->
+        <aside>
+            <div class="searchBox">
+
+                <!-- Search by keywor -->
+                <div>
+                    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search by keyword...">
+                </div>
+
+                <!-- Category filter -->
+                <div class="categorySelect">
+                    <select>
+                        <option value="0">Select category</option>
+                        <option value="1">Sonorisation</option>
+                        <option value="2">Homestudio</option>
+                        <option value="3">Deejay</option>
+                        <option value="4">Musical instrument</option>
+                        <option value="5">Light</option>
+                        <option value="6">Video</option>
+                        <option value="7">Scene</option>
+                        <option value="8">Power system</option>
+                    </select>
+                </div>
+
+                <!-- Type filter-->
+                <div class="typeSelect">
+                    <select>
+                        <option value="0">Select type</option>
+                        <option value="1">Speakers</option>
+                        <option value="2">Mixing consoles</option>
+                        <option value="3">Amplifiers</option>
+                        <option value="4">Microphones</option>
+                        <option value="5">Effects and peripherals</option>
+                        <option value="6">Sounding accessories</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Checkbox menu déroulant-->
+            <!-- <div class="container-menu-deroulant">
+                <div class="menu-deroulant-style-on">
+                    <div class="elmt"><input type="checkbox" name="checkbox1" id="checkbox1" class="check" value="1" /><label
+                            for="checkbox1">Option 1 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox2" id="checkbox2" class="check" value="2" /><label
+                            for="checkbox2">Option 2 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox3" id="checkbox3" class="check" value="3" /><label
+                            for="checkbox3">Option 3 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox4" id="checkbox4" class="check" value="4" /><label
+                            for="checkbox4">Option 4 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox5" id="checkbox5" class="check" value="5" /><label
+                            for="checkbox5">Option 5 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox6" id="checkbox6" class="check" value="6" /><label
+                            for="checkbox6">Option 6 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox7" id="checkbox7" class="check" value="7" /><label
+                            for="checkbox7">Option 7 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox8" id="checkbox8" class="check" value="8" /><label
+                            for="checkbox8">Option 8 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox9" id="checkbox9" class="check" value="9" /><label
+                            for="checkbox9">Option 9 </label></div>
+                    <div class="elmt"><input type="checkbox" name="checkbox10" id="checkbox10" class="check" value="10" /><label
+                            for="checkbox10">Option 10 </label></div>
+                </div>
+            </div> -->
+        </aside>
+
+        <!-- Add product button -->
+        <div class="container-button">
+            <button class="addProd" type="button"><i class="fa fa-plus-circle" aria-hidden="true"></i> Add new
+                product</button>
+        </div>
+
+        <article>
+            <div id="grid">
+                <!-- AreaA -->
+                <div id="areaA">
+                    <nav class="arial">
+                        <a href="">SONORISATION</a> / <a href="">speakers</a>
+                    </nav>
+
+                    <!-- Add picture button -->
+                    <div class="container-image-button">
+                        <button class="addImg" type="button"><i class="fa fa-download" aria-hidden="true"></i>
+                            Picture</button>
+                    </div>
+
+                    <!-- Contenu -->
+                    <div class="previewProducts">
+                        <div class="flex-element">
+                            <p>ART 725 MK4</p>
+                            <img src="assets/img/maker/rcf_logo.png" height="46" width="46" alt="maker_logo" />
+                        </div>
+
+                        <!-- Sonorisation img -->
+                        <div class="product" id="productsSonoSpeaker">
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-708-a-mk-4.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test1" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-710-a-mk-4.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test2" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-712-a-mk-4.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test3" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-715-a-mk-4.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test4" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-725-mk4.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test5" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/ayra-pro-5.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test6" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/ayra-pro-6.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test7" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/ayra-pro-8.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test8" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/nx-10-sma.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test9" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/sub-705-as-ii.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test10" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/sub-905-as-ii.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test11" />
+                            <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/sub-8003-as-ii.jpg"
+                                height="319px" width="307px" alt="Speaker" id="test12" />
+                        </div>
+                    </div>
+
+                    <div class="reflog">
+                        <!-- Language filter -->
+                        <div class="languageSelect">
+                            <select>
+                                <option value="0">Select language</option>
+                                <option value="1">French</option>
+                                <option value="2">English</option>
+                                <option value="3">Spanish</option>
+                            </select>
+                        </div>
+
+                        <div class="element-flexible02">
+                            Description
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+                                voluptates alias commodi provident ab, <br>
+                                quibusdam ipsum veritatis
+                                fugit dicta explicabo. Reiciendis, nobis. <br />
+                                Earum at possimus quisconsequatur dicta, odit placeat.
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- AreaB -->
+                <div id="areaB">
+                    <div class="reference">
+                        <button onclick="toggleImage('test1', this)" class="selectSpeaker">
+                            <span>ART 708-A MK 4</span>
+                        </button>
+                        <button onclick="toggleImage('test2', this)" class="selectSpeaker">
+                            <span>SUB 705-AS II</span><span></span>
+                        </button>
+                        <button onclick="toggleImage('test3', this)" class="selectSpeaker">
+                            <span>ART 710-A MK 4</span>
+                        </button>
+                        <button onclick="toggleImage('test4', this)" class="selectSpeaker">
+                            <span>ART 712 A MK 4</span>
+                        </button>
+                        <button onclick="toggleImage('test5', this)" class="selectSpeaker">
+                            <span>ART 715-A MK 4</span>
+                        </button>
+                        <button onclick="toggleImage('test6', this)" class="selectSpeaker">
+                            <span>ART 725 MK4</span>
+                        </button>
+                        <button onclick="toggleImage('test7', this)" class="selectSpeaker">
+                            <span>SUB 905-AS II</span>
+                        </button>
+                        <button onclick="toggleImage('test8', this)" class="selectSpeaker">
+                            <span>AYRA PRO 8</span>
+                        </button>
+                        <button onclick="toggleImage('test9', this)" class="selectSpeaker">
+                            <span>AYRA PRO 5</span>
+                        </button>
+                        <button onclick="toggleImage('test10', this)" class="selectSpeaker">
+                            <span>AYRA PRO 6</span>
+                        </button>
+                        <button onclick="toggleImage('test11', this)" class="selectSpeaker">
+                            <span>NX 10 SMA</span>
+                        </button>
+                        <button onclick="toggleImage('test12', this)" class="selectSpeaker">
+                            <span>SUB 8003-AS II</span>
+                        </button>
+                    </div>
+                    <!-- Pagination + Result -->
+                    <div class="pares">
+                        <!-- Result-->
+                        <span class="result">12 Results</span>
+                        <!-- Pagination -->
+                        <ul class="pagination">
+                            <li class="page-item"><a class="page-link" href="#">&laquo;</a></li>
+                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                            <li class="page-item"><a class="page-link">of</a></li>
+                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                            <li class="page-item"><a class="page-link" href="#">&raquo;</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="desc"></div>
+            </div>
+        </article>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <!-- Display -->
+        <div class="display">
+            <span>Display:</span>
+            <form class="" action="">
+                <select name="subject" id="subject">
+                    <option value="" selected="selected">36</option>
+                    <option value="" selected="selected">24</option>
+                    <option value="" selected="selected">12</option>
+                </select>
+            </form>
+        </div>
+
+        <!-- Version -->
+        <div class="cover">
+            <div class="version">
+                <p>Vitesono <br>1.0</p>
+            </div>
+            <div class="copyright">
+                <p>
+                    Copyright © 2021-2022 Vitesono <br>
+                    Tous droits reservés design by Efficiel Technologie
+                </p>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

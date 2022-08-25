@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 22,
+  "query": "sonorisation",
+  "query_counter": 24,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Système Amplifié 4 voies 1500W RMS Elokance Elo 1500 MK2, composé de 2 ELO 12 MK2 et 2 ELO SUB15A MK2. Livré avec 2 barres de couplage et 2 câbles Speakon 6m PLUGGER. Le ELO 1500 M...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e0b0f9051084fd476926501af19e1e96",
+      "id": "7813",
+      "image_link": "https://www.centralsono.com/25239-googleshopping/elo-1500-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-1500-mk2-elokance-7813.html",
+      "price": 1799.0,
+      "sale_price": null,
+      "title": "ELO 1500 MK2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Ensemble de <em>sonorisation</em> 1600 watts RMS haut de gamme composé de 4 ELO 10 MK2, 2 ELO SUB15A MK2, 2 tubes",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@eefc7bfe8fd6e2c8c01aa6ca7b1aab1a",
+      "id": "7812",
+      "image_link": "https://www.centralsono.com/25231-googleshopping/elo-quatro-1600-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-quatro-1600-mk2-elokance-7812.html",
+      "price": 1999.0,
+      "sale_price": null,
+      "title": "ELO QUATRO 1600 MK2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système Amplifié 4 voies 1300W RMS Elokance Elo 1300 MK2, composé de 2 ELO 10 MK2 et 2 ELO SUB15A MK2. Livré avec 2 barres de couplage et 2 câbles Speakon 6m PLUGGER. Le ELO 1300 ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ddd1df443471e3abe89933f20d08116a",
+      "id": "7811",
+      "image_link": "https://www.centralsono.com/25222-googleshopping/elo-1300-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-1300-mk2-elokance-7811.html",
+      "price": 1599.0,
+      "sale_price": null,
+      "title": "ELO 1300 MK2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système triphonique 800 watts RMS haut de gamme composé de 2 ELO 10 MK2, 1 ELO SUB15A MK2, 2 pieds d'enceintes et 2 câbles Speakon. Finition granité noir. Idéal pour disco-mobiles....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@07ac7cd13fd0eb1654ccdbd222b81437",
+      "id": "7810",
+      "image_link": "https://www.centralsono.com/25213-googleshopping/elo-800-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-800-mk2-elokance-7810.html",
+      "price": 999.0,
+      "sale_price": null,
+      "title": "ELO 800 MK2 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Batterie au Lithium, rechargeable, pour sono portable MA505 Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@67c08c98984cc2bc4b9d1f0d2fe6726a",
+      "id": "7809",
+      "image_link": "https://www.centralsono.com/25212-googleshopping/mb-35-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mb-35-mipro-7809.html",
+      "price": 169.0,
+      "sale_price": null,
+      "title": "MB 35 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Batterie au Lithium, rechargeable, pour sono portable MA 101 et MA 202 de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f7e4dd6300aa79c1ba9425a76dcf26f5",
+      "id": "7789",
+      "image_link": "https://www.centralsono.com/25106-googleshopping/mb-25-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mb-25-mipro-7789.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "MB 25 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Sonorisation</em> portable MA101B avec micro main ACT32H Batterie au lithium micro main sans fil ACT32H..",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@866c7ee013c58f01fa153a8d32c9ed57",
+      "id": "7788",
+      "image_link": "https://www.centralsono.com/34383-googleshopping/ma-101b-act32h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-101b-act32h-mipro-7788.html",
+      "price": 389.0,
+      "sale_price": null,
+      "title": "MA 101B + ACT32H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Sonorisation</em> portable MA101B avec micro main ACT32T Batterie au lithium émetteur sans fil ACT32T...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@80a160ff31266be2f93012a2a3eca713",
+      "id": "7786",
+      "image_link": "https://www.centralsono.com/25067-googleshopping/ma-101b-act32t-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-101b-act32t-mipro-7786.html",
+      "price": 399.0,
+      "sale_price": null,
+      "title": "MA 101B + ACT32T Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ELO 12 MK2 COVER pour l'enceinte ELO 12 MK2 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0dfd8a39e2a5dd536c185e19a804a73b",
+      "id": "7781",
+      "image_link": "https://www.centralsono.com/25058-googleshopping/elo-12-mk2-cover-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-12-mk2-cover-elokance-7781.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "ELO 12 MK2 COVER Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour enceinte avec bras, ajustable sur 45 degrés. Vendu la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c802ceaa43e6ad9ddc511cab5f34789c",
+      "id": "7770",
+      "image_link": "https://www.centralsono.com/24992-googleshopping/elo-ws-pro-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-ws-pro-elokance-7770.html",
+      "price": 34.9,
+      "sale_price": null,
+      "title": "ELO WS PRO Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour enceinte FBT XPro 15A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3c0cd9bcd0686e8bc0a9047eae120cc5",
+      "id": "7769",
+      "image_link": "https://www.centralsono.com/24991-googleshopping/xp-c-15-housse-pour-x-pro15a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xp-c-15-housse-pour-x-pro15a-fbt-7769.html",
+      "price": 43.0,
+      "sale_price": null,
+      "title": "XP-C 15 housse pour X-PRO15A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour enceinte FBT XPro 12A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d87aa42cd08ba8612664a73dbdb64221",
+      "id": "7768",
+      "image_link": "https://www.centralsono.com/24990-googleshopping/xp-c-12-housse-pour-x-pro-12a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xp-c-12-housse-pour-x-pro-12a-fbt-7768.html",
+      "price": 38.0,
+      "sale_price": null,
+      "title": "XP-C 12 housse pour X-PRO 12A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour enceinte FBT XPro 10A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@327204b057100a1b7c574c2691c9a378",
+      "id": "7767",
+      "image_link": "https://www.centralsono.com/24989-googleshopping/xp-c-10-housse-pour-x-pro-10a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xp-c-10-housse-pour-x-pro-10a-fbt-7767.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "XP-C 10 housse pour X-PRO 10A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour enceinte FBT Xlite 12A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@991d912445bd396599bbb31f697005bc",
+      "id": "7765",
+      "image_link": "https://www.centralsono.com/24987-googleshopping/xl-c-12-housse-pour-xlite-12a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-c-12-housse-pour-xlite-12a-fbt-7765.html",
+      "price": 38.0,
+      "sale_price": null,
+      "title": "XL-C 12 housse pour Xlite 12A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour enceinte XLITE 10A, référence FBT XL-C 10,...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fdff71fcab656abfbefaabecab1a7f6d",
+      "id": "7764",
+      "image_link": "https://www.centralsono.com/24986-googleshopping/xl-c-10-housse-pour-xlite-10a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-c-10-housse-pour-xlite-10a-fbt-7764.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "XL-C 10 housse pour Xlite 10A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sac de transport pour Motu Traveler et laptop, avec logo Motu...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7f367281bba91bd682d613522a67949a",
+      "id": "7761",
+      "image_link": "https://www.centralsono.com/24965-googleshopping/motu-traveler-bag-motu.jpg",
+      "link": "https://www.centralsono.com/sonorisation/motu-traveler-bag-motu-7761.html",
+      "price": 89.0,
+      "sale_price": null,
+      "title": "Motu Traveler Bag Motu",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système de <em>sonorisation</em> Elokance Stage15, puissance totale 7200W RMS, un système spécialement étudié … étudié pour la <em>sonorisation</em> de groupes. Avec ses 4 caissons et ses 4 têtes, ce système...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@70c767c26cb3143bad5e660504fd6a76",
+      "id": "7753",
+      "image_link": "https://www.centralsono.com/24886-googleshopping/stage-15-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/stage-15-elokance-7753.html",
+      "price": 5999.0,
+      "sale_price": null,
+      "title": "Stage 15 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse à fort rendement pour Club ou Bar avec HP de 18''. Puissance 1200W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@804741413d7fe0e515b19a7ffc7b3027",
+      "id": "7752",
+      "image_link": "https://www.centralsono.com/24871-googleshopping/epro-sub-18-a-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-sub-18-a-elokance-7752.html",
+      "price": 849.0,
+      "sale_price": null,
+      "title": "ePro Sub 18 A Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse à fort rendement pour Club ou Bar avec HP de 15''. Puissance 1200W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a4ee59dd868ba016ed2de90d330acb6a",
+      "id": "7751",
+      "image_link": "https://www.centralsono.com/24856-googleshopping/epro-sub-15-a-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/epro-sub-15-a-elokance-7751.html",
+      "price": 899.0,
+      "sale_price": 699.0,
+      "title": "ePro Sub 15 A Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit complet de remembranage B&C RCK18PS1008 pour le B&C Speakers 18PS100 en 8?...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@918f5cd5a5c0d48671d4d4fc54bab2e9",
+      "id": "7750",
+      "image_link": "https://www.centralsono.com/24855-googleshopping/recone-kit-pour-18ps100-8-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/recone-kit-pour-18ps100-8-b-and-c-7750.html",
+      "price": 138.0,
+      "sale_price": null,
+      "title": "Recone kit pour 18PS100 8? B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Amplifiée ABS 2 voies Professionnelle 8'' 600W BoomToneDJ PRO8-DSP , 2 Entrée Micros, 2 entrées ligne et 1 sortie LINK XLR, Utilisable en Façade ou en Retour de scène, le ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@be37ff14df68192d976f6ce76c6cbd15",
+      "id": "7734",
+      "image_link": "https://www.centralsono.com/24708-googleshopping/pro8-dsp-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pro8-dsp-boomtone-dj-7734.html",
+      "price": 189.0,
+      "sale_price": null,
+      "title": "PRO8-DSP BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système HF double main BoomToneDJ UHF 290 D avec Technologie numérique et bande passant UHF 660-690 MHz....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d9d3837ee7981e8c064774da6cdd98bf",
+      "id": "7733",
+      "image_link": "https://www.centralsono.com/24702-googleshopping/uhf-290-d-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-290-d-boomtone-dj-7733.html",
+      "price": null,
+      "sale_price": null,
+      "title": "UHF 290 D BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système HF simple main BoomToneDJ UHF 90 D avec Technologie numérique et bande passant UHF 660-690 MHz....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9b07f50145902e945a1cc629f729c213",
+      "id": "7732",
+      "image_link": "https://www.centralsono.com/24696-googleshopping/uhf-90-d-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-90-d-boomtone-dj-7732.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "UHF 90 D BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte PVC 2 Voies bi-amp 600+300w Rms HP 14¨Neodyme + moteur 1,4¨ Bande passante 45hz-20kHz. Spl max 135.5 dB. Poids 17.4 Kg...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@507373ba57e072aa06e7d4299ea6386d",
+      "id": "7731",
+      "image_link": "https://www.centralsono.com/24679-googleshopping/promaxx-114a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-114a-fbt-7731.html",
+      "price": 899.0,
+      "sale_price": null,
+      "title": "Promaxx 114A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte PVC 2 Voies bi-amp 700+200w Rms HP 12¨Neodyme + moteur 1¨ Bande passante 48hz-20kHz. Spl max 133 dB. Poids 14.8 Kg...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fe60c129a74980578dc8fb0f8fe39b39",
+      "id": "7730",
+      "image_link": "https://www.centralsono.com/24668-googleshopping/promaxx-112a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-112a-fbt-7730.html",
+      "price": 845.0,
+      "sale_price": 695.0,
+      "title": "Promaxx 112A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "SERIE ProMaxX ACTIVE AVEC DSP INTEGRE ET AMPLI NUMERIQUE. Puissance 900W RMS. Enceinte PVC 2 Voies bi-amp 700+200w Rms HP 10¨Neodyme + moteur 1¨ Bande passante 58hz-20kHz. Spl max ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@96e07156db854ca7b00b5df21716b0c6",
+      "id": "7729",
+      "image_link": "https://www.centralsono.com/24656-googleshopping/promaxx-110a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-110a-fbt-7729.html",
+      "price": 735.0,
+      "sale_price": 635.0,
+      "title": "Promaxx 110A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse pour caisson de basse FBT Vertus CLA 208 SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@94351bc971eb5aab6a0cdc84227a6af3",
+      "id": "7728",
+      "image_link": "https://www.centralsono.com/24655-googleshopping/vtc208-housse-pour-cla208-sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vtc208-housse-pour-cla208-sa-fbt-7728.html",
+      "price": 47.0,
+      "sale_price": null,
+      "title": "VTC208 housse pour CLA208 SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> Elokance i8, Boomer de 8'', puissance 150W RMS, conçue pour les installations",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2156795824e042092b04e970977114cd",
+      "id": "7727",
+      "image_link": "https://www.centralsono.com/24649-googleshopping/i8-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/i8-elokance-7727.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "i8 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte d'installation Elokance i6, idéale pour les bars, restaurants, centre de remise en forme...120W RMS, HP 6.5''...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a660d4563b8f62dd5282319cc643d950",
+      "id": "7726",
+      "image_link": "https://www.centralsono.com/24643-googleshopping/i6-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/i6-elokance-7726.html",
+      "price": 216.0,
+      "sale_price": 199.0,
+      "title": "i6 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte haut de gamme Elokance ePro 15 mk2 avec Haut-Parleur de 38 cm en Néodyme et compression à membrane de 2''. Une puissance de 400 W RMS, enceinte spéciale installation avec ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@06a50e3f66db4a334202d3adfd31c589",
+      "id": "7725",
+      "image_link": "https://www.centralsono.com/24627-googleshopping/e-pro-15-mk2-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/e-pro-15-mk2-elokance-7725.html",
+      "price": 699.0,
+      "sale_price": null,
+      "title": "E Pro 15 mk2 Elokance",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

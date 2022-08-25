@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 6,
+  "query": "sonorisation",
+  "query_counter": 8,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "2 x 300W RMS/8 Ohms, 2 x 450W RMS/4Ohms, 2 x 700W RMS/2Ohms. Utilisation en Bridge Possible : 1 x 1400W / 4Ohms. Le HPA A1400 propose 3 mode de fonctionnement (stéréo, parallèle et...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@caaa29eab72b231b0af62fbdff89bfce",
+      "id": "6932",
+      "image_link": "https://www.centralsono.com/19128-googleshopping/a1400-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/a1400-hpa-6932.html",
+      "price": 510.0,
+      "sale_price": 449.0,
+      "title": "A1400 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 400W RMS/8 Ohms, 2 x 600W RMS/4Ohms. Utilisation en Bridge Possible : 1 x 1200W / 8Ohms. Le HPA B1200 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) dans un cof...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2f254e66097fd653a5ca4cfdb33be358",
+      "id": "6930",
+      "image_link": "https://www.centralsono.com/19118-googleshopping/b1200-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/b1200-hpa-6930.html",
+      "price": 369.0,
+      "sale_price": null,
+      "title": "B1200 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 300W RMS/8 Ohms, 2 x 450W RMS/4Ohms. Utilisation en Bridge Possible : 1 x 900W / 8Ohms. Le HPA B900 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) dans un coffr...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e0308d73972d8dd5e2dd27853106386e",
+      "id": "6929",
+      "image_link": "https://www.centralsono.com/19113-googleshopping/b900-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/b900-hpa-6929.html",
+      "price": 370.0,
+      "sale_price": 329.0,
+      "title": "B900 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 200W RMS/8 Ohms, 2 x 300W RMS/4Ohms. Utilisation en Bridge Possible : 1 x 600W / 8Ohms. Le HPA B600 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) dans un coffr...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@20c1945eae4b9868cbbfd09675f7d76e",
+      "id": "6928",
+      "image_link": "https://www.centralsono.com/19108-googleshopping/b600-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/b600-hpa-6928.html",
+      "price": 310.0,
+      "sale_price": 299.0,
+      "title": "B600 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 x 100W RMS/8 Ohms, 2 x 150W RMS/4Ohms. Utilisation en Bridge Possible : 1 x 300W / 8Ohms. Le HPA B300 propose 3 mode de fonctionnement (stéréo, parallèle et bridge) dans un coffr...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0ad5292c158f3924f8b480367fcbeb94",
+      "id": "6927",
+      "image_link": "https://www.centralsono.com/19104-googleshopping/b300-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/b300-hpa-6927.html",
+      "price": 260.0,
+      "sale_price": 249.0,
+      "title": "B300 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Ceinture Adaptée pour Emetteur de Poche Mipro MT, Idéal pour applications aérobic, sports MIPRO ASP10...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9b8b50fb590c590ffbf1295ce92258dc",
+      "id": "6926",
+      "image_link": "https://www.centralsono.com/19103-googleshopping/asp-10-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/asp-10-mipro-6926.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "ASP 10 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Serre-Tête Capsule Omni-Directionnel pour Emetteur de Poche Mipro ACT 32T, 52T, 72T, 24TC, Mini-XLR et Câble longueur 1,5 m, Couleur Chair...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7ef2f13f0e9d3478d7c36f6483d38a86",
+      "id": "6925",
+      "image_link": "https://www.centralsono.com/19088-googleshopping/mu-55hns-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-55hns-mipro-6925.html",
+      "price": 109.0,
+      "sale_price": null,
+      "title": "MU 55HNS Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Serre-Tête Capsule Omni-Directionnel pour Emetteur de Poche Mipro ACT 32T, 52T, 72T, 24TC, Mini-XLR et Câble longueur 1,5 m, Couleur Noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4e246a381baf2ce038b3b0f82c7d6fb4",
+      "id": "6924",
+      "image_link": "https://www.centralsono.com/19087-googleshopping/mu-55hn-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-55hn-mipro-6924.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "MU 55HN Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Serre-Tête Capsule Uni-Directionnel pour Emetteurs de Poche Mipro ACT 32T, 52T, 72T, 24TC, Mini-XLR et Câble longueur 1,5 m, Couleur Chair...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5cc3749a6e56ef6d656735dff9176074",
+      "id": "6923",
+      "image_link": "https://www.centralsono.com/19086-googleshopping/mu-53hns-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-53hns-mipro-6923.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "MU 53HNS Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Serre-Tête Capsule Uni-Directionnel pour Emetteur de Poche Mipro ACT 32T, 52T, 72T, 24TC, Mini-XLR et Câble longueur 1,5 m, Couleur Noire...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@29fdff891569187da8e5ed4f7a6ea4c8",
+      "id": "6922",
+      "image_link": "https://www.centralsono.com/19085-googleshopping/mu-53hn-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-53hn-mipro-6922.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "MU 53HN Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Cravate Miniature Omni-Directionnel pour Emetteur de Poche Mipro ACT 32T, 52T, 72T, 24TC, Mini-XLR, Livré avec mini pince et Câble de 3m...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@39e98420b5e98bfbdc8a619bef7b8f61",
+      "id": "6921",
+      "image_link": "https://www.centralsono.com/19084-googleshopping/mu-55l-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-55l-mipro-6921.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "MU 55L Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Cravate Uni-Directionnel pour Emetteurs de Poche Mipro ACT 32T, 52T, 72T, 24TC, Mini-XLR, Livré avec mini pince et Câble longueur 3m...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@659b7b42e9c002ce0075077cd55a1623",
+      "id": "6920",
+      "image_link": "https://www.centralsono.com/19079-googleshopping/mu-53l-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-53l-mipro-6920.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "MU 53L Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Transport Renforcée pour Sono Mipro MA 707...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b670dfc593340027581047db105f3347",
+      "id": "6919",
+      "image_link": "https://www.centralsono.com/19078-googleshopping/sc70-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sc70-mipro-6919.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "SC70 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bloc Accumulateur de Rechange pour Mipro MA 707,MA 708 et MA 808 Rechargeable, Autonomie jusqu'à 6 heures...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@009c434cab57de48a31f6b669e7ba266",
+      "id": "6918",
+      "image_link": "https://www.centralsono.com/19067-googleshopping/mb-70-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mb-70-mipro-6918.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "MB 70 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Passive Supplémentaire pour Mipro MA 707, 70 Watts sous 8 Ohms, HP de 20 cm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@615299acbbac3e21302bbc435091ad9f",
+      "id": "6917",
+      "image_link": "https://www.centralsono.com/19066-googleshopping/ma-707exp-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-707exp-mipro-6917.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "MA 707EXP Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Transport Renforcée pour Sono Mipro MA 505...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1cbcaa5abbb6b70f378a3a03d0c26386",
+      "id": "6916",
+      "image_link": "https://www.centralsono.com/19061-googleshopping/sc50-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sc50-mipro-6916.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "SC50 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de Transport Renforcée pour Mipro MA-101 C et MA-101...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8b2dfbe0c1d43f9537dae01e96458ff1",
+      "id": "6914",
+      "image_link": "https://www.centralsono.com/19054-googleshopping/sc10-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sc10-mipro-6914.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "SC10 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Emetteur de Poche VHF à Fréquence Fixe pour Mipro MA 101, Fonctionne avec 2 Piles 1.5 Volts...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@32bbf7b2bc4ed14eb1e9c2580056a989",
+      "id": "6913",
+      "image_link": "https://www.centralsono.com/19053-googleshopping/mt-103a-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-103a-mipro-6913.html",
+      "price": 89.0,
+      "sale_price": null,
+      "title": "MT 103A Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Que ce soit sur un simple Analyseur de spectre ou sur un DSP qui permet les mesure RTA, le APEX 220 s'y adapte parfaitement. Micro omnidirectionnel a condensateur...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@15756c350dae3457b2718a29dc0018cb",
+      "id": "6912",
+      "image_link": "https://www.centralsono.com/19043-googleshopping/220-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/220-apex-electronics-6912.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "220 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pavillon B&C ME90. Type directivité constante pour moteur 1.4'' ( embouchure de 36mm) en Aluminium Dimensions : 270 x 270 x 138mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ed77eab0b8ff85d0a6a8365df1846978",
+      "id": "6911",
+      "image_link": "https://www.centralsono.com/19042-googleshopping/me-90-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/me-90-b-and-c-6911.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "ME 90 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pavillon B&C ME60. Type directivité constante pour moteur 2'' ( embouchure de 50mm) en Aluminium Dimensions : 270 x 237 x 202mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a569398d13eb87b14276380d2921ddbc",
+      "id": "6910",
+      "image_link": "https://www.centralsono.com/19041-googleshopping/me-60-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/me-60-b-and-c-6910.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "ME 60 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pavillon B&C ME45. Type Exponentiel pour moteur 1'' ( embouchure de 25mm) en Aluminium Dimensions : 310 x 140 x 124mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8767bccb1ff4231a9962e3914f4f1f8f",
+      "id": "6909",
+      "image_link": "https://www.centralsono.com/19040-googleshopping/me-45-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/me-45-b-and-c-6909.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "ME 45 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pavillon B&C ME20. Type Exponentiel pour moteur 1'' ( embouchure de 25mm) en Aluminium Dimensions : 145 x 145 x 90mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ab9ebd57177b5106ad7879f0896685d4",
+      "id": "6908",
+      "image_link": "https://www.centralsono.com/19031-googleshopping/me-20-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/me-20-b-and-c-6908.html",
+      "price": 19.0,
+      "sale_price": null,
+      "title": "ME 20 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pavillon B&C ME10. Type Hyperbolique pour moteur 1'' ( embouchure de 25mm) en ABS Dimensions : 130 x 130 x 90mm...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b20706935de35bbe643733f856d9e5d6",
+      "id": "6907",
+      "image_link": "https://www.centralsono.com/19029-googleshopping/me-10-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/me-10-b-and-c-6907.html",
+      "price": 12.0,
+      "sale_price": null,
+      "title": "ME 10 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE750TN 220 W AES / 8 ohms avec Diaphragme en Titane de 3'' (75mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2172fde49301047270b2897085e4319d",
+      "id": "6906",
+      "image_link": "https://www.centralsono.com/19028-googleshopping/de-750-tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-750-tn-b-and-c-6906.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "DE 750 TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE610 160 W AES / 8 ohms avec Diaphragme en Titane de 2.5'' (65mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f19ec2b84181033bf4753a5a51d5d608",
+      "id": "6905",
+      "image_link": "https://www.centralsono.com/19027-googleshopping/de-610-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-610-b-and-c-6905.html",
+      "price": 145.0,
+      "sale_price": null,
+      "title": "DE 610 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE250 120 W AES / 8 ohms avec Diaphragme en Polyimide de 1.7'' (44mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0db2e204010400f5c506620adcd1ae68",
+      "id": "6904",
+      "image_link": "https://www.centralsono.com/19026-googleshopping/de-250-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-250-b-and-c-6904.html",
+      "price": 88.0,
+      "sale_price": null,
+      "title": "DE 250 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE200 100 W AES / 8 ohms avec Diaphragme en Titane de 1.7'' (44mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@271f17707d8bfd2cd45f7e5182298703",
+      "id": "6903",
+      "image_link": "https://www.centralsono.com/19025-googleshopping/de-200-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-200-b-and-c-6903.html",
+      "price": 89.0,
+      "sale_price": null,
+      "title": "DE 200 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE160 80 W AES / 8 ohms avec Diaphragme en mylar de 1.7'' (44mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e2459ae2cf7921589685a6835ec08a7c",
+      "id": "6902",
+      "image_link": "https://www.centralsono.com/19024-googleshopping/de-160-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-160-b-and-c-6902.html",
+      "price": 77.0,
+      "sale_price": null,
+      "title": "DE 160 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE12 50 W AES / 8 ohms avec Diaphragme en Mylar de 1.4'' (36mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@84b64e537f08e81b8dea8cce972a28b2",
+      "id": "6901",
+      "image_link": "https://www.centralsono.com/19023-googleshopping/de-12-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-12-b-and-c-6901.html",
+      "price": 58.0,
+      "sale_price": null,
+      "title": "DE 12 B and C",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

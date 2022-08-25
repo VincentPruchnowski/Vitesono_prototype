@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 11,
+  "query": "sonorisation",
+  "query_counter": 13,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête/lavalier Chant et Voix dynamique UHF, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 10HL est un vrai caméléon, il s'adapte à to...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@604f2c31e67034642b288d76a8df11d5",
+      "id": "7135",
+      "image_link": "https://www.centralsono.com/20349-googleshopping/uhf-10hl-f4-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-10hl-f4-boomtone-dj-7135.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "UHF 10HL F4 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête/lavalier Chant et Voix dynamique UHF, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 10HL est un vrai caméléon, il s'adapte à to...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4206e38996fae4028a26d43b24f68d32",
+      "id": "7134",
+      "image_link": "https://www.centralsono.com/20336-googleshopping/uhf-10hl-f3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-10hl-f3-boomtone-dj-7134.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "UHF 10HL F3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête/lavalier Chant et Voix dynamique UHF, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 10HL est un vrai caméléon, il s'adapte à to...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@adf7e293599134777339fdc40ddfa818",
+      "id": "7133",
+      "image_link": "https://www.centralsono.com/20323-googleshopping/uhf-10hl-f2-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-10hl-f2-boomtone-dj-7133.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "UHF 10HL F2 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête lavalier sans fil UHF professionnel BoomToneDJ UHF 10HL F1, idéal pour les conventions, conférences, clubs, salles de spectacle... Des performances de haut niveau ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@32b127307a606effdcc8e51f60a45922",
+      "id": "7132",
+      "image_link": "https://www.centralsono.com/20310-googleshopping/uhf-10hl-f1-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-10hl-f1-boomtone-dj-7132.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "UHF 10HL F1 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Main Chant et Voix dynamique UHF, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 10M est un vrai caméléon, il s'adapte à toute utilisation ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@50e207ab6946b5d78b377ae0144b9e07",
+      "id": "7131",
+      "image_link": "https://www.centralsono.com/20300-googleshopping/uhf-10m-f3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-10m-f3-boomtone-dj-7131.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "UHF 10M F3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Main Chant et Voix dynamique UHF, convient parfaitement pour des animateurs, karaoké, chanteurs...le BoomToneDJ UHF 10M est un vrai caméléon, il s'adapte à toute utilisation ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9afbe998374ca7326d35d84180786096",
+      "id": "7130",
+      "image_link": "https://www.centralsono.com/20290-googleshopping/uhf-10m-f2-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/uhf-10m-f2-boomtone-dj-7130.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "UHF 10M F2 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Retour de Scène Amplifiée de 180W de puissance avec haut-parleur 12'', puits 35mm, entrée micro/ligne, finition moquette, l'Elokance STM-12AC convient parfaitement aux pre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bcc2bdb799f873f02080ae277f291da1",
+      "id": "7129",
+      "image_link": "https://www.centralsono.com/20285-googleshopping/stm-12ac-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/stm-12ac-elokance-7129.html",
+      "price": 269.0,
+      "sale_price": null,
+      "title": "STM 12AC Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène amplifié 90W RMS classe D avec HP 12'' Filtre anti-larsen réglable, EQ 3 bandes, préampli MIC/line...Ultra-Complet donc Indispensable. Utilisable aussi bien pour le...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e3019767b1b23f82883c9850356b71d6",
+      "id": "7128",
+      "image_link": "https://www.centralsono.com/20280-googleshopping/stm-12a-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/stm-12a-elokance-7128.html",
+      "price": 299.0,
+      "sale_price": null,
+      "title": "STM 12A Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Sonorisation</em> Portable Autonome Haute Qualité, version blanche. Bi-Amplification de 200W Compacte et Puissante",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ffa1e107c6469dafa0016703450e26ed",
+      "id": "7127",
+      "image_link": "https://www.centralsono.com/20277-googleshopping/ma-708paw-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-708paw-mipro-7127.html",
+      "price": 689.0,
+      "sale_price": null,
+      "title": "MA 708PAW Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour enceinte avec bras de longueur 260mm, ajustable sur 45 degrés et embase 35mm. Vendu la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cb93980bc94a17e36d6de5da28b99785",
+      "id": "7126",
+      "image_link": "https://www.centralsono.com/20268-googleshopping/ws-1-la-piece-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ws-1-la-piece-boomtone-dj-7126.html",
+      "price": 31.0,
+      "sale_price": 25.0,
+      "title": "WS 1 (La Pièce) BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série d + RCA est spécialement conçue selon de nombreux conseils de DJs, Artistes, Clubs et s'inscrit aussi parfaitement dans des environnements audiophiles....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@80f7325fa857de62fafe85f7a30273cb",
+      "id": "7125",
+      "image_link": "https://www.centralsono.com/20266-googleshopping/class-s-rca-2m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-s-rca-2m-oyaide-7125.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "Class S RCA 2m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série d + RCA est spécialement conçue selon de nombreux conseils de DJs, Artistes, Clubs et s'inscrit aussi parfaitement dans des environnements audiophiles....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@64986d86a17424eeac96b08a6d519059",
+      "id": "7124",
+      "image_link": "https://www.centralsono.com/20263-googleshopping/class-s-rca-1m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-s-rca-1m-oyaide-7124.html",
+      "price": 109.0,
+      "sale_price": null,
+      "title": "Class S RCA 1m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série d + RCA est spécialement conçue selon de nombreux conseils de DJs, Artistes, Clubs et s'inscrit aussi parfaitement dans des environnements audiophiles....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e3a54649aeec04cf1c13907bc6c5c8aa",
+      "id": "7123",
+      "image_link": "https://www.centralsono.com/20262-googleshopping/class-a-rca-2m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-a-rca-2m-oyaide-7123.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "Class A RCA 2m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de transport spécialement conçue pour l'enceinte satellite du système VERTUS CLA 604A de FBT...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bc19986e5c658d4135bd559a0b37c0bc",
+      "id": "7118",
+      "image_link": "https://www.centralsono.com/20245-googleshopping/vtc-604-housse-pour-cla-604a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vtc-604-housse-pour-cla-604a-fbt-7118.html",
+      "price": 38.0,
+      "sale_price": null,
+      "title": "VTC 604 housse pour CLA 604A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur pour stand 35mm, pour système VERTUS FBT...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@860b37e28ec7ba614f00f9246949561d",
+      "id": "7117",
+      "image_link": "https://www.centralsono.com/20244-googleshopping/vts-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vts-604-fbt-7117.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "VTS 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse de la série VERTUS, le FBT VERTUS CLA208 SA est équipé de 2 x haut parleurs de 8'' (21cm) et d'une amplification numérique en Classe D de 600 watts RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@47267ca39f652c0de27a4b27c5e11c40",
+      "id": "7116",
+      "image_link": "https://www.centralsono.com/20234-googleshopping/vertus-cla-208sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cla-208sa-fbt-7116.html",
+      "price": 829.0,
+      "sale_price": null,
+      "title": "VERTUS CLA 208SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte colonne type Line Array FBT VERTUS CLA604 A, Bi-amplification en Class D de 500 watts (400 + 100W RMS) équipée de 6 haut parleurs de 4'' (100mm) + 4 tweeters 1''...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5301c4d888f5204274439e6dcf5fdb54",
+      "id": "7115",
+      "image_link": "https://www.centralsono.com/20223-googleshopping/vertus-cla-604a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cla-604a-fbt-7115.html",
+      "price": 990.0,
+      "sale_price": null,
+      "title": "VERTUS CLA 604A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur Mini Jack Femelle Mono - Jack Mâle Mono 6.35mm, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0ea6f098a59fcf2462afc50d130ff034",
+      "id": "7356",
+      "image_link": "https://www.centralsono.com/22202-googleshopping/adaptateur-mini-jack-femelle-mono-jack-male-mono-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-mini-jack-femelle-mono-jack-male-mono-easy-plugger-7356.html",
+      "price": 2.0,
+      "sale_price": null,
+      "title": "Adaptateur Mini Jack Femelle Mono - Jack Mâle Mono Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Mâle / RCA Mâle Mono, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@536eecee295b92db6b32194e269541f8",
+      "id": "7355",
+      "image_link": "https://www.centralsono.com/22198-googleshopping/adaptateur-xlr-male-rca-male-mono-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-male-rca-male-mono-easy-plugger-7355.html",
+      "price": 2.95,
+      "sale_price": null,
+      "title": "Adaptateur XLR Mâle - RCA Mâle Mono Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle - RCA Mâle, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@547b85f3fafdf30856386753dc21c4e1",
+      "id": "7354",
+      "image_link": "https://www.centralsono.com/22194-googleshopping/adaptateur-xlr-femelle-rca-male-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-rca-male-easy-plugger-7354.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle - RCA Mâle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur 2 Jack Femelle Mono 6.35 / 1 Jack Mâle Stéréo 6.35mm, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5fd2c06f558321eff612bbbe455f6fbd",
+      "id": "7353",
+      "image_link": "https://www.centralsono.com/22190-googleshopping/adaptateur-jack-femelle-mono-jack-male-stereo-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-jack-femelle-mono-jack-male-stereo-easy-plugger-7353.html",
+      "price": 2.0,
+      "sale_price": null,
+      "title": "Adaptateur Jack Femelle Mono - Jack Mâle Stéréo Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur RCA Femelle Stéréo / Jack Mâle Stéréo 6.35mm Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ab73f542b6d60c4de151800b8abc0a6c",
+      "id": "7352",
+      "image_link": "https://www.centralsono.com/22186-googleshopping/adaptateur-rca-femelle-stereo-jack-male-stereo-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-rca-femelle-stereo-jack-male-stereo-easy-plugger-7352.html",
+      "price": 1.48,
+      "sale_price": null,
+      "title": "Adaptateur RCA Femelle Stéréo - Jack Mâle Stéréo Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle 3 broches / XLR Mâle 3 broches, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a18ad9f9bcd4e260979d102a260fc262",
+      "id": "7351",
+      "image_link": "https://www.centralsono.com/22182-googleshopping/adaptateur-xlr-femelle-xlr-male-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-xlr-male-easy-plugger-7351.html",
+      "price": 5.0,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle - XLR Mâle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Mâle 3 broches / XLR Mâle 3 broches, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b665bf733325cebbccee5935b1272616",
+      "id": "7350",
+      "image_link": "https://www.centralsono.com/22179-googleshopping/adaptateur-xlr-male-xlr-male-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-male-xlr-male-easy-plugger-7350.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Adaptateur XLR Mâle - XLR Mâle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur RCA Femelle / XLR Mâle, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ad8d3a0a0f0a084a97fad357c649438c",
+      "id": "7349",
+      "image_link": "https://www.centralsono.com/22175-googleshopping/adaptateur-rca-femelle-xlr-male-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-rca-femelle-xlr-male-easy-plugger-7349.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Adaptateur RCA Femelle - XLR Mâle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle/ RCA Femelle, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d863d5ec458b0dc3b46cba96d9d49ac3",
+      "id": "7348",
+      "image_link": "https://www.centralsono.com/22171-googleshopping/adaptateur-xlr-femelle-rca-femelle-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-rca-femelle-easy-plugger-7348.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle - RCA Femelle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Mâle / Jack Mâle Mono 6.35mm Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2b763288faedb7707c0748abe015ab6c",
+      "id": "7347",
+      "image_link": "https://www.centralsono.com/22167-googleshopping/adaptateur-xlr-male-jack-male-mono-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-male-jack-male-mono-easy-plugger-7347.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Adaptateur XLR Mâle - Jack Mâle Mono Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle / Jack Mâle Mono 6.35mm Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1387a00f03b4b423e63127b08c261bdc",
+      "id": "7346",
+      "image_link": "https://www.centralsono.com/22163-googleshopping/adaptateur-xlr-femelle-jack-male-mono-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-jack-male-mono-easy-plugger-7346.html",
+      "price": 2.95,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle - Jack Mâle Mono Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 4mm², longueur 100 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2e4fb1ddb61e8e45740ed0415f2b28b0",
+      "id": "7345",
+      "image_link": "https://www.centralsono.com/22162-googleshopping/bobine-hp-2-x-4mm-100-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-4mm-100-metres-plugger-7345.html",
+      "price": 269.0,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 4mm² 100 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 4mm², longueur 50 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@14da15db887a4b50efe5c1bc66537089",
+      "id": "7344",
+      "image_link": "https://www.centralsono.com/22161-googleshopping/bobine-hp-2-x-4mm-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-4mm-50-metres-plugger-7344.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 4mm² 50 mètres Plugger",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

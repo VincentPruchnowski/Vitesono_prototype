@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 17,
+  "query": "sonorisation",
+  "query_counter": 19,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle 1.5mm / Jack Mâle 1.5mm - 6 mètres, diamètre OD6, longueur 6 mètres PLUGGER...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@95c8ba4434e9db2bf3e20c639b04c56f",
+      "id": "7365",
+      "image_link": "https://www.centralsono.com/22236-googleshopping/cable-jack-male-15mm-jack-male-15mm-6-metres-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-15mm-jack-male-15mm-6-metres-easy-plugger-7365.html",
+      "price": 12.6,
+      "sale_price": null,
+      "title": "Câble Jack Mâle 1.5mm - Jack Mâle 1.5mm 6 mètres Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur Speakon Femelle - Speakon Femelle, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d82f9436247aa0049767b776dceab4ed",
+      "id": "7364",
+      "image_link": "https://www.centralsono.com/22233-googleshopping/adaptateur-speakon-femelle-speakon-femelle-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-speakon-femelle-speakon-femelle-easy-plugger-7364.html",
+      "price": 7.5,
+      "sale_price": null,
+      "title": "Adaptateur Speakon Femelle - Speakon Femelle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Mâle 3b / Jack Mâle Stéréo 6.35mm, Connecteurs métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@18085327b86002fc604c323b9a07f997",
+      "id": "7363",
+      "image_link": "https://www.centralsono.com/22229-googleshopping/adaptateur-xlr-male-3b-jack-male-stereo-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-male-3b-jack-male-stereo-easy-plugger-7363.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Adaptateur XLR Mâle 3b - Jack Mâle Stéréo Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur Jack Femelle Mono 6.35mm - XLR Mâle 3 broches, Connecteurs métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1e9b64527e41c7360750af533155aebd",
+      "id": "7362",
+      "image_link": "https://www.centralsono.com/22225-googleshopping/adaptateur-jack-femelle-mono-xlr-male-3b-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-jack-femelle-mono-xlr-male-3b-easy-plugger-7362.html",
+      "price": 4.0,
+      "sale_price": null,
+      "title": "Adaptateur Jack Femelle Mono - XLR Mâle 3b Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle 3 broches - Jack Femelle 6.35mm, Connecteurs métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3e9f7c16bd1cdea78f8e2eea72dfdfbe",
+      "id": "7361",
+      "image_link": "https://www.centralsono.com/22221-googleshopping/adaptateur-xlr-femelle-3b-jack-femelle-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-3b-jack-femelle-easy-plugger-7361.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle 3b - Jack Femelle Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur XLR Femelle 3 broches / XLR Femelle 3 broches, Connecteurs métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e44e875c12109e4fa3716c05008048b2",
+      "id": "7360",
+      "image_link": "https://www.centralsono.com/22218-googleshopping/adaptateur-xlr-femelle-3b-xlr-femelle-3b-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-xlr-femelle-3b-xlr-femelle-3b-easy-plugger-7360.html",
+      "price": 5.9,
+      "sale_price": null,
+      "title": "Adaptateur XLR Femelle 3b - XLR Femelle 3b Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur Jack Femelle Mono 6.35mm / Mini Jack Mâle Mono, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b80ba73857eed2a36dc7640e2310055a",
+      "id": "7359",
+      "image_link": "https://www.centralsono.com/22214-googleshopping/adaptateur-jack-femelle-mono-mini-jack-male-mono-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-jack-femelle-mono-mini-jack-male-mono-easy-plugger-7359.html",
+      "price": 2.0,
+      "sale_price": null,
+      "title": "Adaptateur Jack Femelle Mono - Mini Jack Mâle Mono Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur Jack Femelle Stéréo 6.35mm / Mini Jack Mâle Stéréo, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e9a8f256f4904b06246375df06a8864b",
+      "id": "7358",
+      "image_link": "https://www.centralsono.com/22210-googleshopping/adaptateur-jack-femelle-stereo-mini-jack-male-stereo-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-jack-femelle-stereo-mini-jack-male-stereo-easy-plugger-7358.html",
+      "price": 2.0,
+      "sale_price": null,
+      "title": "Adaptateur Jack Femelle Stéréo - Mini Jack Mâle Stéréo Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur Mini Jack Femelle Stéréo - Jack Mâle Stéréo 6.35mm, Connecteur métal, Vendu à la pièce...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f065d878ccfb4cc4f4265a4ff8bafa9a",
+      "id": "7357",
+      "image_link": "https://www.centralsono.com/22206-googleshopping/adaptateur-mini-jack-femelle-stereo-jack-male-stereo-easy-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/adaptateur-mini-jack-femelle-stereo-jack-male-stereo-easy-plugger-7357.html",
+      "price": 2.0,
+      "sale_price": null,
+      "title": "Adaptateur Mini Jack Femelle Stéréo - Jack Mâle Stéréo Easy Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 10 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3b220b436e5f3d917a1e649a0dc0281c",
+      "id": "7589",
+      "image_link": "https://www.centralsono.com/23520-googleshopping/cable-jack-male-stereo-jack-male-stereo-10-m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-10-m-elite-plugger-7589.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 10 m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 6 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7576182d0a84b1ba2207f8f061d48bc9",
+      "id": "7588",
+      "image_link": "https://www.centralsono.com/23517-googleshopping/cable-jack-male-stereo-jack-male-stereo-6-m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-6-m-elite-plugger-7588.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 6 m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 3 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@717e15ebeb12bbe8061ef3c21578f463",
+      "id": "7587",
+      "image_link": "https://www.centralsono.com/23514-googleshopping/cable-jack-male-stereo-jack-male-stereo-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-3m-elite-plugger-7587.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 3m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 1.50 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4be2c8f27b8a420492f2d44463933eb6",
+      "id": "7586",
+      "image_link": "https://www.centralsono.com/23511-googleshopping/cable-jack-male-stereo-jack-male-stereo-150-m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-150-m-elite-plugger-7586.html",
+      "price": 27.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 1.50 m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Stéréo / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 0.6 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7eb5ac36014a76629c40069e46136a61",
+      "id": "7585",
+      "image_link": "https://www.centralsono.com/23508-googleshopping/cable-jack-male-stereo-jack-male-stereo-060-m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-stereo-jack-male-stereo-060-m-elite-plugger-7585.html",
+      "price": 25.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Stéréo - Jack Mâle Stéréo 0.60 m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono / Jack Mâle Mono 6.35mm, diamètre OD7, longueur 15 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@44d5ec303a81339c0d05ec3cab0fccfa",
+      "id": "7584",
+      "image_link": "https://www.centralsono.com/23506-googleshopping/cable-jack-male-mono-jack-male-mono-15m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-15m-elite-plugger-7584.html",
+      "price": 31.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 15m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono / Jack Mâle Mono 6.35mm, diamètre OD7, longueur 10 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9ddc70b3617c3e65c03fa63c230a1705",
+      "id": "7583",
+      "image_link": "https://www.centralsono.com/23503-googleshopping/cable-jack-male-mono-jack-male-mono-10m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-10m-elite-plugger-7583.html",
+      "price": 26.5,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 10m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono / Jack Mâle Mono 6.35mm, diamètre OD7, longueur 6 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@48c4a756d0ce842a039b2ee9e3f05174",
+      "id": "7582",
+      "image_link": "https://www.centralsono.com/23500-googleshopping/cable-jack-male-mono-jack-male-mono-6m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-6m-elite-plugger-7582.html",
+      "price": 23.5,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 6m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono / Jack Mâle Mono 6.35mm, diamètre OD7, longueur 3 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0b794a03744a03800313ca0f2e291294",
+      "id": "7581",
+      "image_link": "https://www.centralsono.com/23497-googleshopping/cable-jack-male-mono-jack-male-mono-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-3m-elite-plugger-7581.html",
+      "price": 20.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 3m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono / Jack Mâle Mono 6.35mm, diamètre OD7, longueur 1.50 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@62326dc7c4f7b849d6f013ba46489d6c",
+      "id": "7580",
+      "image_link": "https://www.centralsono.com/23494-googleshopping/cable-jack-male-mono-jack-male-mono-150-m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-150-m-elite-plugger-7580.html",
+      "price": 19.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 1.50 m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack Mâle Mono / Jack Mâle Mono 6.35mm, diamètre OD7, longueur 0.60 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@376c6b9ff3bedbbea56751a84fffc10c",
+      "id": "7579",
+      "image_link": "https://www.centralsono.com/23491-googleshopping/cable-jack-male-mono-jack-male-mono-06m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-jack-male-mono-jack-male-mono-06m-elite-plugger-7579.html",
+      "price": 18.0,
+      "sale_price": null,
+      "title": "Câble Jack Mâle Mono - Jack Mâle Mono 0.6m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 15 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5e2b66750529d8ae895ad2591118466f",
+      "id": "7578",
+      "image_link": "https://www.centralsono.com/23488-googleshopping/cable-xlr-male-3b-jack-male-stereo-15m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-15m-elite-plugger-7578.html",
+      "price": 34.5,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 15m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 10 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c57daa0bc9c4d8e35a21e9a2801aecb2",
+      "id": "7577",
+      "image_link": "https://www.centralsono.com/23485-googleshopping/cable-xlr-male-3b-jack-male-stereo-10m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-10m-elite-plugger-7577.html",
+      "price": 29.5,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 10m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 6 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f18ee45840e18329939acf1095cdc5a9",
+      "id": "7576",
+      "image_link": "https://www.centralsono.com/23482-googleshopping/cable-xlr-male-3b-jack-male-stereo-6m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-6m-elite-plugger-7576.html",
+      "price": 26.5,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 6m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 3 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b56522cb95aa89c207e129509362cce3",
+      "id": "7575",
+      "image_link": "https://www.centralsono.com/23479-googleshopping/cable-xlr-male-3b-jack-male-stereo-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-3m-elite-plugger-7575.html",
+      "price": 23.0,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 3m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 1.50 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c2ae5cb2426d96ed19a50b0b7d7c8e11",
+      "id": "7574",
+      "image_link": "https://www.centralsono.com/23476-googleshopping/cable-xlr-male-3b-jack-male-stereo-150m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-150m-elite-plugger-7574.html",
+      "price": 16.4,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 1.50m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Mâle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 0.60 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@685217557383cd194b4f10ae4b39eebf",
+      "id": "7573",
+      "image_link": "https://www.centralsono.com/23473-googleshopping/cable-xlr-male-3b-jack-male-stereo-06m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-male-3b-jack-male-stereo-06m-elite-plugger-7573.html",
+      "price": 21.5,
+      "sale_price": null,
+      "title": "Câble XLR Mâle 3b - Jack Mâle Stéréo 0.6m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 15 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9b8ef27229c42198631813f1d2f60aaf",
+      "id": "7572",
+      "image_link": "https://www.centralsono.com/23470-googleshopping/cable-xlr-femelle-3b-jack-male-stereo-15m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-jack-male-stereo-15m-elite-plugger-7572.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - Jack Mâle Stéréo 15m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 10 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@25702d4234f4c7dc542adde64426a7ca",
+      "id": "7571",
+      "image_link": "https://www.centralsono.com/23467-googleshopping/cable-xlr-femelle-3b-jack-male-stereo-10m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-jack-male-stereo-10m-elite-plugger-7571.html",
+      "price": 24.5,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - Jack Mâle Stéréo 10m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 6 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@437d46a857214c997956eaf0e3b21a55",
+      "id": "7570",
+      "image_link": "https://www.centralsono.com/23464-googleshopping/cable-xlr-femelle-3b-jack-male-stereo-6m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-jack-male-stereo-6m-elite-plugger-7570.html",
+      "price": 27.5,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - Jack Mâle Stéréo 6m Elite Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble XLR Femelle 3 broches / Jack Mâle Stéréo 6.35mm, diamètre OD7, longueur 3 mètres PLUGGER série Elite, Connecteurs Neutrik (Fabrication Suisse), Liaison 100% Cuivre...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@236f119f58f5fd102c5a2ca609fdcbd8",
+      "id": "7569",
+      "image_link": "https://www.centralsono.com/23461-googleshopping/cable-xlr-femelle-3b-jack-male-stereo-3m-elite-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-xlr-femelle-3b-jack-male-stereo-3m-elite-plugger-7569.html",
+      "price": 24.5,
+      "sale_price": null,
+      "title": "Câble XLR Femelle 3b - Jack Mâle Stéréo 3m Elite Plugger",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

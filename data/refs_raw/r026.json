@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 29,
+  "query": "sonorisation",
+  "query_counter": 31,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 115 et 115A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0aed23da2775d1ffec4e951b99f3cca8",
+      "id": "7944",
+      "image_link": "https://www.centralsono.com/26204-googleshopping/vn-u-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-115-fbt-7944.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "VN-U 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Jeu de 4 roulettes pour caisson de basse FBT X-Sub 15 et X-Sub 18...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0163cceb20f5ca7b313419c068abd9dc",
+      "id": "7943",
+      "image_link": "https://www.centralsono.com/26203-googleshopping/kw-x-sub-kit-de-roulettes-pour-x-sub-15-et-18-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/kw-x-sub-kit-de-roulettes-pour-x-sub-15-et-18-fbt-7943.html",
+      "price": 95.0,
+      "sale_price": null,
+      "title": "KW-X SUB kit de roulettes pour X-Sub 15 et 18 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour système FBT Vertus CS 1000 En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0f541eccc4dc49cc19da7ca4594fad27",
+      "id": "7942",
+      "image_link": "https://www.centralsono.com/26202-googleshopping/vt-c1000-housse-pour-vertus-cs-1000-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-c1000-housse-pour-vertus-cs-1000-fbt-7942.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "VT-C1000 Housse pour Vertus CS 1000 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Jeu de 4 roulettes pour caisson de basse FBT SubLine 115 SA, HiMaxX 100SA et ProMaxX 15 SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@46c7cb50b373877fb2f8d5c4517bb969",
+      "id": "7941",
+      "image_link": "https://www.centralsono.com/26201-googleshopping/kw-hm-80-kit-de-roulettes-pour-subline-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/kw-hm-80-kit-de-roulettes-pour-subline-115-fbt-7941.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "KW-HM 80 kit de roulettes pour SubLine 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Jeu de 4 roulettes pour caisson de basse FBT des séries SubLine ou Mitus - Jeu de 4 roulettes pour enceinte FBT - Ø 100 mm - Compatible avec : - SubLine 218S - SubLine 218SA ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@30de9ece7cf3790c8c39ccff1a044209",
+      "id": "7940",
+      "image_link": "https://www.centralsono.com/26200-googleshopping/kbw-1004s-kit-de-roulettes-pour-subline-118-et-218-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/kbw-1004s-kit-de-roulettes-pour-subline-118-et-218-fbt-7940.html",
+      "price": 125.0,
+      "sale_price": null,
+      "title": "KBW-1004S kit de roulettes pour SubLine 118 et 218 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 115 SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@838f14a84363d9a7ac1b06ad63fc6fb5",
+      "id": "7939",
+      "image_link": "https://www.centralsono.com/26198-googleshopping/sl-ch-115-housse-pour-subline-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-ch-115-housse-pour-subline-115-fbt-7939.html",
+      "price": 115.0,
+      "sale_price": null,
+      "title": "SL-CH 115 housse pour SubLine 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 118S ou SubLine 118SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b4892f808f9efbd561cecbfbec3ad20d",
+      "id": "7938",
+      "image_link": "https://www.centralsono.com/26196-googleshopping/sl-ch-118-housse-pour-subline-118s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-ch-118-housse-pour-subline-118s-fbt-7938.html",
+      "price": 90.0,
+      "sale_price": null,
+      "title": "SL-CH 118 housse pour SubLine 118S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 218S ou SubLine 218SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ca3a856a28df7d77d948949206ff9fdf",
+      "id": "7937",
+      "image_link": "https://www.centralsono.com/26194-googleshopping/sl-ch-218s-housse-pour-subline-218s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-ch-218s-housse-pour-subline-218s-fbt-7937.html",
+      "price": 145.0,
+      "sale_price": null,
+      "title": "SL-CH 218S housse pour SubLine 218S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit 4 micros pour batterie, avec pinces de montage sur toms Le pack de batterie Apex-DP5 contient quatre des microphones dynamiques essentiels pour la prise de son d'un kit de bat...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7ae26cbe9586dea7d1f0fa372aa86811",
+      "id": "8158",
+      "image_link": "https://www.centralsono.com/26946-googleshopping/dp-5-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dp-5-apex-electronics-8158.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "DP 5 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE550TN 140 W AES / 8 ohms avec Diaphragme en Titane de 2'' (51mm) . Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6f0442558302a6ededff195daf67f79b",
+      "id": "8156",
+      "image_link": "https://www.centralsono.com/26943-googleshopping/de550tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de550tn-b-and-c-8156.html",
+      "price": 145.0,
+      "sale_price": null,
+      "title": "DE550TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15 HCX 76 : Haut Parleur Coaxial de 15'' (38cm) et moteur 1.3'' - 800 + 160 Watts AES / 8 + 8 Ohms, Bobine mobile de 76mm pour le grave et 76mm pour le moteur , mono a...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fb647ca6672b0930e9d00dc384d8b16f",
+      "id": "8155",
+      "image_link": "https://www.centralsono.com/26940-googleshopping/15hcx76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15hcx76-b-and-c-8155.html",
+      "price": 488.0,
+      "sale_price": null,
+      "title": "15HCX76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 18NBX100 : Haut Parleur SUB Basse de 18'' (46cm), 2400 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@28498620653e59a7e22c2b50748e2766",
+      "id": "8153",
+      "image_link": "https://www.centralsono.com/26935-googleshopping/18nbx100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/18nbx100-b-and-c-8153.html",
+      "price": 420.0,
+      "sale_price": null,
+      "title": "18NBX100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 14NDL88 : Haut Parleur Basse/Medium de 14'' (36cm), 1400 Watts AES / 8 Ohms, Bobine mobile de 88mm, aimant Néodyme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8460637fc1f901bbf7aef374050e836d",
+      "id": "8152",
+      "image_link": "https://www.centralsono.com/26932-googleshopping/14ndl88-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/14ndl88-b-and-c-8152.html",
+      "price": 213.0,
+      "sale_price": null,
+      "title": "14NDL88 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 14NDL76 : Haut Parleur Basse/Medium de 14'' (36cm), 1000 Watts AES / 8 Ohms, Bobine mobile de 76mm, aimant Néodyme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@debe236f3c30658190a8fe363a2b5cc0",
+      "id": "8151",
+      "image_link": "https://www.centralsono.com/26929-googleshopping/14ndl76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/14ndl76-b-and-c-8151.html",
+      "price": 179.0,
+      "sale_price": null,
+      "title": "14NDL76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 12CL76 : Haut Parleur Basse/Medium de 12'' (31cm), 700 Watts AES / 8 Ohms, Bobine mobile de 73mm, aimant Néodyme et châssis en Tôle...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c68bd9055776bf38d8fc43c0ed283678",
+      "id": "8150",
+      "image_link": "https://www.centralsono.com/26927-googleshopping/12-cl-76-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/12-cl-76-b-and-c-8150.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "12 CL 76 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 8NDL64 : Haut Parleur de Bas Medium / Medium de 8'' (21cm), 700 Watts AES / 8 Ohms. bobine mobile de 2.5'' (6.4cm). Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@789ba2ae4d335e8a2ad283a3f7effced",
+      "id": "8149",
+      "image_link": "https://www.centralsono.com/26924-googleshopping/8ndl64-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/8ndl64-b-and-c-8149.html",
+      "price": 128.0,
+      "sale_price": null,
+      "title": "8NDL64 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 5MDN38 : Haut Parleur de Medium de 5'' (15.5cm), 200 Watts AES / 8 Ohms. bobine mobile de 1.5'' (3.8cm). Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e2c4c0b38669387a2a842e1fe391d233",
+      "id": "8148",
+      "image_link": "https://www.centralsono.com/26922-googleshopping/5mdn38-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/5mdn38-b-and-c-8148.html",
+      "price": 78.0,
+      "sale_price": null,
+      "title": "5MDN38 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15TBW100 : Haut Parleur SUB Basse de 15'' (38cm), 3000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@516b38afeee70474b04881a633728b15",
+      "id": "8147",
+      "image_link": "https://www.centralsono.com/26919-googleshopping/15tbw100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15tbw100-b-and-c-8147.html",
+      "price": 299.0,
+      "sale_price": null,
+      "title": "15TBW100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 15RBX100 : Haut Parleur Basse/Medium de 15'' (38cm), 2000 Watts AES / 8 Ohms, Bobine mobile de 100mm, aimant Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@202ed3792e2cfa7318b12ead83763c37",
+      "id": "8146",
+      "image_link": "https://www.centralsono.com/26916-googleshopping/15rbx100-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/15rbx100-b-and-c-8146.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "15RBX100 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 10FW64 : Haut Parleur Basse/Medium de 10'' (25cm), 500 Watts AES / 8 Ohms, Bobine mobile de 64mm, aimant en Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0c0cfd9478c6551fbfe74a7acb6fc037",
+      "id": "8145",
+      "image_link": "https://www.centralsono.com/26913-googleshopping/10-fw-64-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/10-fw-64-b-and-c-8145.html",
+      "price": 125.0,
+      "sale_price": null,
+      "title": "10 FW 64 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 8FW51 : Haut Parleur de Basse/Medium de 8'' (21cm), 400 Watts AES / 8 Ohms. bobine mobile de 2'' (5.1cm). Aimant Ferrite...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@edf0320adc8658b25ca26be5351b6c4a",
+      "id": "8144",
+      "image_link": "https://www.centralsono.com/26910-googleshopping/8fw51-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/8fw51-b-and-c-8144.html",
+      "price": 146.0,
+      "sale_price": null,
+      "title": "8FW51 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DCM50 160 W AES / 8 ohms avec Diaphragme composite de 2'' (51mm) . Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0c95054981de037de06e544a52eb3613",
+      "id": "8143",
+      "image_link": "https://www.centralsono.com/26909-googleshopping/dcm50-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/dcm50-b-and-c-8143.html",
+      "price": 345.0,
+      "sale_price": null,
+      "title": "DCM50 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE885TN 220 W AES / 8 ohms avec Diaphragme en Titane de 3'' (75mm) . Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4b5b81483048c8942ed00caaa17b9535",
+      "id": "8142",
+      "image_link": "https://www.centralsono.com/26908-googleshopping/de885tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de885tn-b-and-c-8142.html",
+      "price": 389.0,
+      "sale_price": null,
+      "title": "DE885TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE880TN 220 W AES / 8 ohms avec Diaphragme en Titane de 3'' (75mm) . Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f1de5100906f31712aaa5166689bfdf4",
+      "id": "8141",
+      "image_link": "https://www.centralsono.com/26907-googleshopping/de880tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de880tn-b-and-c-8141.html",
+      "price": 359.0,
+      "sale_price": null,
+      "title": "DE880TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE82TN 220 W AES / 8 ohms avec Diaphragme en Titane de 3'' (75mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e2db7186375992e729165726762cb4c1",
+      "id": "8140",
+      "image_link": "https://www.centralsono.com/26906-googleshopping/de82tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de82tn-b-and-c-8140.html",
+      "price": 259.0,
+      "sale_price": null,
+      "title": "DE82TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE550 140 W AES / 8 ohms avec Diaphragme en HT Polymer de 2'' (51mm) . Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e025b6279c1b88d3ec0eca6fcb6e6280",
+      "id": "8139",
+      "image_link": "https://www.centralsono.com/26905-googleshopping/de-550-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-550-b-and-c-8139.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "DE 550 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE400TN 100 W AES / 8 ohms avec Diaphragme en Titane de 1.7'' (44mm) . Aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e430ad64df3de73e6be33bcb7f6d0dac",
+      "id": "8138",
+      "image_link": "https://www.centralsono.com/26904-googleshopping/de-400-tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de-400-tn-b-and-c-8138.html",
+      "price": 115.0,
+      "sale_price": null,
+      "title": "DE 400 TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 1'' B&C DE14TN 60 W AES / 8 ohms avec Diaphragme en Titane de 1.4'' (36mm) . Aimant Ferrite....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2f3d9b534d726b2d921451852adedb0c",
+      "id": "8137",
+      "image_link": "https://www.centralsono.com/26903-googleshopping/de14tn-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de14tn-b-and-c-8137.html",
+      "price": 72.0,
+      "sale_price": null,
+      "title": "DE14TN B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Moteur 0.5'' B&C DE5 20 W AES / 8 ohms avec Diaphragme en Mylar de 1''. Aimant Néodyme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@426ea2897becd89515f19117a51c49f1",
+      "id": "8136",
+      "image_link": "https://www.centralsono.com/26902-googleshopping/de5-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/de5-b-and-c-8136.html",
+      "price": 37.0,
+      "sale_price": null,
+      "title": "DE5 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "B&C Speakers 21SW152 : Haut Parleur Infra Basse de 21'' (53cm), 4000 Watts AES / 8 Ohms, Bobine mobile de 152mm, aimant Néodyme....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@518fc66deea9d064d0a92eb73e4ea61b",
+      "id": "8135",
+      "image_link": "https://www.centralsono.com/26900-googleshopping/21-sw-152-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/21-sw-152-b-and-c-8135.html",
+      "price": 589.0,
+      "sale_price": null,
+      "title": "21 SW 152 B and C",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

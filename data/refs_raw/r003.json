@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 8,
+  "query": "sonorisation",
+  "query_counter": 10,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "La série D+ de Oyaide vous propose un câble USB 1 mètre de class s pour une utilisation pro ou semi de votre contrôleur USB ou carte son... Indispensable pour une bonne qualité aud...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@504b7f668328dab60570f03ecfe47918",
+      "id": "7088",
+      "image_link": "https://www.centralsono.com/20087-googleshopping/class-s-usb-1m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-s-usb-1m-oyaide-7088.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "Class S USB 1m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série D+ de Oyaide vous propose un câble USB 2 mètres de class A pour une utilisation pro ou semi de votre contrôleur USB ou carte son... Indispensable pour une bonne qualité au...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f8e6ba1db0f3c4054afec1684ba8fb26",
+      "id": "7086",
+      "image_link": "https://www.centralsono.com/20085-googleshopping/class-a-usb-2m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-a-usb-2m-oyaide-7086.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "Class A USB 2m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série D+ de Oyaide vous propose un câble USB 2 mètres de class B pour une utilisation pro ou semi de votre contrôleur USB ou carte son... Indispensable pour une bonne qualité a...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0dbd53751c00e0784799008b44471a77",
+      "id": "7085",
+      "image_link": "https://www.centralsono.com/20084-googleshopping/class-b-usb-2m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-usb-2m-oyaide-7085.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Class B USB 2m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série D+ de Oyaide vous propose un câble USB 1 mètre de class B pour une utilisation pro ou semi de votre contrôleur USB ou carte son... Indispensable pour une bonne qualité aud...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1e9f65024cd764a33b94a14b0e79f42d",
+      "id": "7084",
+      "image_link": "https://www.centralsono.com/20083-googleshopping/class-b-usb-1m-oyaide.jpg",
+      "link": "https://www.centralsono.com/sonorisation/class-b-usb-1m-oyaide-7084.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Class B USB 1m Oyaide",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Plateau à roulettes adapté pour le transport des caissons de basses Elo Sub18Amono...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@413894b7e2c6dfc6e8a0e9f18287e3c4",
+      "id": "7083",
+      "image_link": "https://www.centralsono.com/20078-googleshopping/elo-wheel-18-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-wheel-18-elokance-7083.html",
+      "price": 119.0,
+      "sale_price": null,
+      "title": "ELO WHEEL 18 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ELO COVER 8 pour l'enceinte ELO 8 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3bf29f38421bc1764e6f1d1545479f93",
+      "id": "7082",
+      "image_link": "https://www.centralsono.com/20073-googleshopping/elo-cover-8-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-cover-8-elokance-7082.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "ELO COVER 8 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ELO COVER Slim pour l'enceinte ELO Sat Slim !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@df438e5206f31600e6ae4af72f2725f1",
+      "id": "7081",
+      "image_link": "https://www.centralsono.com/20068-googleshopping/elo-cover-slim-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-cover-slim-elokance-7081.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "ELO COVER Slim Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ELO COVER 10 pour l'enceinte ELO 10 mk2 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1cb524b5a3f3f82be4a7d954063c07e2",
+      "id": "7080",
+      "image_link": "https://www.centralsono.com/20063-googleshopping/elo-cover-10-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-cover-10-elokance-7080.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "ELO COVER 10 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Vous disposez d'une enceinte Elokance ELO 15, alors cette housse vous conviendra parfaitement. Design fidèle à la marque Française, cette ELO COVER 15 sera vous satisfaire !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@488b084119a1c7a4950f00706ec7ea16",
+      "id": "7079",
+      "image_link": "https://www.centralsono.com/20058-googleshopping/elo-cover-15-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-cover-15-elokance-7079.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "ELO COVER 15 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basses double 46 cm passif idéal en concert, touring ou installation type club....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dac32839a9f0baae954b41abee610cc0",
+      "id": "7078",
+      "image_link": "https://www.centralsono.com/20053-googleshopping/elo-sub218-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-sub218-elokance-7078.html",
+      "price": 899.0,
+      "sale_price": null,
+      "title": "ELO SUB218 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Elokance vous présente sa gamme de housse pour enceinte. Découvrez la ELO COVER SUB 18 pour le caisson de basse ELO SUB 18 !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7012ef0335aa2adbab58bd6d0702ba41",
+      "id": "7077",
+      "image_link": "https://www.centralsono.com/20048-googleshopping/elo-cover-sub18-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-cover-sub18-elokance-7077.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "ELO COVER SUB18 Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive 150 watts RMS sous 8 ohms équipée de 4 haut-parleurs de 4 pouces (10cm). Bande passante : 70Hz-19Khz, sensibilité 94dB, finition granitée blanc....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f02a8fde79ddf5b978cd9ae9d408b7c1",
+      "id": "7076",
+      "image_link": "https://www.centralsono.com/20043-googleshopping/elo-sat-slim-w-elokance.jpg",
+      "link": "https://www.centralsono.com/sonorisation/elo-sat-slim-w-elokance-7076.html",
+      "price": 159.0,
+      "sale_price": null,
+      "title": "ELO SAT Slim W Elokance",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Emetteur main sans fil ACT30H pour sono portable de marque Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b25b911ffc2b76a647454e5a53edf8b5",
+      "id": "7030",
+      "image_link": "https://www.centralsono.com/19839-googleshopping/act-30h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-30h-mipro-7030.html",
+      "price": 169.0,
+      "sale_price": null,
+      "title": "ACT 30H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte ABS professionnelle amplifiée 2 voies 15'' 300W BoomToneDJ MS15A, 1 entrée micro, 1 entrée ligne et 1 sortie link. Utilisable en Façade ou en Retour de scène, le Meilleur ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@955d864a62659945cc9434898e275deb",
+      "id": "7029",
+      "image_link": "https://www.centralsono.com/19827-googleshopping/ms15a-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms15a-boomtone-dj-7029.html",
+      "price": 329.0,
+      "sale_price": null,
+      "title": "MS15A BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte ABS professionnelle amplifiée 2 voies 12'' 200W BoomToneDJ MS12A, 1 entrée micro, 1 entrée ligne et 1 sortie link. Utilisable en Façade ou en Retour de scène, le Meilleur ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@36e425d506a15b14cec0d71abfb2ac44",
+      "id": "7028",
+      "image_link": "https://www.centralsono.com/19815-googleshopping/ms12a-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms12a-boomtone-dj-7028.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "MS12A BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte ABS professionnelle amplifiée 2 voies 10'' 150W BoomToneDJ MS10A, 1 entrée micro, 1 entrée ligne et 1 sortie LINK. Utilisable en façade ou en retour de scène, le meilleur ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@313f422ac583444ba6045cd122653b0e",
+      "id": "7027",
+      "image_link": "https://www.centralsono.com/19803-googleshopping/ms10a-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms10a-boomtone-dj-7027.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "MS10A BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "- MP10S Mipro - Anciennement 1SPS0034 - Adaptateur secteur - AC : 100//240V, 50//60 Hz, 1.7A - DC : 19V, 2.63 A, 50 W - Polarités : + au centre - à l'extérieur - Compatible ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5dca4c6b9e244d24a30b4c45601d9720",
+      "id": "7026",
+      "image_link": "https://www.centralsono.com/19801-googleshopping/mp-10s-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mp-10s-mipro-7026.html",
+      "price": 59.0,
+      "sale_price": null,
+      "title": "MP 10S Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Que ce soit en ''Live'' ou en prise de son Studio, le APEX 326 est un micro dynamique idéal pour la prise de son de caisse clair ou toms....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cf0d02ec99e61a64137b8a2c3b03e030",
+      "id": "7025",
+      "image_link": "https://www.centralsono.com/19798-googleshopping/326-apex-electronics.jpg",
+      "link": "https://www.centralsono.com/sonorisation/326-apex-electronics-7025.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "326 Apex Electronics",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Tube de couplage télescopique ajustable, hauteur réglable de 85 à 130 cm, charge maximale de 50 kgs...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1f33d7cf6693dc6dcc7029b97cc29487",
+      "id": "7022",
+      "image_link": "https://www.centralsono.com/19769-googleshopping/sp-110-tube-couplage-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sp-110-tube-couplage-boomtone-dj-7022.html",
+      "price": 13.0,
+      "sale_price": 12.0,
+      "title": "SP 110 Tube Couplage BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Idéal pour un système 2.1. Canaux 1 et 2 en 2 x 75W/8 Ohms, 2 x 150W/4 Ohms et 1 x 300W/8Ohms sur le canal 3. Filtre actif intégré avec coupure a 120Hz. Le HPA D621 est un Amplific...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cf866614b6b18cda13fe699a3a65661b",
+      "id": "7021",
+      "image_link": "https://www.centralsono.com/19751-googleshopping/d621-hpa.jpg",
+      "link": "https://www.centralsono.com/sonorisation/d621-hpa-7021.html",
+      "price": 345.0,
+      "sale_price": 309.0,
+      "title": "D621 HPA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte Jolly 5 et J5 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@448d5eda79895153938a8431919f4c9f",
+      "id": "7019",
+      "image_link": "https://www.centralsono.com/19745-googleshopping/sj-5u-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sj-5u-fbt-7019.html",
+      "price": 19.9,
+      "sale_price": null,
+      "title": "SJ-5U FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Accessoires pour le FBT AMICO 10 USB avec pieds, cables et sac de transport....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4fd5aadb85a00525415e3733cb96ed68",
+      "id": "7018",
+      "image_link": "https://www.centralsono.com/19744-googleshopping/kit-amico-10-usb-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/kit-amico-10-usb-fbt-7018.html",
+      "price": 120.0,
+      "sale_price": null,
+      "title": "Kit AMICO 10 USB FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Récepteur Mipro ACT 51B pour système de micro sans fil MIPRO...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e9a53d0ed1816293ef24647c7b33d819",
+      "id": "7017",
+      "image_link": "https://www.centralsono.com/19742-googleshopping/act-51b-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-51b-mipro-7017.html",
+      "price": 169.0,
+      "sale_price": null,
+      "title": "ACT 51B Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pince micro noire spéciale pour micro de chant standard filaire. A clipper....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e894d787e2fd6c133af47140aa156f00",
+      "id": "7013",
+      "image_link": "https://www.centralsono.com/19713-googleshopping/c4-pince-micro-filaire-chant-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/c4-pince-micro-filaire-chant-boomtone-dj-7013.html",
+      "price": 1.95,
+      "sale_price": null,
+      "title": "C4 Pince Micro Filaire Chant BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pince micro noire spéciale pour micro standard conique. A clipper....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@55fd1368113e5a675e868c5653a7bb9e",
+      "id": "7012",
+      "image_link": "https://www.centralsono.com/19704-googleshopping/c3-pince-micro-conique-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/c3-pince-micro-conique-boomtone-dj-7012.html",
+      "price": 1.9,
+      "sale_price": null,
+      "title": "C3 Pince Micro Conique BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pince micro noire en plastique élastique, compatibilité pour micros standards, universelle....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@970627414218ccff3497cb7a784288f5",
+      "id": "7011",
+      "image_link": "https://www.centralsono.com/19695-googleshopping/c2-pince-micro-hf-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/c2-pince-micro-hf-boomtone-dj-7011.html",
+      "price": 1.95,
+      "sale_price": null,
+      "title": "C2 Pince Micro HF BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pince micro noire à ressort spéciale pour micro de chant standard filaire ou HF....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@281715cafa675bf359ebaa42cb44fa17",
+      "id": "7010",
+      "image_link": "https://www.centralsono.com/19686-googleshopping/c1-pince-micro-a-ressort-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/c1-pince-micro-a-ressort-boomtone-dj-7010.html",
+      "price": 3.0,
+      "sale_price": 1.9,
+      "title": "C1 Pince Micro à Ressort BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Stand guitare noir avec écartement réglable, compatible avec guitare ou basse électrique....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2c8c3a57383c63caef6724343eb62257",
+      "id": "7009",
+      "image_link": "https://www.centralsono.com/19673-googleshopping/es1-electric-stand-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/es1-electric-stand-boomtone-dj-7009.html",
+      "price": 12.0,
+      "sale_price": null,
+      "title": "ES1 Electric Stand BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Idéal pour les Dj. Enceinte de sono Bi-amplifiée FBT J12A, 450 W RMS (350 + 100W) , 2 voies avec haut parleur de 12'' (31cm) et Moteur 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@937ea3f7714dc0d01475da7bff33b596",
+      "id": "7238",
+      "image_link": "https://www.centralsono.com/21277-googleshopping/j12a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j12a-fbt-7238.html",
+      "price": 479.0,
+      "sale_price": null,
+      "title": "J12A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Idéal pour les Dj. Enceinte de sono Bi-amplifiée FBT J15A, 450 W RMS (350 + 100W) , 2 voies avec haut parleur de 15'' (38cm) et Moteur 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@742141ceda6b8f6786609d31c8ef129f",
+      "id": "7237",
+      "image_link": "https://www.centralsono.com/21273-googleshopping/j15a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j15a-fbt-7237.html",
+      "price": 549.0,
+      "sale_price": null,
+      "title": "J15A FBT",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 28,
+  "query": "sonorisation",
+  "query_counter": 30,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Joint bar pour enceintes satellite Vertus CS 1000 de FBT, coloris blanc....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8207f8d79c224f5feef34fe2c2d6adfe",
+      "id": "7974",
+      "image_link": "https://www.centralsono.com/26247-googleshopping/vt-j-1000w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-j-1000w-fbt-7974.html",
+      "price": 100.0,
+      "sale_price": null,
+      "title": "VT-J 1000W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Joint bar pour enceinte satellites Vertus CS 1000 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e334fd9dac68f13fa1a57796148cf812",
+      "id": "7973",
+      "image_link": "https://www.centralsono.com/26245-googleshopping/vt-j-1000-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-j-1000-fbt-7973.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "VT-J 1000 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte satellite Vertus CS 1000 de FBT, coloris blanc...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b5507f51b88a3ae4a99ba87e4877ab57",
+      "id": "7972",
+      "image_link": "https://www.centralsono.com/26244-googleshopping/vt-f-1000w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-f-1000w-fbt-7972.html",
+      "price": 68.0,
+      "sale_price": null,
+      "title": "VT-F 1000W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte satellite Vertus CS 1000 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cc225865b743ecc91c4743259813f604",
+      "id": "7971",
+      "image_link": "https://www.centralsono.com/26243-googleshopping/vt-f-1000-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-f-1000-fbt-7971.html",
+      "price": 68.0,
+      "sale_price": null,
+      "title": "VT-F 1000 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT X-Sub 18 SA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ec1093fe1626f25b1845d04dd6f55dd2",
+      "id": "7970",
+      "image_link": "https://www.centralsono.com/26241-googleshopping/xs-ch-18s-housse-pour-x-sub-18s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xs-ch-18s-housse-pour-x-sub-18s-fbt-7970.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "XS-CH 18S housse pour X-Sub 18S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT X-Sub 15S - Matériau : Nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2f2cd5c753d3cee48e47dbb5bbaed331",
+      "id": "7969",
+      "image_link": "https://www.centralsono.com/26239-googleshopping/xs-ch-15s-housse-pour-x-sub-15s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xs-ch-15s-housse-pour-x-sub-15s-fbt-7969.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "XS-CH 15S housse pour X-Sub 15S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection avec emplacement pour 4 roulettes pour caisson de basse FBT ProMaxX 15SA - Matériau : Nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9dd30287dc5ffcfb4efb1e0521c3c8f8",
+      "id": "7968",
+      "image_link": "https://www.centralsono.com/26237-googleshopping/pm-ch-15s-housse-pour-promaxx-15sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/pm-ch-15s-housse-pour-promaxx-15sa-fbt-7968.html",
+      "price": 70.0,
+      "sale_price": null,
+      "title": "PM-CH 15S housse pour ProMaxX 15SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à la verticale d'enceinte X-Lite 10A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dab1263d1e6a88c9ba5e7e294def5e8b",
+      "id": "7967",
+      "image_link": "https://www.centralsono.com/26236-googleshopping/xl-uv-10-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-uv-10-fbt-7967.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "XL-UV 10 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à l'horizontale d'enceinte X-Lite 10A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ab00b14a2da2e3cdcc44f06265db6574",
+      "id": "7966",
+      "image_link": "https://www.centralsono.com/26234-googleshopping/xl-uh-10-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-uh-10-fbt-7966.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "XL-UH 10 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à la verticale d'enceinte X-Lite 12A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a440a3d316c5614c7a9310e902f4a43e",
+      "id": "7965",
+      "image_link": "https://www.centralsono.com/26233-googleshopping/xl-uv-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-uv-12-fbt-7965.html",
+      "price": 35.0,
+      "sale_price": null,
+      "title": "XL-UV 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à l'horizontale d'enceinte X-Lite 12A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e0a0a422a9069a4cb2b91211a451da4b",
+      "id": "7964",
+      "image_link": "https://www.centralsono.com/26231-googleshopping/xl-uh-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-uh-12-fbt-7964.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "XL-UH 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à la verticale d'enceinte X-Lite 15A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a1d4c20b182ad7137ab3606f0e3fc8a4",
+      "id": "7963",
+      "image_link": "https://www.centralsono.com/26230-googleshopping/xl-uv-15-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-uv-15-fbt-7963.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "XL-UV 15 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à l'horizontale d'enceinte X-Lite 15A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ebb87faa733d9a04ebb40f422b135fb0",
+      "id": "7962",
+      "image_link": "https://www.centralsono.com/26228-googleshopping/xl-uh-15-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xl-uh-15-fbt-7962.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "XL-UH 15 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à l'horizontale d'enceinte ProMaxX 110 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ac8a9143597891fc2fc2ded41a9a9ec7",
+      "id": "7961",
+      "image_link": "https://www.centralsono.com/26227-googleshopping/box-127-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/box-127-fbt-7961.html",
+      "price": 70.0,
+      "sale_price": null,
+      "title": "BOX 127 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour placement à l'horizontale d'enceinte ProMaxX 114 et 112 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@df7ee89b6f8ec5827a19ecbaff5d4cd2",
+      "id": "7960",
+      "image_link": "https://www.centralsono.com/26226-googleshopping/box-128-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/box-128-fbt-7960.html",
+      "price": 70.0,
+      "sale_price": null,
+      "title": "BOX 128 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support d'enceinte, pour montage sur pied Ø 35mm, pour enceinte de retour StageMaxX 12MA de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@beb3c650aaae598375f60df2c6063269",
+      "id": "7959",
+      "image_link": "https://www.centralsono.com/26224-googleshopping/sm-s-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sm-s-12-fbt-7959.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "SM-S 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte de retour StageMaxX 12MA de FBT, coloris blanc....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@55b34fd73727d9b19698835c7d5302ae",
+      "id": "7958",
+      "image_link": "https://www.centralsono.com/26222-googleshopping/sm-u-12w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sm-u-12w-fbt-7958.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "SM-U 12W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte de retour StageMaxX 12MA de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fa636c3d216834a2e0db24cc157ab5f0",
+      "id": "7957",
+      "image_link": "https://www.centralsono.com/26219-googleshopping/sm-u-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sm-u-12-fbt-7957.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "SM-U 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour enceinte de retour FBT StageMaxX 12MA En nylon...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7fd4db88d31ab524e0afe153c4f9465a",
+      "id": "7956",
+      "image_link": "https://www.centralsono.com/26218-googleshopping/sm-c-12-housse-pour-stagemaxx-12ma-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sm-c-12-housse-pour-stagemaxx-12ma-fbt-7956.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "SM-C 12 housse pour StageMaxX 12MA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte X-PRO 10A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@62d081df1f0040acd58bcfd3c3040fc1",
+      "id": "7955",
+      "image_link": "https://www.centralsono.com/26217-googleshopping/x-p-u-10-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-p-u-10-fbt-7955.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "X-P U 10 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte X-PRO 12A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@95c3f1a8b262ec7a929a8739e21142d7",
+      "id": "7954",
+      "image_link": "https://www.centralsono.com/26216-googleshopping/x-p-u-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-p-u-12-fbt-7954.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "X-P U 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte X-PRO 15A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e37d015e5d80348a275284efacdb6db5",
+      "id": "7953",
+      "image_link": "https://www.centralsono.com/26215-googleshopping/x-p-u-15-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-p-u-15-fbt-7953.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "X-P U 15 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 108 et ARCHON 105, 106 et 108 de FBT, coloris blanc....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f316e3fe33f1f754851712c760ab9d48",
+      "id": "7952",
+      "image_link": "https://www.centralsono.com/26213-googleshopping/ac-w-568w-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-w-568w-fbt-install-7952.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "AC-W 568W FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 108 et ARCHON 105, 106 et 108 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@416e5cf0acb7e553a880b7647903da6e",
+      "id": "7951",
+      "image_link": "https://www.centralsono.com/26211-googleshopping/ac-w-568-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-w-568-fbt-install-7951.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "AC-W 568 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte de retour VENTIS 112M et 112MA de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@08808cfb5939be387af3c159b83c6b98",
+      "id": "7950",
+      "image_link": "https://www.centralsono.com/26210-googleshopping/vn-u-112m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-112m-fbt-7950.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "VN-U 112M FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte de retour VENTIS 115M et 115 MA de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5fedcaffc4aba6e57a3563b1c7d60c1d",
+      "id": "7949",
+      "image_link": "https://www.centralsono.com/26209-googleshopping/vn-u-115m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-115m-fbt-7949.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "VN-U 115M FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 108 et 108A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@596059d266f32a63144d67628a53db89",
+      "id": "7948",
+      "image_link": "https://www.centralsono.com/26208-googleshopping/vn-u-108-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-108-fbt-7948.html",
+      "price": 70.0,
+      "sale_price": null,
+      "title": "VN-U 108 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 206 et 206A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@be341249df108cb23c312ae62b6565cd",
+      "id": "7947",
+      "image_link": "https://www.centralsono.com/26207-googleshopping/vn-u-206-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-206-fbt-7947.html",
+      "price": 50.0,
+      "sale_price": null,
+      "title": "VN-U 206 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 110 et 110A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5d188b044333b4c62676e0d4f53dade7",
+      "id": "7946",
+      "image_link": "https://www.centralsono.com/26206-googleshopping/vn-u-110-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-110-fbt-7946.html",
+      "price": 72.0,
+      "sale_price": null,
+      "title": "VN-U 110 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural d'enceinte, pour enceinte VENTIS 112 et 112A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bef3c6e0d3b86a587cca64bc4f01d4e2",
+      "id": "7945",
+      "image_link": "https://www.centralsono.com/26205-googleshopping/vn-u-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vn-u-112-fbt-7945.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "VN-U 112 FBT",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

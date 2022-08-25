@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 12,
+  "query": "sonorisation",
+  "query_counter": 14,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 4mm², longueur 20 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f7ae58c7f1a1cc4abe9273a0f971ba2a",
+      "id": "7343",
+      "image_link": "https://www.centralsono.com/22159-googleshopping/bobine-hp-2-x-4mm-20-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-4mm-20-metres-plugger-7343.html",
+      "price": 54.0,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 4mm² 20 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 4mm², longueur 10 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8612c55d2969d1f587bf1c5aaaa32964",
+      "id": "7342",
+      "image_link": "https://www.centralsono.com/22157-googleshopping/bobine-hp-2-x-4mm-10-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-4mm-10-metres-plugger-7342.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 4mm² 10 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 2.5mm², longueur 50 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@40f6992c3c5816a1b42d2612fc26b936",
+      "id": "7341",
+      "image_link": "https://www.centralsono.com/22156-googleshopping/bobine-hp-2-x-25mm-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-25mm-50-metres-plugger-7341.html",
+      "price": 95.0,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 2.5mm² 50 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 2.5mm², longueur 20 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@46e0eae7d5217c79c3ef6b4c212b8c6f",
+      "id": "7340",
+      "image_link": "https://www.centralsono.com/22154-googleshopping/bobine-hp-2-x-25mm-20-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-25mm-20-metres-plugger-7340.html",
+      "price": 34.9,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 2.5mm² 20 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 2.5mm² diamètre, longueur 10 mètres, sans connecteur....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d26e5e36c1b0b620407eadabb6c0c5c2",
+      "id": "7339",
+      "image_link": "https://www.centralsono.com/22152-googleshopping/bobine-hp-2-x-25mm-10-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-25mm-10-metres-plugger-7339.html",
+      "price": 19.9,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 2.5mm² 10 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 1.5mm² diamètre OD6, longueur 100 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@23c894276a2c5a16470e6a31f4618d73",
+      "id": "7338",
+      "image_link": "https://www.centralsono.com/22151-googleshopping/bobine-hp-2-x-15mm-100-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-15mm-100-metres-plugger-7338.html",
+      "price": 112.0,
+      "sale_price": 99.9,
+      "title": "Bobine HP 2 x 1.5mm² 100 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 1.5mm² diamètre OD6, longueur 50 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@23b023b22d0bf47626029d5961328028",
+      "id": "7337",
+      "image_link": "https://www.centralsono.com/22150-googleshopping/bobine-hp-2-x-15mm-50-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-15mm-50-metres-plugger-7337.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 1.5mm² 50 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 1.5mm² diamètre OD6, longueur 20 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@285c595717332b49cfb72d1d48a5a962",
+      "id": "7336",
+      "image_link": "https://www.centralsono.com/22148-googleshopping/bobine-hp-2-x-15mm-20-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-15mm-20-metres-plugger-7336.html",
+      "price": 22.9,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 1.5mm² 20 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble nu pour haut-parleur section 2 x 1.5mm² diamètre OD6, longueur 10 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@81b44841fd564c347f7f21ae19b97659",
+      "id": "7335",
+      "image_link": "https://www.centralsono.com/22146-googleshopping/bobine-hp-2-x-15mm-10-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-15mm-10-metres-plugger-7335.html",
+      "price": 12.9,
+      "sale_price": null,
+      "title": "Bobine HP 2 x 1.5mm² 10 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bobine de câble haut-parleur section 2 x 2.5mm², longueur 100 mètres...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7fcb0a2c0f0f41d9f4454ac2d8ed7ad6",
+      "id": "7334",
+      "image_link": "https://www.centralsono.com/22145-googleshopping/bobine-hp-2-x-25mm-100-metres-plugger.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bobine-hp-2-x-25mm-100-metres-plugger-7334.html",
+      "price": 206.0,
+      "sale_price": 149.0,
+      "title": "Bobine HP 2 x 2.5mm² 100 mètres Plugger",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête compatibles avec les émetteurs ACT 32T et ACT 22T qui eux sont compatibles avec le récepteur MRM70B...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3d1296c4b4b859ac2fb14019654a5f57",
+      "id": "7332",
+      "image_link": "https://www.centralsono.com/22140-googleshopping/mu-23d-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-23d-mipro-7332.html",
+      "price": 149.0,
+      "sale_price": null,
+      "title": "MU 23D Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Un récepteur pour 2 micros VHF mains et 2 serre-tête/lavaliers, BoomToneDJ réalise le kit parfait pour les animateurs, les pièces de théâtre...sorties XLR ou Jack 6.35mm, le VHF Qu...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5e18f86fad006a5846541997511989d5",
+      "id": "7330",
+      "image_link": "https://www.centralsono.com/22122-googleshopping/vhf-quattro-mhl-gr4-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-quattro-mhl-gr4-boomtone-dj-7330.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "VHF Quattro MHL GR4 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 micros HF serre-tête/lavaliers et 2 mains BoomToneDJ VHF Quattro MHL GR3, portée de 80 mètres, commutateurs ON/OFF, sorties XLR, idéal pour karaokés, discours, animations, discom...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@83dd3f9f97ef6533766c39d5b2e5e565",
+      "id": "7329",
+      "image_link": "https://www.centralsono.com/22111-googleshopping/vhf-quattro-mhl-gr3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-quattro-mhl-gr3-boomtone-dj-7329.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "VHF Quattro MHL GR3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Un récepteur pour 4 micros VHF mains, BoomToneDJ réalise le kit parfait pour les animateurs...sorties XLR ou Jack 6.35mm, le VHF Quattro M GR4 est tout simplement génial !...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7c250678f61f49092fa0d4040e5e54e9",
+      "id": "7328",
+      "image_link": "https://www.centralsono.com/22095-googleshopping/vhf-quattro-m-gr4-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-quattro-m-gr4-boomtone-dj-7328.html",
+      "price": 212.0,
+      "sale_price": 199.0,
+      "title": "VHF Quattro M GR4 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "4 micros HF main BoomToneDJ VHF Quattro M GR3, portée de 80 mètres, commutateurs ON/OFF sur les micros, sorties XLR, idéal pour karaokés, discomobiles......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cd7c230fc5deb01ff5f7b1be1acef9cf",
+      "id": "7327",
+      "image_link": "https://www.centralsono.com/22087-googleshopping/vhf-quattro-m-gr3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-quattro-m-gr3-boomtone-dj-7327.html",
+      "price": 211.0,
+      "sale_price": 199.0,
+      "title": "VHF Quattro M GR3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Un récepteur pour 4 micros VHF serre-tête lavalier, BoomToneDJ réalise le kit parfait pour les animateurs, les pièces de théâtre...sorties XLR ou Jack 6.35mm, le VHF Quattro HL GR4...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fbd85d9451c0d7555518534bcbac00e3",
+      "id": "7326",
+      "image_link": "https://www.centralsono.com/22078-googleshopping/vhf-quattro-hl-gr4-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-quattro-hl-gr4-boomtone-dj-7326.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "VHF Quattro HL GR4 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "4 micros HF serre-tête/lavalier BoomToneDJ VHF Quattro HL GR3, portée de 80 mètres, commutateurs ON/OFF, sorties XLR, idéal pour discours, animations, discomobiles.....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4e093aa7417fe0881bc5fbda7322a74e",
+      "id": "7325",
+      "image_link": "https://www.centralsono.com/22069-googleshopping/vhf-quattro-hl-gr3-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-quattro-hl-gr3-boomtone-dj-7325.html",
+      "price": 212.0,
+      "sale_price": 199.0,
+      "title": "VHF Quattro HL GR3 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système micro double : 1 serre-tête / cravate VHF et 1 micro main, le kit parfait pour animations ! Fréquences F6-F8....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7240b65810859cbf2a8d9f76a638c0a3",
+      "id": "7324",
+      "image_link": "https://www.centralsono.com/22062-googleshopping/vhf-20mhl-f6-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-20mhl-f6-f8-boomtone-dj-7324.html",
+      "price": 149.0,
+      "sale_price": 99.0,
+      "title": "VHF 20MHL F6-F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "1 micro HF main et 1 serre-tête/lavalier BoomToneDJ VHF 20MHL F5-F7,portée de 80 mètres, le combo idéal ! Sorties XLR, idéal pour discours, animations, discomobiles......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3f24bb08a5741e4197af64e1f93a5029",
+      "id": "7323",
+      "image_link": "https://www.centralsono.com/22055-googleshopping/vhf-20mhl-f5-f7-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-20mhl-f5-f7-boomtone-dj-7323.html",
+      "price": 119.0,
+      "sale_price": 99.0,
+      "title": "VHF 20MHL F5-F7 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système double micros main, le kit parfait pour animations et duo de chanteurs ! Fréquences F6-F8....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@182bd81ea25270b7d1c2fe8353d17fe6",
+      "id": "7322",
+      "image_link": "https://www.centralsono.com/22051-googleshopping/vhf-20m-f6-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-20m-f6-f8-boomtone-dj-7322.html",
+      "price": 149.0,
+      "sale_price": 99.0,
+      "title": "VHF 20M F6-F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 micros HF Main BoomToneDJ VHF 20M F5-F7, commutateurs MUTE et ON/OFF sur les micros, sorties XLR, idéal pour discours, animations, discomobiles......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c2c701fe341a7756ca7fd4eaa83ff63f",
+      "id": "7321",
+      "image_link": "https://www.centralsono.com/22039-googleshopping/vhf-20m-f5-f7-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-20m-f5-f7-boomtone-dj-7321.html",
+      "price": 107.0,
+      "sale_price": 99.0,
+      "title": "VHF 20M F5-F7 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système double micros serre-tête et cravate, le kit parfait pour animations et duo de chanteurs ! Fréquences F6-F8....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8b1ecf6d8049bb062a356f1cc812e69e",
+      "id": "7320",
+      "image_link": "https://www.centralsono.com/22018-googleshopping/vhf-20hl-f6-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-20hl-f6-f8-boomtone-dj-7320.html",
+      "price": 149.0,
+      "sale_price": 99.0,
+      "title": "VHF 20HL F6-F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "2 micros HF serre-tête/lavalier BoomToneDJ VHF 20HL F5-F7, portée de 80 mètres, commutateurs ON/OFF sur les micros, sorties XLR, idéal pour discours, animations, discomobiles......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0beb34df7e9615cd43b9090989ca4848",
+      "id": "7319",
+      "image_link": "https://www.centralsono.com/22005-googleshopping/vhf-20hl-f5-f7-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-20hl-f5-f7-boomtone-dj-7319.html",
+      "price": 106.0,
+      "sale_price": 99.0,
+      "title": "VHF 20HL F5-F7 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête/cravate VHF avec réglage de squelch, parfait pour chant et animation. Equipé d'un commutateur ON/OFF, autonomie de 6 heures. Fréquence fixe F8....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@02c27682b80b462437ba4efc71267562",
+      "id": "7318",
+      "image_link": "https://www.centralsono.com/21991-googleshopping/vhf-10hl-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10hl-f8-boomtone-dj-7318.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10HL F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête/cravate VHF avec réglage de squelch, parfait pour chant et animation. Equipé d'un commutateur ON/OFF, autonomie de 6 heures. Fréquence fixe F7....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f005e17eabbb0d38b06b8a78f3637d85",
+      "id": "7317",
+      "image_link": "https://www.centralsono.com/21985-googleshopping/vhf-10hl-f7-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10hl-f7-boomtone-dj-7317.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10HL F7 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro serre-tête/cravate VHF avec réglage de squelch, parfait pour chant et animation. Equipé d'un commutateur ON/OFF, autonomie de 6 heures. Fréquence fixe F6....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5cdf0f9533d6b4c0984fc5ae00913459",
+      "id": "7316",
+      "image_link": "https://www.centralsono.com/21971-googleshopping/vhf-10hl-f6-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10hl-f6-boomtone-dj-7316.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10HL F6 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro HF serre-tête/lavalier BoomToneDJ VHF 10HL F5, portée de 80 mètres, sortie XLR ou Jack 6.35mm, idéal pour discours, animations, discomobiles......",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f2c5b1f06bfe59954cb2a56858c2ed98",
+      "id": "7315",
+      "image_link": "https://www.centralsono.com/21957-googleshopping/vhf-10hl-f5-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10hl-f5-boomtone-dj-7315.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10HL F5 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Main dynamique VHF avec réglage de squelch, parfait pour chant et animation. Equipé d'un commutateur ON/OFF, autonomie de 6 heures. Fréquence fixe F8 (219.2 MHz)....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@251dbb5e528421776ff6e17c87be507f",
+      "id": "7314",
+      "image_link": "https://www.centralsono.com/21950-googleshopping/vhf-10m-f8-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10m-f8-boomtone-dj-7314.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10M F8 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Main dynamique VHF avec réglage de squelch, parfait pour chant et animation. Equipé d'un commutateur ON/OFF, autonomie de 6 heures. Fréquence fixe F7 (217.5 MHz)...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3a0f19df72fef0495c54ced664735a7d",
+      "id": "7313",
+      "image_link": "https://www.centralsono.com/21943-googleshopping/vhf-10m-f7-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10m-f7-boomtone-dj-7313.html",
+      "price": 109.0,
+      "sale_price": 79.0,
+      "title": "VHF 10M F7 BoomTone DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Main dynamique VHF avec réglage de squelch, parfait pour chant et animation. Equipé d'un commutateur ON/OFF, autonomie de 6 heures. Fréquence fixe F6 (216.5 MHz)...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fc2022c89b61c76bbef978f1370660bf",
+      "id": "7312",
+      "image_link": "https://www.centralsono.com/21936-googleshopping/vhf-10m-f6-boomtone-dj.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vhf-10m-f6-boomtone-dj-7312.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "VHF 10M F6 BoomTone DJ",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

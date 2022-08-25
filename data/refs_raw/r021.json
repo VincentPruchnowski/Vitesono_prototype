@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 24,
+  "query": "sonorisation",
+  "query_counter": 26,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène Bi amplifiée en bois FBT VENTIS 112MA Coaxial en 12'' (310mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 p...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@20568692db622456cc42a2e853ca21f8",
+      "id": "7915",
+      "image_link": "https://www.centralsono.com/26161-googleshopping/ventis-112ma-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-112ma-fbt-7915.html",
+      "price": 1099.0,
+      "sale_price": null,
+      "title": "VENTIS 112MA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Retour de scène Bi amplifiée en bois FBT VENTIS 115MA Coaxial en 15'' (380mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 p...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@17a3120e4e5fbdc3cb5b5f946809b06a",
+      "id": "7914",
+      "image_link": "https://www.centralsono.com/26158-googleshopping/ventis-115ma-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-115ma-fbt-7914.html",
+      "price": 1259.0,
+      "sale_price": null,
+      "title": "VENTIS 115MA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive en bois FBT VENTIS 206 - 2 voies en 2 x 6.5'' (165mm) + moteur 1'' B&C Speakers, 400 watts RMS...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5527eaab87a00dbe1614481ef174f285",
+      "id": "7913",
+      "image_link": "https://www.centralsono.com/26156-googleshopping/ventis-206-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-206-fbt-7913.html",
+      "price": 529.0,
+      "sale_price": null,
+      "title": "VENTIS 206 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive en bois FBT VENTIS 108 - 2 voies en 8'' (210mm) + moteur 1'' B&C Speakers, 250 watts RMS...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5c7a3b81a677c639c76989610183c0e0",
+      "id": "7912",
+      "image_link": "https://www.centralsono.com/26152-googleshopping/ventis-108-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-108-fbt-7912.html",
+      "price": 479.0,
+      "sale_price": null,
+      "title": "VENTIS 108 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive en bois FBT VENTIS 110 - 2 voies en 10'' (250mm) + moteur 1'' B&C Speakers, 300 watts RMS...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@11833d4b4ec685c371ae6d1a65cc341e",
+      "id": "7911",
+      "image_link": "https://www.centralsono.com/26149-googleshopping/ventis-110-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-110-fbt-7911.html",
+      "price": 699.0,
+      "sale_price": null,
+      "title": "VENTIS 110 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive en bois FBT VENTIS 112 - 2 voies en 12'' (310mm) + moteur 1'' B&C Speakers, 400 watts RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@49e863b146f3b5470ee222ee84669b1c",
+      "id": "7910",
+      "image_link": "https://www.centralsono.com/26146-googleshopping/ventis-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-112-fbt-7910.html",
+      "price": 759.0,
+      "sale_price": null,
+      "title": "VENTIS 112 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive en bois FBT VENTIS 115 - 2 voies en 15'' (380mm) + moteur 1'' B&C Speakers, 500 watts RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6b5617315c9ac918215fc7514bef514b",
+      "id": "7909",
+      "image_link": "https://www.centralsono.com/26144-googleshopping/ventis-115-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-115-fbt-7909.html",
+      "price": 825.0,
+      "sale_price": null,
+      "title": "VENTIS 115 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série SUBline complète en grave toutes les séries d'enceintes de FBT. Fort SPL et DSP avec programmes résultats. Le SUBline 112Sa équipé d'un haut parleur de 12'' (31cm) amplifi...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@42d0c639a21482dcd8e1c447efe87e89",
+      "id": "7908",
+      "image_link": "https://www.centralsono.com/26141-googleshopping/subline-112sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/subline-112sa-fbt-7908.html",
+      "price": 965.0,
+      "sale_price": null,
+      "title": "SUBLINE 112SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi amplifiée en bois FBT VENTIS 206A 2 voies en 2 x 6.5'' (165mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 prog...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@10b4945abe2e627db646b3c5226a4e50",
+      "id": "7907",
+      "image_link": "https://www.centralsono.com/26139-googleshopping/ventis-206a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-206a-fbt-7907.html",
+      "price": 995.0,
+      "sale_price": null,
+      "title": "VENTIS 206A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi amplifiée en bois FBT VENTIS 108A 2 voies en 8'' (210mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 programmes...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ad7bdcafbea74680e11d25162a145507",
+      "id": "7906",
+      "image_link": "https://www.centralsono.com/26138-googleshopping/ventis-108a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-108a-fbt-7906.html",
+      "price": 799.0,
+      "sale_price": null,
+      "title": "VENTIS 108A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi amplifiée en bois FBT VENTIS 110A 2 voies en 10'' (250mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 programme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5a794da4f056dcd732eb706e9ef991d7",
+      "id": "7905",
+      "image_link": "https://www.centralsono.com/26135-googleshopping/ventis-110a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-110a-fbt-7905.html",
+      "price": 999.0,
+      "sale_price": null,
+      "title": "VENTIS 110A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi amplifiée en bois FBT VENTIS 112A 2 voies en 12'' (310mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 programme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b5d62aa6024ab6a65a12c78c4c2d4efc",
+      "id": "7904",
+      "image_link": "https://www.centralsono.com/26132-googleshopping/ventis-112a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-112a-fbt-7904.html",
+      "price": 1190.0,
+      "sale_price": null,
+      "title": "VENTIS 112A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi amplifiée en bois FBT VENTIS 115A 2 voies en 15'' (380mm) + moteur 1'' B&C Speakers, amplification numérique 700 + 200 watts RMS et équipée avec un DSP avec 6 programme...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@84cb17743002b4cfb81b0153cee648fc",
+      "id": "7903",
+      "image_link": "https://www.centralsono.com/26128-googleshopping/ventis-115a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ventis-115a-fbt-7903.html",
+      "price": 1290.0,
+      "sale_price": null,
+      "title": "VENTIS 115A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série SUBline complète en grave toutes les séries d'enceintes de FBT avec un fort SPL. Le SUBline 118S équipé d'un haut parleur de 18'' (46cm) de 1200 watts RMS / 84Ohms...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@66fe2bcc701bb627e111be6847a8436c",
+      "id": "7902",
+      "image_link": "https://www.centralsono.com/26126-googleshopping/subline-118s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/subline-118s-fbt-7902.html",
+      "price": 1044.0,
+      "sale_price": null,
+      "title": "SUBLINE 118S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 2 x 18 pouces, 1200W RMS, 4 Ohms - Sub-Woofer passif bass-reflex - Matériau : contreplaqué de boulot 18 mm - Puissance : 1200W RMS - Haut-Parleurs : ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3e883840fee4384dd3d2afea5e822517",
+      "id": "7901",
+      "image_link": "https://www.centralsono.com/26124-googleshopping/subline-218s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/subline-218s-fbt-7901.html",
+      "price": 2225.0,
+      "sale_price": null,
+      "title": "SUBLINE 218S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "La série SUBline complète en grave toutes les séries d'enceintes de FBT. Fort SPL et DSP avec programmes résultats. Le SUBline 218SA équipé de 2 haut parleurs de 18'' (46cm) amplif...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@400c3241004b5db7ca7f5abfef2794f2",
+      "id": "7900",
+      "image_link": "https://www.centralsono.com/26121-googleshopping/subline-218sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/subline-218sa-fbt-7900.html",
+      "price": 3099.0,
+      "sale_price": null,
+      "title": "SUBLINE 218SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte professionnelle passive 10 pouces, 300W RMS, le son FBT renouvelé, dans une enceinte poids plume de seulement 8.9 kg - Enceinte Promaxx 110 - Moteur de compression B&C d...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7c792a8279211dece3b4df04719c818a",
+      "id": "7899",
+      "image_link": "https://www.centralsono.com/26116-googleshopping/promaxx-110-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-110-fbt-7899.html",
+      "price": 475.0,
+      "sale_price": null,
+      "title": "Promaxx 110 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte professionnelle passive 12 pouces, 400W RMS, le son FBT renouvelé, dans une enceinte poids plume de seulement 13.4 kg - Enceinte Promaxx 112 - Moteur de compression B&C ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0e080857e96278e6dba76ac029faf291",
+      "id": "7898",
+      "image_link": "https://www.centralsono.com/26111-googleshopping/promaxx-112-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-112-fbt-7898.html",
+      "price": 629.0,
+      "sale_price": null,
+      "title": "Promaxx 112 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte professionnelle passive 14 pouces, 700W RMS, un poids très réduit de seulement 15 kg, le son FBT renouvelé. - Enceinte Promaxx 114 - Moteur de compression B&C de 1,4 po...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@908075ea2c025c335f4865f7db427062",
+      "id": "7897",
+      "image_link": "https://www.centralsono.com/26106-googleshopping/promaxx-114-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/promaxx-114-fbt-7897.html",
+      "price": 815.0,
+      "sale_price": null,
+      "title": "Promaxx 114 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de sono passive FBT J12, 300 W RMS en 8 Ohms , 2 voies avec haut parleur de 12'' (31cm) et Moteur 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8718dea05bc1dc95810363685cef0b8e",
+      "id": "7896",
+      "image_link": "https://www.centralsono.com/26103-googleshopping/j12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j12-fbt-7896.html",
+      "price": 289.0,
+      "sale_price": null,
+      "title": "J12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de grande envergure Bi amplifiée de 1350 watts RMS en finition bois, DSP avec 8 programmes d'égalisations. La FBT MITUS 152A intègre un haut parleur de 15'' (38cm) avec un...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@76fabdc82dd649afd7efa2d6894e568d",
+      "id": "7893",
+      "image_link": "https://www.centralsono.com/26094-googleshopping/mitus-152a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-152a-fbt-7893.html",
+      "price": 1.9e3,
+      "sale_price": null,
+      "title": "MITUS 152A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système micro main sans fil ACT 2401 / ACT 24HC Les systèmes sans fil numériques Mipro utilisent la bande ISM à 2.4 GHz. Cette bande n 'est pas concernée par les changements en ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9a093d729036a5bd4736e03c5d634501",
+      "id": "7889",
+      "image_link": "https://www.centralsono.com/31687-googleshopping/act-2401-act-24hc-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-2401-act-24hc-mipro-7889.html",
+      "price": 299.0,
+      "sale_price": null,
+      "title": "ACT 2401 + ACT 24HC Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur main ACT-72H - MIPRO capsule électret cardioïde pour série ACT-717, 727 et 747. Écran LCD. Aliment. 2 Piles AA 1.5V...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@112e9d677c7483747f216a1470bed734",
+      "id": "7888",
+      "image_link": "https://www.centralsono.com/34314-googleshopping/act-72h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-72h-mipro-7888.html",
+      "price": 290.0,
+      "sale_price": 269.0,
+      "title": "ACT 72H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système 1 récepteur + 2 micros main sans fil True Diversity ACT 312B + 2 ACT32H - Kit récepteur ACT 312B et 2 émetteurs ACT32H : - Récepteur ACT 312B - Largeur de bande : 24MH...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@11f38f8ecd71867b42433548d1078e38",
+      "id": "7887",
+      "image_link": "https://www.centralsono.com/26067-googleshopping/act-312b-2-x-act32h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-312b-2-x-act32h-mipro-7887.html",
+      "price": 449.0,
+      "sale_price": null,
+      "title": "ACT 312B + 2 x ACT32H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Récepteur UHF ACT 717B Les circuits RF et IF de 3ème génération de MIPRO améliorent les caractéristiques anti-interférences et augmentent le nombre de canaux disponibles. - Récep...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8b78af9b5b1ac2745410ef836e697a1c",
+      "id": "7886",
+      "image_link": "https://www.centralsono.com/34286-googleshopping/act-717b-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-717b-mipro-7886.html",
+      "price": 268.0,
+      "sale_price": 249.0,
+      "title": "ACT 717B Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système Biamplifié compact de type Array colonne + caisson FBT VERTUS CS1000. Amplification de 1000 watts RMS avec caisson en 12'' (31cm) et 6 x HP de 3'' (7cm). DSP avec réglages ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5c22590152f4f53f3c05cf7cc6aa0b6b",
+      "id": "7885",
+      "image_link": "https://www.centralsono.com/26060-googleshopping/vertus-cs-1000-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cs-1000-fbt-7885.html",
+      "price": 1490.0,
+      "sale_price": 1379.0,
+      "title": "VERTUS CS 1000 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Système micro main sans fil True Diversity ACT 311B / ACT32H - Kit récepteur ACT 311B et émetteur ACT32H : - Récepteur ACT 311B - Largeur de bande : 24MHz - Multifréquence : ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@46dce5f2f0e61edb70931a00d00a464e",
+      "id": "7884",
+      "image_link": "https://www.centralsono.com/26045-googleshopping/act-311b-act32h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-311b-act32h-mipro-7884.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "ACT 311B + ACT32H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "ACT 311B / ACT 32T - Kit récepteur ACT 311B et émetteur ACT32T : - Récepteur ACT 311B - Largeur de bande : 24MHz - Multifréquence : choix de 10 groupes sur 16 canaux - Fonctio...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3f8e8bb571cc086ca44e9605ad23ffde",
+      "id": "7883",
+      "image_link": "https://www.centralsono.com/26039-googleshopping/act-311b-act-32t-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-311b-act-32t-mipro-7883.html",
+      "price": 249.0,
+      "sale_price": null,
+      "title": "ACT 311B + ACT 32T Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "TUBE MP/C - Réponse en fréquence : 30 Hz - 60 kHz +/- 1 dB - Distorsion : <0.1% @ max gain - CMMR > 60 dB @ max gain - Impédance d'entrée : Jack 1M ? , XLR 5K ? - Connectiqu...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3dde11a7673e90ad96fafd0b3b27a477",
+      "id": "7882",
+      "image_link": "https://www.centralsono.com/26028-googleshopping/tube-mp-c-art.jpg",
+      "link": "https://www.centralsono.com/sonorisation/tube-mp-c-art-7882.html",
+      "price": 139.0,
+      "sale_price": null,
+      "title": "TUBE MP/C Art",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de Basse amplifié,1200 watt, Bass Reflex avec haut parleur de 15\", dans un boitier en contreplaqué de bouleau de 15mm",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@46ba59a6994802347d659680875fb173",
+      "id": "7880",
+      "image_link": "https://www.centralsono.com/35661-googleshopping/x-sub-115sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/x-sub-115sa-fbt-7880.html",
+      "price": 769.0,
+      "sale_price": null,
+      "title": "X SUB 115SA FBT",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

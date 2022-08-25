@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 33,
+  "query": "sonorisation",
+  "query_counter": 51,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Batterie au Lithium, rechargeable, pour émetteur ACT20T de Mipro....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ef8b5fcc338e003145ac9c134754db71",
+      "id": "8234",
+      "image_link": "https://www.centralsono.com/27147-googleshopping/batterie-pour-emetteur-act20t-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/batterie-pour-emetteur-act20t-mipro-8234.html",
+      "price": 25.0,
+      "sale_price": null,
+      "title": "Batterie pour émetteur ACT20T Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Batterie au Lithium, rechargeable, pour émetteurs ceinture, instruments et micro main de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b6af2c9703f203a2794be03d443af2e3",
+      "id": "8233",
+      "image_link": "https://www.centralsono.com/27146-googleshopping/mb-5-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mb-5-mipro-8233.html",
+      "price": 19.0,
+      "sale_price": null,
+      "title": "MB 5 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Lecteur CD et clé USB professionnel, à encastrer, pour MA-909 PA de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e61eaa38aed621dd776d0e67cfeee366",
+      "id": "8232",
+      "image_link": "https://www.centralsono.com/27143-googleshopping/cdm-2-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cdm-2-mipro-8232.html",
+      "price": 269.0,
+      "sale_price": null,
+      "title": "CDM-2 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "- 4CP0009 Mipro - Sachet de 4 bonnettes anti-vent - Coloris : Beige - Réduit les bruits de souffle et de vent - Compatible avec : - MU 53 HNS...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2004e0f2b74655ee92d3a6af6bdb6626",
+      "id": "8231",
+      "image_link": "https://www.centralsono.com/27142-googleshopping/4cp0009-lot-de-4-bonnettes-pour-micro-mu-53-hns-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/4cp0009-lot-de-4-bonnettes-pour-micro-mu-53-hns-mipro-8231.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "4CP0009 Lot de 4 Bonnettes pour Micro MU 53 HNS Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sachet de 4 bonnettes anti-vent, noires, pour micro MU 55 HN de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bd4a6d0563e0604510989eb8f9ff71f5",
+      "id": "8230",
+      "image_link": "https://www.centralsono.com/27141-googleshopping/4cp0006-lot-de-4-bonnettes-pour-micro-mu-55-hn-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/4cp0006-lot-de-4-bonnettes-pour-micro-mu-55-hn-mipro-8230.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "4CP0006 Lot de 4 Bonnettes pour Micro MU 55 HN Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sachet de 4 bonnettes anti-vent pour micro MU 53 HN de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0396df57e78b6d04b6854dd682e27b3c",
+      "id": "8229",
+      "image_link": "https://www.centralsono.com/27140-googleshopping/4cp0002-lot-de-4-bonnettes-pour-micro-mu-53-hn-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/4cp0002-lot-de-4-bonnettes-pour-micro-mu-53-hn-mipro-8229.html",
+      "price": 15.0,
+      "sale_price": null,
+      "title": "4CP0002 Lot de 4 Bonnettes pour Micro MU 53 HN Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "USB. MA-100SB est un tout nouveau système de <em>sonorisation</em> sans fil ultra com...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c35bc9eaa4a930e006ab98bf3ef90408",
+      "id": "8227",
+      "image_link": "https://www.centralsono.com/27136-googleshopping/ma-100sb-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-100sb-mipro-8227.html",
+      "price": 390.0,
+      "sale_price": 369.0,
+      "title": "MA 100SB Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble de liaison pour Haut-Parleur Speakon Mâle / Speakon Mâle longueur 0.25 mètres FBT...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@abcc5329cfe5846db63ff4dee74eb906",
+      "id": "8226",
+      "image_link": "https://www.centralsono.com/27135-googleshopping/cable-hp-speakon-male-speakon-male-025m-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/cable-hp-speakon-male-speakon-male-025m-fbt-8226.html",
+      "price": 37.0,
+      "sale_price": null,
+      "title": "Câble HP Speakon Mâle - Speakon Mâle 0.25m FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour enceinte ajustable verticalement sur 45 degrés, horizontalement sur 120 degrés. Longueur bras : 35 cm, charge maximale : 30 kg....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cef1b938860dd6718de5eaae697b60e5",
+      "id": "8225",
+      "image_link": "https://www.centralsono.com/27134-googleshopping/wma-560-bk-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/wma-560-bk-fbt-8225.html",
+      "price": 38.0,
+      "sale_price": null,
+      "title": "WMA 560 BK FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro Col de cygne à directivité cardioïde monté sur flexible de 14 cm, commutateur ON/OFF, équipé d'un connecteur XLR...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ecd1b059424d5e0056f579a391d1ead9",
+      "id": "8224",
+      "image_link": "https://www.centralsono.com/27133-googleshopping/bf-t-5043-l-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/bf-t-5043-l-fbt-install-8224.html",
+      "price": 174.0,
+      "sale_price": null,
+      "title": "BF-T 5043 L FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Transformateur Ligne 100V pour enceinte de la série Style de FBT - Transformateur ligne 100V - Entrée : 4 ohm - Sortie 100V : 20W / 10W / 5W / 2,5W - Compatible avec : - Enc...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@532923f11ac97d3e7cb0130315b067dc",
+      "id": "8222",
+      "image_link": "https://www.centralsono.com/27130-googleshopping/tr20-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/tr20-fbt-install-8222.html",
+      "price": 20.0,
+      "sale_price": null,
+      "title": "TR20 FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT Vertus CLA 118SA - Housse de protection pour enceinte FBT - Matériau : Nylon - Compatible avec : - Vertus CLA 118SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8d1de7457fa769ece8d93a13a59c8552",
+      "id": "8205",
+      "image_link": "https://www.centralsono.com/27035-googleshopping/vt-ch-118-sa-housse-pour-vertus-cla-118sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-ch-118-sa-housse-pour-vertus-cla-118sa-fbt-8205.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "VT-CH 118 SA housse pour Vertus CLA 118SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de transport spécialement conçue pour l'enceinte satellite du système VERTUS CLA 406A de FBT - Housse pour enceinte - Matériau : nylon - Compatible avec : - Vertus CLA ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@548f45be9b6c68f10bed527bce14246e",
+      "id": "8204",
+      "image_link": "https://www.centralsono.com/27034-googleshopping/vt-c-406-housse-pour-vertus-cla-406a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-c-406-housse-pour-vertus-cla-406a-fbt-8204.html",
+      "price": 60.0,
+      "sale_price": null,
+      "title": "VT-C 406 housse pour Vertus CLA 406A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour subwoofer Vertus CLA118SA de FBT - Housse de protection pour caisson de basse - Matériau : Nylon - Compatible avec : - Vertus CLA 118SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3fffb98d728238ddea957f0fc3ebe428",
+      "id": "8203",
+      "image_link": "https://www.centralsono.com/27033-googleshopping/vt-c-118-sa-housse-pour-vertus-cla118sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-c-118-sa-housse-pour-vertus-cla118sa-fbt-8203.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "VT-C 118 SA housse pour Vertus CLA118SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection pour caisson de basse FBT SubLine 12 SA - Housse de protection pour enceinte FBT - Matériau : Nylon - Compatible avec : - SubLine 12 SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7c6f8dba4a02404f97b5953d2c4172a7",
+      "id": "8202",
+      "image_link": "https://www.centralsono.com/27032-googleshopping/sl-c-12s-housse-pour-subline-12-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sl-c-12s-housse-pour-subline-12-fbt-8202.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "SL-C 12S housse pour Subline 12 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Modus 4820LA de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Modus 4820LA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c61aed648da48aa3893fb3eaadd88a7f",
+      "id": "8201",
+      "image_link": "https://www.centralsono.com/27031-googleshopping/md-c-4820-housse-pour-modus-4820la-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-c-4820-housse-pour-modus-4820la-fbt-touring-8201.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "MD-C 4820 housse pour Modus 4820LA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Modus 4805 de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Modus 215 FSA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@486c0401c56bf7ec2daa9eba58907da9",
+      "id": "8200",
+      "image_link": "https://www.centralsono.com/27030-googleshopping/md-c-4805-housse-pour-modus-4805la-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-c-4805-housse-pour-modus-4805la-fbt-touring-8200.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "MD C 4805 housse pour Modus 4805LA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de protection en nylon, pour enceinte Modus 215 FSA de FBT - Housse de protection pour enceinte - Matériau : Nylon - Compatible avec : - Modus 215 FSA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@653cd6f9efefe6d273e2c116d2a6b765",
+      "id": "8199",
+      "image_link": "https://www.centralsono.com/27029-googleshopping/md-c-215fsa-housse-pour-modus-215-fsa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-c-215fsa-housse-pour-modus-215-fsa-fbt-touring-8199.html",
+      "price": 125.0,
+      "sale_price": null,
+      "title": "MD C 215FSA housse pour Modus 215 FSA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de sono passive FBT J8, 160 W RMS en 8 Ohms , 2 voies avec haut parleur de 8'' (13cm) et Moteur 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@28f248e9279ac845995c4e9f8af35c2b",
+      "id": "8198",
+      "image_link": "https://www.centralsono.com/27019-googleshopping/j8-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j8-fbt-8198.html",
+      "price": 186.0,
+      "sale_price": null,
+      "title": "J8 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de sono passive FBT J5, 80 W RMS en 16 Ohms , 2 voies avec haut parleur de 5'' (13cm) et tweeter a dôme 1''....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@35285aa740b37f0b1933da97bf4ca4b9",
+      "id": "8197",
+      "image_link": "https://www.centralsono.com/27009-googleshopping/j5-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/j5-fbt-8197.html",
+      "price": 101.0,
+      "sale_price": null,
+      "title": "J5 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 8 pouces, 8 ohms, 350 W RMS. Utilisable en Ligne 100V en 100 W. Finition",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cc02d42b8939768b8a4f1e4d826faa79",
+      "id": "8196",
+      "image_link": "https://www.centralsono.com/27007-googleshopping/archon-108-white-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-108-white-fbt-install-8196.html",
+      "price": 525.0,
+      "sale_price": null,
+      "title": "ARCHON 108 White FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 6.5 pouces, 8 ohms, 300 W RMS. Utilisable en Ligne 100V en 100 W. Finition",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3c88c1db16b9523b4dcdcd572aa1e16a",
+      "id": "8195",
+      "image_link": "https://www.centralsono.com/27005-googleshopping/archon-106-white-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-106-white-fbt-install-8195.html",
+      "price": 385.0,
+      "sale_price": null,
+      "title": "ARCHON 106 White FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive, 5 pouces, 8 ohms, 200 W RMS. Utilisable en Ligne 100V en 50 W. Finition",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@90b8e8eca90756905bf80c293ae6a50a",
+      "id": "8194",
+      "image_link": "https://www.centralsono.com/27003-googleshopping/archon-105-white-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/archon-105-white-fbt-install-8194.html",
+      "price": 295.0,
+      "sale_price": null,
+      "title": "ARCHON 105 White FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Filtre passif B&C Speakers XO-6, 2 voies 12db/Octave pour 8 ohms coupure a 1.5KHz...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@62161512d8b1b5db826778917e974b21",
+      "id": "8188",
+      "image_link": "https://www.centralsono.com/26991-googleshopping/xo-6-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xo-6-b-and-c-8188.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "XO-6 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Filtre passif B&C Speakers XO-5, 2 voies 12db/Octave pour 8 ohms coupure a 1.5KHz...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cecd845e3577efdaaf24eea03af4c033",
+      "id": "8187",
+      "image_link": "https://www.centralsono.com/26990-googleshopping/xo-5-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xo-5-b-and-c-8187.html",
+      "price": 79.0,
+      "sale_price": null,
+      "title": "XO-5 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Filtre passif B&C Speakers XO-4, 2 voies 12db/Octave pour 8 ohms coupure a 1.2KHz...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2051bd70fc110a2208bdbd4a743e7f79",
+      "id": "8186",
+      "image_link": "https://www.centralsono.com/26989-googleshopping/xo-4-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xo-4-b-and-c-8186.html",
+      "price": 89.0,
+      "sale_price": null,
+      "title": "XO-4 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Filtre passif B&C Speakers XO-3, 2 voies 12db/Octave pour 8 ohms coupure a 1.5KHz...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@45ab12afa05e563bb484781693dffc87",
+      "id": "8185",
+      "image_link": "https://www.centralsono.com/26988-googleshopping/xo-3-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xo-3-b-and-c-8185.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "XO-3 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Filtre passif B&C Speakers XO-1, 2 voies 12db/Octave pour 8 ohms coupure a 2.2KHz...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@83462e22a65e7e34975bbf2b639333ec",
+      "id": "8183",
+      "image_link": "https://www.centralsono.com/26986-googleshopping/xo-1-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/xo-1-b-and-c-8183.html",
+      "price": 54.0,
+      "sale_price": null,
+      "title": "XO-1 B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit complet de remembranage B&C RCK18TBX1008 pour le B&C Speakers 18TBX100 en 8?...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@427357dfbc5cc1967afeef00b8e6ec80",
+      "id": "8182",
+      "image_link": "https://www.centralsono.com/26985-googleshopping/recone-kit-pour-18tbx100-8-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/recone-kit-pour-18tbx100-8-b-and-c-8182.html",
+      "price": 144.0,
+      "sale_price": null,
+      "title": "Recone Kit pour 18TBX100 8? B and C",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit complet de remembranage B&C RCK18PZB1008 pour le B&C Speakers 18PZB100 en 8?...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@299dc35e747eb77177d9cea10a802da2",
+      "id": "8181",
+      "image_link": "https://www.centralsono.com/26984-googleshopping/recone-kit-pour-18pzb100-8-b-and-c.jpg",
+      "link": "https://www.centralsono.com/sonorisation/recone-kit-pour-18pzb100-8-b-and-c-8181.html",
+      "price": 154.5,
+      "sale_price": null,
+      "title": "Recone Kit pour 18PZB100 8? B and C",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

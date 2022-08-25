@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>
+        Home(proto)
+    </title>
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Lato&family=Montserrat:wght@200;400&display=swap');
+
+        body {
+            background-color: #ddd;
+            font-size: 1.08rem;
+            color: #444;
+        }
+
+        .font-fredoka {
+            font-family: 'Fredoka', sans-serif;
+        }
+
+        .font-montserrat {
+            font-family: 'Montserrat', sans-serif;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="sticky top-0">
+        <div class="flex items-center justify-between header-container bg-black py-3">
+            <div class="flex items-center px-4 py-2 text-2xl font-extrabold font-fredoka">
+                <span class="rounded-full bg-white text-gray-900 p-3 mr-3">VS</span>
+                <span class="text-yellow-400">VITE</span>
+                <span class="text-white">SONO</span>
+            </div>
+
+            <a href="/login"><button
+                    class="bg-yellow-400 uppercase font-montserrat font-bold text-xs px-5 py-2 rounded sm:mr-10 mb-1"
+                    type="button">login</button></a>
+        </div>
+    </header>
+    <!-- Contenu -->
+    <main class="container p-1 max-w-7xl bg-white rounded-lg mx-auto m-8">
+        <div class="py-4 ">
+            <div class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
+                <!--Left Col-->
+                <div class="flex flex-col w-full md:w-1/2 justify-center items-start text-center md:text-left">
+                    <h1 class="my-4 text-5xl font-bold leading-tight">
+                        Welcome to
+                        <span class="text-yellow-300">VITE</span> SONO <br>
+                        Administration area
+                    </h1>
+                    <p class="leading-normal text-2xl mb-8 text-gray-600">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa laudantium aspernatur, error magni
+                        assumenda incidunt tempore hic architecto omnis voluptatem eos expedita laborum doloribus optio
+                        nam quae, ullam quidem fugit.
+                    </p>
+                </div>
+                <!--Right Col-->
+                <div class="w-full md:w-1/2 py-6 text-center">
+                    <img class="hiddenSpeaker" src="assets/img/login/headphone.png" height="638px" width="614px"
+                        alt="Speaker" id="test1" />
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="bg-black flex px-9 mx-auto pt-4 text-white font-semibold">
+            <div class="w-1/4  h-24">Efficiel Technologie SAS</div>
+            <div class="w-1/4  h-24">
+                <a href="">About us</a><br />
+                <a href="">Legal notice</a><br />
+            </div>
+            <div class="w-1/4  h-24">
+                <a href="">Terms & Condition</a><br />
+                <a href="">Privacy Policy</a>
+            </div>
+            <div class="w-1/4  h-24">
+                <a href="">Contact us</a>
+            </div>
+            <div class="w-1/4  mt-12 h-12">
+                © 2022 VITESONO. All rights reserved.
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

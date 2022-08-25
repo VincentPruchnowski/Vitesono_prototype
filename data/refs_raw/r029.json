@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 32,
+  "query": "sonorisation",
+  "query_counter": 34,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Dispositif de protection contre la pluie pour le panneau arrière des enceintes Mitus 210 de FBT. - Panneau de protection - Transparent - Compatible avec : - Muse 210L - Muse 2...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1a07bcc79f21590b3ed2622d5807bdd0",
+      "id": "8041",
+      "image_link": "https://www.centralsono.com/26402-googleshopping/msc-210-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/msc-210-fbt-touring-8041.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "MSC 210 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 18 pouces, diffusion par la face arrière, 1200W RMS sous 8 ohms...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@544defa9fddff50c53b71c43e0da72be",
+      "id": "8040",
+      "image_link": "https://www.centralsono.com/26399-googleshopping/muse-118fsc-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/muse-118fsc-fbt-touring-8040.html",
+      "price": 2399.0,
+      "sale_price": null,
+      "title": "MUSE 118FSC FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 18 pouces, diffusion par la face avant réversible, 1200W RMS sous 8 ohms - Sub-Woofer passif - Diffusion par la face avant - Réversible - Matériau : co...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@0919b5c38396c3f0c41f1112d538e42c",
+      "id": "8039",
+      "image_link": "https://www.centralsono.com/26395-googleshopping/muse-118fs-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/muse-118fs-fbt-touring-8039.html",
+      "price": 2399.0,
+      "sale_price": null,
+      "title": "MUSE 118FS FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié,18 pouces, diffusion par la face arrière, 1200W RMS....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e97986091ee430b881ba8fc9755a64a8",
+      "id": "8038",
+      "image_link": "https://www.centralsono.com/26391-googleshopping/muse-118fsca-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/muse-118fsca-fbt-touring-8038.html",
+      "price": 2879.0,
+      "sale_price": null,
+      "title": "MUSE 118FSCA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié,18 pouces, diffusion par la face avant réversible, 1200W RMS. - Sub-Woofer - Diffusion par la face avant - Réversible - Matériau : contreplaqué de bou...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3a9de64a6c62c8cd6ff8320bafb8452f",
+      "id": "8037",
+      "image_link": "https://www.centralsono.com/26387-googleshopping/muse-118fsa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/muse-118fsa-fbt-touring-8037.html",
+      "price": 2879.0,
+      "sale_price": null,
+      "title": "MUSE 118FSA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro équipé d'une capsule MU 37 Dynamique Supercardioïde de Mipro. - Mipro MM 107 - Micro main Filaire - Capsule dynamique - Directivité : Supercardioïde - Interrupteur - Ré...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@60cb558c40e4f18479664069d9642d5a",
+      "id": "8261",
+      "image_link": "https://www.centralsono.com/27233-googleshopping/mu-210d-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-210d-mipro-8261.html",
+      "price": 159.0,
+      "sale_price": null,
+      "title": "MU 210D Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Module récepteur 2.4GHz numérique enfichable pour sono portable Mipro MA808/708/707/505 - MRM 24 de Mipro - Récepteur 2.4GHz - Fréquences porteuses : 2.4 - 2.4835GHz - Fonction...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a73d2d60ed472454a0360027aa039bdb",
+      "id": "8260",
+      "image_link": "https://www.centralsono.com/27222-googleshopping/mrm-24-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mrm-24-mipro-8260.html",
+      "price": 129.0,
+      "sale_price": null,
+      "title": "MRM 24 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Récepteur 2 canaux, sans fil True Diversity, ACT 312B de Mipro. - Récepteur ACT 312B - 2 Canaux de réception - Largeur de bande : 24MHz - Multifréquence : choix de 10 groupes s...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@51f4efbfb3e18f4ea053c4d3d282c4e2",
+      "id": "8259",
+      "image_link": "https://www.centralsono.com/27218-googleshopping/act-312b-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-312b-mipro-8259.html",
+      "price": 324.0,
+      "sale_price": 299.0,
+      "title": "ACT 312B Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Boîtier métallique Rack Standard 2 unités, piloté par un petit mixer, à équiper de deux récepteurs sans fil UHF, d'un émetteur sans fil et d'un lecteur CD/USB. - Mipro MA 909 - B...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ce2b9a26bddc32cba5af69372ee14c00",
+      "id": "8256",
+      "image_link": "https://www.centralsono.com/34463-googleshopping/ma-909-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ma-909-mipro-8256.html",
+      "price": 436.0,
+      "sale_price": 399.0,
+      "title": "MA 909 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "MTG 100TA est un émetteur numérique sans fil, ultra compact, léger et facile à utiliser, pour guide de visite guidée. - Mipro MTG 100TA - Émetteur miniature - 16 Canaux prérégl...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7cb1f2f2baf6ab2ae929ad8cb88d6210",
+      "id": "8255",
+      "image_link": "https://www.centralsono.com/27200-googleshopping/mtg-100ta-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mtg-100ta-mipro-8255.html",
+      "price": 199.0,
+      "sale_price": null,
+      "title": "MTG 100TA Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur miniature ACT 22T, à fixer sur casqe serre tête MU23D ou MU210D de Mipro - Mipro ACT 22T - Émetteur miniature - Synchronisation ACT - Voyant de niveaux de charge batte...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@122e27d57ae8ecb37f3f1da67abb33cb",
+      "id": "8254",
+      "image_link": "https://www.centralsono.com/27199-googleshopping/act-22t-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-22t-mipro-8254.html",
+      "price": 212.0,
+      "sale_price": 199.0,
+      "title": "ACT 22T Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Micro équipé d'une capsule MU 37 Dynamique Supercardioïde de Mipro. - Mipro MM 107 - Micro main Filaire - Capsule dynamique - Directivité : Supercardioïde - Interrupteur - Ré...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@33beffd09a1b020d1187c6b4b264014a",
+      "id": "8253",
+      "image_link": "https://www.centralsono.com/27197-googleshopping/mm-107-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mm-107-mipro-8253.html",
+      "price": 36.0,
+      "sale_price": null,
+      "title": "MM 107 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support d'antenne ou d'enceinte, orientable, à fixer au mur, de Mipro - Compatible avec : - MA 303DB - MA 303SB - MA 303AXP - AT24 - AT 70W - AT 90W - AT100...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@88b057334964aecf7cc034c38011add0",
+      "id": "8252",
+      "image_link": "https://www.centralsono.com/27196-googleshopping/ms-90-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ms-90-mipro-8252.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "MS 90 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Connectique mini XLR femelle, 4 broches, avec bague de serrage de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c8ecfaea0b7e3aa83b017a786d53b9e8",
+      "id": "8251",
+      "image_link": "https://www.centralsono.com/27186-googleshopping/mj-40s-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mj-40s-mipro-8251.html",
+      "price": 14.0,
+      "sale_price": null,
+      "title": "MJ 40S Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de 2 câbles d'antenne, de Mipro Permet le montage des antennes de réception ou d'émission sur la face avant du rack - Compatible avec kit de rackage : - FB 10 - FB 71 - F...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b0d336331ae52d66769bb655c37032c6",
+      "id": "8250",
+      "image_link": "https://www.centralsono.com/27185-googleshopping/fbc-71-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fbc-71-mipro-8250.html",
+      "price": 24.0,
+      "sale_price": null,
+      "title": "FBC 71 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de montage en rack pour 2 éléments 1/2 Unité côte à côte ou 1 élément 1 Unité, de Mipro - Compatible avec : - 2 x ACT-818 côte à côte - 2 x ACT-515B côte à côte - 2 x ACT-...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4f6312fa44a894eab0d022fce42592bf",
+      "id": "8249",
+      "image_link": "https://www.centralsono.com/27184-googleshopping/fb-72-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fb-72-mipro-8249.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "FB 72 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de montage en rack pour élément 1/2 Unité de Mipro - Compatible avec : - CT-2401 - ACT-2402 - ACT-311B - ACT-312B - ACT-515B - ACT-818 - AD-808 - AD-90A - AD-9...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@51d1cd3a02276948f566e6ea0a7d78cb",
+      "id": "8248",
+      "image_link": "https://www.centralsono.com/27183-googleshopping/fb-71-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/fb-71-mipro-8248.html",
+      "price": 29.0,
+      "sale_price": null,
+      "title": "FB 71 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur de poche Mipro ACT 72T, nécessite l'usage d'un récepteur type ACT 717, 727, ou 747 - ACT 72T Mipro - Émetteur de poche - Synchronisation ACT - Puissance de sortie 10mW...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@315f006f691ef2e689125614ea22cc61",
+      "id": "8247",
+      "image_link": "https://www.centralsono.com/34329-googleshopping/act-72t-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-72t-mipro-8247.html",
+      "price": 290.0,
+      "sale_price": 269.0,
+      "title": "ACT 72T Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur main Mipro ACT 52H Micro seul, nécessite l'usage d'un récepteur type ACT 51 ou 52 - Mipro ACT 52H - Émetteur main - Synchronisation ACT - Capsule dynamique - Répons...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d40d35b3063c11244fbf38e9b55074be",
+      "id": "8246",
+      "image_link": "https://www.centralsono.com/34259-googleshopping/act-52h-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-52h-mipro-8246.html",
+      "price": 189.0,
+      "sale_price": null,
+      "title": "ACT 52H Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur de poche pour guitare, Mipro MT 24, nécessite l'usage d'un récepteur type ACT2401....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c9e5c2b59d98488fe1070e744041ea0e",
+      "id": "8245",
+      "image_link": "https://www.centralsono.com/27180-googleshopping/mt-24-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt-24-mipro-8245.html",
+      "price": 179.0,
+      "sale_price": null,
+      "title": "MT 24 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur de poche Mipro ACT 24TC, nécessite l'usage d'un récepteur type ACT2401....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@dc2885225cbcb517bfea1ae528f56428",
+      "id": "8244",
+      "image_link": "https://www.centralsono.com/27177-googleshopping/act-24tc-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-24tc-mipro-8244.html",
+      "price": 178.0,
+      "sale_price": 169.0,
+      "title": "ACT 24TC Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Émetteur main Mipro ACT 24HC Micro seul, nécessite l'usage d'un récepteur type ACT2401....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cacad2aec9f4371413f91805dcea928e",
+      "id": "8243",
+      "image_link": "https://www.centralsono.com/34247-googleshopping/act-24hc-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/act-24hc-mipro-8243.html",
+      "price": 178.0,
+      "sale_price": 169.0,
+      "title": "ACT 24HC Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pince pour micro main MD20 de Mipro...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d47bf0af618a3523a226ed7cada85ce3",
+      "id": "8242",
+      "image_link": "https://www.centralsono.com/27173-googleshopping/md-20-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-20-mipro-8242.html",
+      "price": 9.0,
+      "sale_price": null,
+      "title": "MD 20 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": null,
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1e00746ce7635c403c2d4f9767893f00",
+      "id": "8241",
+      "image_link": "https://www.centralsono.com/27172-googleshopping/e-8p-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/e-8p-mipro-8241.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "E 8P Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Station de recharge pour 2 batteries MB5 de Mipro - Station de recharge - 2 emplacements 3 en 1 - 2 témoins de charge - Circuit de protection d'inversion de polarité - Aliment...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c3f4db3a634aa769c0f1161219272d03",
+      "id": "8240",
+      "image_link": "https://www.centralsono.com/27169-googleshopping/mp-80-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mp-80-mipro-8240.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "MP 80 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Station de recharge pour 2 batteries MB5 de Mipro - Station de recharge - 2 emplacements - 2 témoins de charge - Circuit de protection d'inversion de polarité - Dimensions : 6...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@19f6a8886908b80b8b6e9f212dbeea09",
+      "id": "8239",
+      "image_link": "https://www.centralsono.com/27168-googleshopping/mp-20-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mp-20-mipro-8239.html",
+      "price": 39.0,
+      "sale_price": null,
+      "title": "MP 20 Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Câble Jack 6.35mm guitare pour boitier émetteur sans fil de Mipro - Câble de liaison - connectiques : - Jack 6.35mm - Mini XLR Femelle - Longueur : 1.2m...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b060700f0a542a147685180b143ad61e",
+      "id": "8238",
+      "image_link": "https://www.centralsono.com/27167-googleshopping/mu-40-g-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mu-40-g-mipro-8238.html",
+      "price": 25.0,
+      "sale_price": null,
+      "title": "MU 40 G Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Module de liaison pour sono portable MA505, de Mipro - Module de liaison - 16 canaux sélectionnables - Compatible avec : MA 505 - Dimensions : 75 x 35 x 165 mm - Poids : 85g...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7dd2ae7db7d18ee7c9425e38df1af5e2",
+      "id": "8237",
+      "image_link": "https://www.centralsono.com/27156-googleshopping/mt91-6a-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mt91-6a-mipro-8237.html",
+      "price": 179.0,
+      "sale_price": null,
+      "title": "MT91 6A Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "- Antenne AT 90W de mipro - UHF large bande : 470 - 1000 MHz - Gain : 4 ~ 6 dBi - Directivité : 75° V X 130° H - Connectique : TNC (entré + sortie) - Impédance : 50 ? - Dimen...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c81e155d85dae5430a8cee6f2242e82c",
+      "id": "8236",
+      "image_link": "https://www.centralsono.com/27150-googleshopping/at-90w-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/at-90w-mipro-8236.html",
+      "price": 300.0,
+      "sale_price": 279.0,
+      "title": "AT 90W Mipro",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "l'AD-90A est un amplificateur UHF large bande réversible de Mipro - Amplificateur de signal - UHF large bande : 470 - 960 MHz - Gain : 8 dB (±1 dB) - Connectique : TNC (entré +...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@9f9a2e9ab3dc74b58ef7c5b974807751",
+      "id": "8235",
+      "image_link": "https://www.centralsono.com/27148-googleshopping/ad-90a-mipro.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ad-90a-mipro-8235.html",
+      "price": 525.0,
+      "sale_price": 489.0,
+      "title": "AD 90A Mipro",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

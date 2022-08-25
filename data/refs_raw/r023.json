@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 26,
+  "query": "sonorisation",
+  "query_counter": 28,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": null,
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a2b8a85a29b2d64ad6f47275bf1360c6",
+      "id": "8035",
+      "image_link": "https://www.centralsono.com/26377-googleshopping/muse-210la-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/muse-210la-fbt-touring-8035.html",
+      "price": 2350.0,
+      "sale_price": null,
+      "title": "MUSE 210LA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 18 pouces, diffusion par la face arrière, 1200W RMS, impédance 8 ohms - Sub-Woofer - Diffusion par la face arrière - Matériau : contreplaqué de boulot...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@cc4af25fa9d2d5c953496579b75f6f6c",
+      "id": "8034",
+      "image_link": "https://www.centralsono.com/26375-googleshopping/mitus-118fsc-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-118fsc-fbt-touring-8034.html",
+      "price": 1859.0,
+      "sale_price": null,
+      "title": "MITUS 118FSC FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 18 pouces, diffusion par la face avant, 1200W RMS, impédance 8 ohms - Sub-Woofer - Diffusion par la face avant - Matériau : contreplaqué de boulot 15 ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fc5b3186f1cf0daece964f78259b7ba0",
+      "id": "8033",
+      "image_link": "https://www.centralsono.com/26373-googleshopping/mitus-118fs-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-118fs-fbt-touring-8033.html",
+      "price": 1859.0,
+      "sale_price": null,
+      "title": "MITUS 118FS FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié,18 pouces, diffusion par la face arrière, 1200W RMS. - Sub-Woofer - Diffusion par la face arrière - Matériau : contreplaqué de boulot 15 mm - Puissa...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@319be2a70dd4b557266c6ca2c20f6da7",
+      "id": "8032",
+      "image_link": "https://www.centralsono.com/26370-googleshopping/mitus-118fsca-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-118fsca-fbt-touring-8032.html",
+      "price": 2399.0,
+      "sale_price": null,
+      "title": "MITUS 118FSCA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié en 1200 watts RMS avec un haut parleur de 18'' (46cm), le FBT MITUS 118FSA est équipé de systèmes d'accroches pour l'adaptation des accessoires en option ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@67038aaa05ffac51830cffb04441f8c3",
+      "id": "8031",
+      "image_link": "https://www.centralsono.com/26367-googleshopping/mitus-118fsa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-118fsa-fbt-touring-8031.html",
+      "price": 2399.0,
+      "sale_price": null,
+      "title": "MITUS 118FSA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Barre de couplage dédié à la série Mitus de FBT - Support d'enceinte - Ø M20 - Supporte au maximum 2 enceintes - Compatible avec : - Mitus 206L - Mitus 206LA - Mitus 21...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b4d22bb574aed5fdd900a274930252f6",
+      "id": "8030",
+      "image_link": "https://www.centralsono.com/26366-googleshopping/mts-206-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mts-206-fbt-touring-8030.html",
+      "price": 330.0,
+      "sale_price": null,
+      "title": "MTS 206 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support pour installation d'enceintes Mitus 206L à même le sol ou sur les caissons de basse Mitus 118 et 121. - Support d'enceinte - A poser au sol ou sur caisson de la série Mi...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@becc353586042b6dbcc42c1b794c37b6",
+      "id": "8029",
+      "image_link": "https://www.centralsono.com/26365-googleshopping/mtb-206-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mtb-206-fbt-touring-8029.html",
+      "price": 490.0,
+      "sale_price": null,
+      "title": "MTB 206 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Barre de jonction entre caisson 212 FS et enceinte 206L de la série Mitus de FBT. - Support d'enceinte - Compatible entre : - Mitus 212FS - Mitus 212FSA - Mitus 206L - Mit...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f8e918489f1e0a81ff11312f4d0630c1",
+      "id": "8028",
+      "image_link": "https://www.centralsono.com/26364-googleshopping/mtj-206-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mtj-206-fbt-touring-8028.html",
+      "price": 235.0,
+      "sale_price": null,
+      "title": "MTJ 206 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte de la série Modus de FBT. - Support d'enceinte - Compatible avec : - Mitus 212FS - Mitus 212FSA - Mitus 118FS - Mitus 118FSA - Mitus 118FSC - Mi...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e6d80593a7d6bb499229c85e7fa4e7ae",
+      "id": "8027",
+      "image_link": "https://www.centralsono.com/26363-googleshopping/mtf-212-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mtf-212-fbt-touring-8027.html",
+      "price": 635.0,
+      "sale_price": null,
+      "title": "MTF 212 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte 206L ou 206LA de la série Mitus de FBT. - Support d'enceinte - Compatible avec : - QSA 112 - QSA 112A - QSA 112.0 - QSA 112.0A - QSA 118S - QS...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e6872f5bbe75073f8c7cfb93de7f6f3a",
+      "id": "8026",
+      "image_link": "https://www.centralsono.com/26362-googleshopping/mtf-206-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mtf-206-fbt-touring-8026.html",
+      "price": 380.0,
+      "sale_price": null,
+      "title": "MTF 206 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse passif, 2 x 12 pouces, 1000W RMS 8 ohms - Sub-Woofer - Bass Reflex - Matériau : contreplaqué de boulot 15 mm - Puissance : 1000W RMS - Impédance : 8 ohms - ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@62d2b7ba91f34c0ac08aa11c359a8d2c",
+      "id": "8025",
+      "image_link": "https://www.centralsono.com/26359-googleshopping/mitus-212fs-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-212fs-fbt-touring-8025.html",
+      "price": 1579.0,
+      "sale_price": null,
+      "title": "MITUS 212FS FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Équipé de systèmes d'accroches pour l'adaptation des accessoires en option, le FBT MITUS 212FSA Caisson de basse amplifié de 1200W RMS en 2 x 12'' (31cm). Caisson pour les Line Arr...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@859555c74e9afd45ab771c615c1e49a6",
+      "id": "8024",
+      "image_link": "https://www.centralsono.com/26355-googleshopping/mitus-212fsa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-212fsa-fbt-touring-8024.html",
+      "price": 2190.0,
+      "sale_price": null,
+      "title": "MITUS 212FSA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte Bi-amplifiée de type Line Array. FBT MITUS 206LA, amplification de 900 watts RMS avec 2 x HP 6.5'' B&C Speakers et moteur 1.4'' B&C Speakers. Réglages par DSP avec 8 prese...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1ecdec353419f6d7e30857d00d0312d1",
+      "id": "8023",
+      "image_link": "https://www.centralsono.com/26349-googleshopping/mitus-206la-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-206la-fbt-touring-8023.html",
+      "price": 1890.0,
+      "sale_price": null,
+      "title": "MITUS 206LA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte de <em>sonorisation</em> passive pour système line array, 2 x 6 pouces, 500+ 150 W RMS, 2 x 16 ohms Parfaitement",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@60c97bef031ec312b512c08565c1868e",
+      "id": "8022",
+      "image_link": "https://www.centralsono.com/26343-googleshopping/mitus-206l-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-206l-fbt-touring-8022.html",
+      "price": 1320.0,
+      "sale_price": null,
+      "title": "MITUS 206L FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Trolley dédié aux enceintes Modus 4805 et 4820 de FBT Transportez jusqu'à 2 enceintes, sans risque pour votre dos. - Trolley - Support jusqu'à 2 enceintes - Compatible avec : ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@31917677a66c6eddd3ab1f68b0679e2f",
+      "id": "8021",
+      "image_link": "https://www.centralsono.com/26342-googleshopping/md-t-48-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-t-48-fbt-touring-8021.html",
+      "price": 389.0,
+      "sale_price": null,
+      "title": "MD-T 48 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Trolley dédié au caisson de basse Modus 118 de FBT Transportez jusqu'à 2 caissons, sans risque pour votre dos. - Trolley - Support jusqu'à 2 caissons - Compatible avec : - Mo...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@07b1c04a30f798b5506c1ec5acfb9031",
+      "id": "8020",
+      "image_link": "https://www.centralsono.com/26341-googleshopping/md-t-118-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-t-118-fbt-touring-8020.html",
+      "price": 360.0,
+      "sale_price": null,
+      "title": "MD-T 118 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support anglé pour installation d'enceintes Modus 4805 ou 4820 à même le sol...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@08b2dbdc9ca941d237893bd425af8bfa",
+      "id": "8019",
+      "image_link": "https://www.centralsono.com/26340-googleshopping/md-b-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/md-b-fbt-touring-8019.html",
+      "price": 825.0,
+      "sale_price": null,
+      "title": "MD-B FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié, 2 x 15 pouces, 2000W RMS. - Sub-Woofer - Bass Reflex - Montage Push-Pull - Matériau : contreplaqué de boulot 18 mm - Puissance : 2000W RMS - Amp...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ba638ebf561da3b2313e5d7955c55ea9",
+      "id": "8018",
+      "image_link": "https://www.centralsono.com/26337-googleshopping/modus-215fsa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/modus-215fsa-fbt-touring-8018.html",
+      "price": 3890.0,
+      "sale_price": null,
+      "title": "MODUS 215FSA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié,18 pouces, 1200W RMS. - Sub-Woofer Bass Reflex - Matériau : contreplaqué de boulot 18 mm - Puissance : 1200W RMS - Amplification Class D - Haut-Par...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@00865d413600d26adb36d2f55973559f",
+      "id": "8017",
+      "image_link": "https://www.centralsono.com/26334-googleshopping/modus-118fsa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/modus-118fsa-fbt-touring-8017.html",
+      "price": 2570.0,
+      "sale_price": null,
+      "title": "MODUS 118FSA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": null,
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bf40d1cbb2ba9fdad19821fc140fa50c",
+      "id": "8016",
+      "image_link": "https://www.centralsono.com/26329-googleshopping/modus-4820la-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/modus-4820la-fbt-touring-8016.html",
+      "price": 3730.0,
+      "sale_price": null,
+      "title": "MODUS 4820LA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": null,
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1f7aa6705d5b742085538c627f6f9c2b",
+      "id": "8015",
+      "image_link": "https://www.centralsono.com/26324-googleshopping/modus-4805la-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/modus-4805la-fbt-touring-8015.html",
+      "price": 3190.0,
+      "sale_price": null,
+      "title": "MODUS 4805LA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte Shadow 142L de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@40f4da34bbe180214c23b9e55da4f772",
+      "id": "8013",
+      "image_link": "https://www.centralsono.com/26321-googleshopping/sw-f142-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/sw-f142-fbt-touring-8013.html",
+      "price": 539.0,
+      "sale_price": null,
+      "title": "SW-F142 FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte passive, 2 voies, 14 pouces, 1000W RMS, 8 ohms, protection IP55....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@8bcf57caa3ccb4c6c1a633674f4aaa84",
+      "id": "8012",
+      "image_link": "https://www.centralsono.com/26317-googleshopping/shadow-142l-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/shadow-142l-fbt-install-8012.html",
+      "price": 1847.0,
+      "sale_price": null,
+      "title": "SHADOW 142L FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Joint bar pour enceintes satellites Vertus CLA 406A de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e1226495c14f1a62ae17aa76c1f0d457",
+      "id": "8011",
+      "image_link": "https://www.centralsono.com/26315-googleshopping/vt-j-406-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-j-406-fbt-8011.html",
+      "price": 185.0,
+      "sale_price": null,
+      "title": "VT-J 406 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Flying bar pour enceinte satellite Vertus CLA 406 de FBT - Support d'enceinte satellite - Compatible avec : - Vertus CLA 406A...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bcff3f632fd16ff099a49c2f0932b47a",
+      "id": "8010",
+      "image_link": "https://www.centralsono.com/26314-googleshopping/vt-f-406-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-f-406-fbt-8010.html",
+      "price": 95.0,
+      "sale_price": null,
+      "title": "VT-F 406 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Barre de couplage pour enceinte Vertus CLA 604A de FBT, hauteur 0 cm. - Barre de couplage - Hauteur 0 cm - Ø supérieur : 35mm - Ø inférieur : M20 - Compatible entre : - Vert...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@74627b65e6e6a4c21e06809b8e02114a",
+      "id": "8009",
+      "image_link": "https://www.centralsono.com/26313-googleshopping/vt-s-0-406-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-s-0-406-fbt-8009.html",
+      "price": 45.0,
+      "sale_price": null,
+      "title": "VT-S 0 406 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Barre de couplage pour enceinte Vertus CLA 406A de FBT, hauteur 30 cm. - Barre de couplage - Hauteur 30 cm - Ø supérieur : 35mm - Ø inférieur : M20 - Compatible entre : - Ve...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@12f73080e04ce0d8e95defb577ebc3f4",
+      "id": "8008",
+      "image_link": "https://www.centralsono.com/26312-googleshopping/vt-s30-406-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-s30-406-fbt-8008.html",
+      "price": 55.0,
+      "sale_price": null,
+      "title": "VT-S30 406 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de transport spécialement conçue pour une colonne de liaison VT-SC59 604 d'enceinte Vertus CLA 604A de FBT, longueur 59 cm. - Housse pour colonne de liaison FBT - Matéri...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4f00921114932db3f8662a41b44ee68f",
+      "id": "8007",
+      "image_link": "https://www.centralsono.com/26311-googleshopping/vt-c-59-housse-pour-vt-sc-59-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-c-59-housse-pour-vt-sc-59-604-fbt-8007.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "VT-C 59 housse pour VT-SC 59 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Housse de transport spécialement conçue pour une colonne de liaison d'enceinte Vertus CLA 604A de FBT, longueur 114 cm. - Housse pour colonne de liaison FBT - Matériau : nylon -...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@00482b9bed15a272730fcb590ffebddd",
+      "id": "8006",
+      "image_link": "https://www.centralsono.com/26310-googleshopping/vt-c-114-housse-pour-vt-sc114-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-c-114-housse-pour-vt-sc114-604-fbt-8006.html",
+      "price": 49.0,
+      "sale_price": null,
+      "title": "VT-C 114 housse pour VT-SC114 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Kit de 4 goupilles pour enceintes CLA 604 de FBT....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4fa04fbc0b0ce68711f7550ce6113720",
+      "id": "8005",
+      "image_link": "https://www.centralsono.com/26308-googleshopping/vt-p-604-kit-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-p-604-kit-fbt-8005.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "VT-P 604 KIT FBT",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

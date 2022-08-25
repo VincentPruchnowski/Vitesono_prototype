@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Search</title>
+  <link rel="stylesheet" href="/css/search.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <script src="assets/js/sonoImage.js"></script>
+</head>
+
+<body>
+  <!-- Logo + Welcome -->
+  <header>
+    <div class="container">
+      <span class="logo">
+        VS
+      </span>
+      <span class="vite">VITE</span>
+      <span class="sono">SONO</span>
+      <div class="flex-item02">Administration - Welcome, identifiant</div>
+      <div class="flex-item03">
+        <form method="post" action="Logout">
+          <input type="submit" value="Logout" />
+        </form>
+      </div>
+    </div>
+  </header>
+
+  <!-- Title -->
+  <h1 class="title">Search reference</h1>
+
+  <!-- Navbar column -->
+  <div class="container-column">
+    <nav>
+      <ul class="navbar">
+        <li><a class="active" href="../../login.html"><i class="fa fa-fw fa-user"></i> Login</a>
+        <li><a class="active" href="../../app.sys.html"><i class="fa fa-fw fa-user"></i> App.sys</a>
+        <li><a class="active" href="../../index.html"><i class="fa fa-fw fa-home"></i> History</a>
+        <li><a class="active" href="../../search.html"><i class="fa fa-fw fa-search"></i> Search</a>
+        <li><a class="active" href="../../search_test.html"><i class="fa fa-fw fa-search"></i> Search_test</a>
+        <li><a class="active" href="../../product.html"><i class="fa fa-fw fa-product-hunt"></i> Product</a>
+        <li><a class="active" href="../../module.html"><i class="fa fa-fw fa-sticky-note"></i> Module</a>
+        <li><a class="active" href="../../contact.html"><i class="fa fa-fw fa-envelope"></i> Contact</a>
+        <li><a class="active" href="../../settings.html"><i class="fa fa-fw fa-cog"></i> Settings</a>
+      </ul>
+    </nav>
+  </div>
+
+  <main>
+    <!-- Add button -->
+    <div class="container-button">
+      <button class="product styled" type="button">+ Add new product</button>
+    </div>
+
+    <!-- Search List-->
+    <aside>
+      <div class="box">
+        <div>
+          <form class="example" action="">
+            <input type="text" placeholder="search by brand" name="search" />
+          </form>
+        </div>
+
+        <!-- Filter -->
+        <div class="category-select">
+          <select>
+            <option value="0">Select category</option>
+            <option value="1">Sonorisation</option>
+            <option value="2">Homestudio</option>
+            <option value="3">Deejay</option>
+            <option value="4">Musical instrument</option>
+            <option value="5">Light</option>
+            <option value="6">Video</option>
+            <option value="7">Scene</option>
+            <option value="8">Power system</option>
+          </select>
+        </div>
+
+        <!-- Search Button-->
+        <div>
+          <form class="example" action="action_page.php">
+            <button type="submit"><i class="fa fa-search"></i></button>
+          </form>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Checkbox -->
+    <aside>
+      <div class="box1">
+        <div></div>
+        <div>
+          <label class="boxed">Speakers
+            <input type="checkbox" checked="checked" />
+            <span class="checkmark"></span>
+          </label>
+
+          <label class="boxed">Mixing consoles
+            <input type="checkbox" />
+            <span class="checkmark"></span>
+          </label>
+
+          <label class="boxed">Amplifiers
+            <input type="checkbox" />
+            <span class="checkmark"></span>
+          </label>
+
+          <label class="boxed">Microphones
+            <input type="checkbox" />
+            <span class="checkmark"></span>
+          </label>
+
+          <label class="boxed">Effects and peripherals
+            <input type="checkbox" />
+            <span class="checkmark"></span>
+          </label>
+
+          <label class="boxed">Sounding accessories
+            <input type="checkbox" />
+            <span class="checkmark"></span>
+          </label>
+        </div>
+        <div></div>
+      </div>
+    </aside>
+
+    <!-- Results -->
+    <article>
+      <div class="boxes">
+        <div class="product" id="productsSonoSpeaker">
+          <!-- Sonorisation img -->
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-708-a-mk-4.jpg" height="369px"
+            width="357px" alt="Speaker" id="test1" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-710-a-mk-4.jpg" height="369px"
+            width="357px" alt="Speaker" id="test2" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-712-a-mk-4.jpg" height="369px"
+            width="357px" alt="Speaker" id="test3" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-715-a-mk-4.jpg" height="369px"
+            width="357px" alt="Speaker" id="test4" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/art-725-mk4.jpg" height="369px"
+            width="357px" alt="Speaker" id="test5" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/ayra-pro-5.jpg" height="369px"
+            width="357px" alt="Speaker" id="test6" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/ayra-pro-6.jpg" height="369px"
+            width="357px" alt="Speaker" id="test7" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/ayra-pro-8.jpg" height="369px"
+            width="357px" alt="Speaker" id="test8" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/nx-10-sma.jpg" height="369px"
+            width="357px" alt="Speaker" id="test9" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/sub-705-as-ii.jpg" height="369px"
+            width="357px" alt="Speaker" id="test10" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/sub-905-as-ii.jpg" height="369px"
+            width="357px" alt="Speaker" id="test11" />
+          <img class="hiddenSpeaker" src="assets/img/sonorisation/speakers/RCF/sub-8003-as-ii.jpg" height="369px"
+            width="357px" alt="Speaker" id="test12" />
+        </div>
+
+        <!-- SVG Icons-->
+        <div class="svg">
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+          <img src="assets/img/SVG/sonorisation/vs-speaker.svg" height="28" width="28" alt="Speaker" />
+        </div>
+
+        <!--Reference product -->
+        <div class="reference">
+          <button onclick="toggleImage('test1', this)" class="selectSpeaker">
+            <span>ART 708-A MK 4</span>
+          </button>
+          <button onclick="toggleImage('test2', this)" class="selectSpeaker">
+            <span>SUB 705-AS II</span><span></span>
+          </button>
+          <button onclick="toggleImage('test3', this)" class="selectSpeaker">
+            <span>ART 710-A MK 4</span>
+          </button>
+          <button onclick="toggleImage('test4', this)" class="selectSpeaker">
+            <span>ART 712 A MK 4</span>
+          </button>
+          <button onclick="toggleImage('test5', this)" class="selectSpeaker">
+            <span>ART 715-A MK 4</span>
+          </button>
+          <button onclick="toggleImage('test6', this)" class="selectSpeaker">
+            <span>ART 725 MK4</span>
+          </button>
+          <button onclick="toggleImage('test7', this)" class="selectSpeaker">
+            <span>SUB 905-AS II</span>
+          </button>
+          <button onclick="toggleImage('test8', this)" class="selectSpeaker">
+            <span>AYRA PRO 8</span>
+          </button>
+          <button onclick="toggleImage('test9', this)" class="selectSpeaker">
+            <span>AYRA PRO 5</span>
+          </button>
+          <button onclick="toggleImage('test10', this)" class="selectSpeaker">
+            <span>AYRA PRO 6</span>
+          </button>
+          <button onclick="toggleImage('test11', this)" class="selectSpeaker">
+            <span>NX 10 SMA</span>
+          </button>
+          <button onclick="toggleImage('test12', this)" class="selectSpeaker">
+            <span>SUB 8003-AS II</span>
+          </button>
+        </div>
+
+        <!-- Pencil edit-->
+        <div class="pencil">
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+          <i class="fa fa-pencil button edit" aria-hidden="true"></i>
+        </div>
+
+        <!-- Delete -->
+        <div class="trash">
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+          <i class="fa fa-trash button delete" aria-hidden="true"></i>
+        </div>
+      </div>
+
+      <!-- Description -->
+      <div class="conteneur-flexible colonne stretch-sec">
+        <div class="element-flexible">
+          <p>ART 725 MK4</p>
+          <img src="assets/img/maker/rcf_logo.png" height="46" width="46" alt="maker_logo" />
+        </div>
+        <div class="element-flexible02">
+          Description
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+            voluptates alias commodi provident ab, quibusdam ipsum veritatis
+            fugit dicta explicabo. Reiciendis, nobis. <br />
+            Earum at possimus quisconsequatur dicta, odit placeat.
+          </p>
+        </div>
+      </div>
+    </article>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+
+    <!-- Version -->
+    <div class="container02">
+      <div class="items">
+        <p>VITESONO</p>
+        <br />
+        Version 1.0
+      </div>
+
+      <div class="container03">
+        <!-- Number of results-->
+        <span class="result">12 Results</span>
+
+        <!-- Display -->
+        <div class="display">
+          <span>Display:</span>
+          <form class="" action="">
+            <select name="subject" id="subject">
+              <option value="" selected="selected">36</option>
+              <option value="" selected="selected">24</option>
+              <option value="" selected="selected">12</option>
+            </select>
+          </form>
+        </div>
+
+        <!-- Pagination -->
+        <ul class="pagination">
+          <li class="page-item"><a class="page-link" href="#">1</a></li>
+          <li class="page-item"><a class="page-link">of</a></li>
+          <li class="page-item"><a class="page-link" href="#">1</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body>
+
+</html>

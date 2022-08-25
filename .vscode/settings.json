@@ -1,0 +1,5 @@
+{
+  "svg.preview.background": "transparent",
+  "deno.enable": true,
+  "deno.importMap": "./import_map.json"
+}

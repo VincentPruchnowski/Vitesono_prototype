@@ -1,0 +1,606 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 2113,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 258,
+            "key": "FBT"
+          },
+          {
+            "doc_count": 210,
+            "key": "Plugger"
+          },
+          {
+            "doc_count": 195,
+            "key": "Shure"
+          },
+          {
+            "doc_count": 174,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 126,
+            "key": "Mipro"
+          },
+          {
+            "doc_count": 122,
+            "key": "Elokance"
+          },
+          {
+            "doc_count": 114,
+            "key": "B&C Speakers"
+          },
+          {
+            "doc_count": 110,
+            "key": "BoomTone DJ"
+          },
+          {
+            "doc_count": 107,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 78,
+            "key": "Power Acoustics"
+          },
+          {
+            "doc_count": 54,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 46,
+            "key": "Oyaide"
+          },
+          {
+            "doc_count": 36,
+            "key": "Mackie"
+          },
+          {
+            "doc_count": 35,
+            "key": "Art"
+          },
+          {
+            "doc_count": 35,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 32,
+            "key": "Power Flights"
+          },
+          {
+            "doc_count": 30,
+            "key": "PLUGGER Cases"
+          },
+          {
+            "doc_count": 27,
+            "key": "Celestion"
+          },
+          {
+            "doc_count": 24,
+            "key": "Alto"
+          },
+          {
+            "doc_count": 23,
+            "key": "Soundcraft"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 265
+      },
+      "total": {
+        "value": 2101
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 2113,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 2053,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 238,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 223,
+            "key": "Micro"
+          },
+          {
+            "doc_count": 173,
+            "key": "Accessoires de sonorisation"
+          },
+          {
+            "doc_count": 167,
+            "key": "Accessoires, Pieds et Câbles"
+          },
+          {
+            "doc_count": 136,
+            "key": "Rangement sono"
+          },
+          {
+            "doc_count": 122,
+            "key": "Micro sans fil"
+          },
+          {
+            "doc_count": 110,
+            "key": "Flight case DJ"
+          },
+          {
+            "doc_count": 78,
+            "key": "Table de mixage"
+          },
+          {
+            "doc_count": 76,
+            "key": "Enceinte amplifiée"
+          },
+          {
+            "doc_count": 65,
+            "key": "Micro filaire"
+          },
+          {
+            "doc_count": 54,
+            "key": "Micro HF Complet"
+          },
+          {
+            "doc_count": 47,
+            "key": "Flight case / Housse"
+          },
+          {
+            "doc_count": 47,
+            "key": "Table de mixage analogique"
+          },
+          {
+            "doc_count": 43,
+            "key": "Câble audio - micro"
+          },
+          {
+            "doc_count": 42,
+            "key": "Sono portable"
+          },
+          {
+            "doc_count": 40,
+            "key": "Haut parleur"
+          },
+          {
+            "doc_count": 38,
+            "key": "Pieds et supports d'enceinte"
+          },
+          {
+            "doc_count": 36,
+            "key": "Accessoires micro"
+          },
+          {
+            "doc_count": 36,
+            "key": "Caisson de basse"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 784
+      },
+      "total": {
+        "value": 4608
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 17.702152,
+  "page": 27,
+  "query": "sonorisation",
+  "query_counter": 29,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "Colonne de liaison pour enceinte Vertus CLA 604A de FBT, hauteur 114 cm, coloris Blanc. - Dimensions : 130 x 130 x 1140 mm - Compatible entre : - Vertus 604A - Vertus 208SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e5abba84b1901e99f9c45845f488843e",
+      "id": "8004",
+      "image_link": "https://www.centralsono.com/26305-googleshopping/vt-sc114-604-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-sc114-604-white-fbt-8004.html",
+      "price": 310.0,
+      "sale_price": null,
+      "title": "VT-SC114 604 White FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Colonne de liaison pour enceinte Vertus CLA 604A de FBT, hauteur 114 cm, coloris noir. - Dimensions : 130 x 130 x 590 - Compatible entre : - Vertus 604A - Vertus 208SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@75a7c30fc0063c4952d7eb044a3c0897",
+      "id": "8003",
+      "image_link": "https://www.centralsono.com/26302-googleshopping/vt-sc114-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-sc114-604-fbt-8003.html",
+      "price": 310.0,
+      "sale_price": null,
+      "title": "VT-SC114 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Colonne interface pour enceinte Vertus CLA 604A de FBT, hauteur 59 cm, coloris blanc. - Colonne de liaison - Coloris : blanc - Dimensions : 130 x 130 x 590 - Compatible entre :...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d9fbed9da256e344c1fa46bb46c34c5f",
+      "id": "8002",
+      "image_link": "https://www.centralsono.com/26300-googleshopping/vt-sc59-604w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-sc59-604w-fbt-8002.html",
+      "price": 280.0,
+      "sale_price": null,
+      "title": "VT-SC59 604W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Colonne interface pour enceinte Vertus CLA 604A de FBT, hauteur 59 cm, coloris noir. - Dimensions : 130 x 130 x 590 - Compatible entre : - Vertus 604A - Vertus 208SA...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bc3c4a6331a8a9950945a1aa8c95ab8a",
+      "id": "8001",
+      "image_link": "https://www.centralsono.com/26298-googleshopping/vt-sc59-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-sc59-604-fbt-8001.html",
+      "price": 250.0,
+      "sale_price": null,
+      "title": "VT-SC59 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural réglable, pour installation à la verticale d'enceinte Vertus 604 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@67ff32d40fb51f1a2fd2c4f1b1019785",
+      "id": "8000",
+      "image_link": "https://www.centralsono.com/26296-googleshopping/vt-w-604-white-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-w-604-white-fbt-8000.html",
+      "price": 81.0,
+      "sale_price": null,
+      "title": "VT-W 604 White FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural orientable, pour installation à la verticale d'enceinte Vertus 604 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fa183ba81b8f82c988245d8d4e701366",
+      "id": "7999",
+      "image_link": "https://www.centralsono.com/26292-googleshopping/vt-w-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-w-604-fbt-7999.html",
+      "price": 89.0,
+      "sale_price": null,
+      "title": "VT-W 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur directionnel sur support Ø 35mm, pour système VERTUS FBT, coloris blanc Contrôler l'orientation de vos enceintes pour en tirer le meilleur parti....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@27ef345422b300b5bc84817e0f83ca8b",
+      "id": "7998",
+      "image_link": "https://www.centralsono.com/26291-googleshopping/vt-ds-604w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-ds-604w-fbt-7998.html",
+      "price": 160.0,
+      "sale_price": null,
+      "title": "VT-DS 604W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Adaptateur directionnel sur support Ø 35mm, pour système VERTUS FBT, coloris noir Contrôler l'orientation de vos enceintes pour en tirer le meilleur parti....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@74f23f9e28cbc5ddaae8582f48642a59",
+      "id": "7997",
+      "image_link": "https://www.centralsono.com/26289-googleshopping/vt-ds-604-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-ds-604-fbt-7997.html",
+      "price": 160.0,
+      "sale_price": null,
+      "title": "VT-DS 604 FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à l'horizontale d'enceinte Archon 105 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2d5c4ea4c4aaf3aea8ac8dee1df8fbe8",
+      "id": "7996",
+      "image_link": "https://www.centralsono.com/26288-googleshopping/ac-u-105h-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-105h-fbt-install-7996.html",
+      "price": 38.0,
+      "sale_price": null,
+      "title": "AC-U 105H FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à l'horizontale d'enceinte Archon 106 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@2d44e06a7038f2dd98f0f54c4be35e22",
+      "id": "7995",
+      "image_link": "https://www.centralsono.com/26287-googleshopping/ac-u-106h-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-106h-fbt-install-7995.html",
+      "price": 44.0,
+      "sale_price": null,
+      "title": "AC-U 106H FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à l'horizontale d'enceinte Archon 108 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a0b45d1bb84fe1bedbb8449764c4d5d5",
+      "id": "7994",
+      "image_link": "https://www.centralsono.com/26286-googleshopping/ac-u-108h-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-108h-fbt-install-7994.html",
+      "price": 48.5,
+      "sale_price": null,
+      "title": "AC-U 108H FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à l'horizontale d'enceinte Archon 110 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6c250b592dc94d4de38a79db4d2b18f2",
+      "id": "7993",
+      "image_link": "https://www.centralsono.com/26285-googleshopping/ac-u-110h-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-110h-fbt-install-7993.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "AC-U 110H FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à l'horizontale d'enceinte Archon 112 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e02af5824e1eb6ad58d6bc03ac9e827f",
+      "id": "7992",
+      "image_link": "https://www.centralsono.com/26284-googleshopping/ac-u-112h-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-112h-fbt-install-7992.html",
+      "price": 68.0,
+      "sale_price": null,
+      "title": "AC-U 112H FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à l'horizontale d'enceinte Archon 115 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ef7be8c57773f2ab48d013434d3ad4f7",
+      "id": "7991",
+      "image_link": "https://www.centralsono.com/26283-googleshopping/ac-u-115h-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-115h-fbt-install-7991.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "AC-U 115H FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à la verticale d'enceinte Archon 110 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1977b575ffa6d1708a5e3eb9ccd851cc",
+      "id": "7990",
+      "image_link": "https://www.centralsono.com/26282-googleshopping/ac-u-110v-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-110v-fbt-install-7990.html",
+      "price": 65.0,
+      "sale_price": null,
+      "title": "AC-U 110V FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à la verticale d'enceinte Archon 112 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@48c34cb86aa86816e112a44ef2bf4c30",
+      "id": "7989",
+      "image_link": "https://www.centralsono.com/26281-googleshopping/ac-u-112v-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-112v-fbt-install-7989.html",
+      "price": 68.0,
+      "sale_price": null,
+      "title": "AC-U 112V FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Support mural pour installation à la verticale d'enceinte Archon 115 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@c02d0450cdd75ce7595f5eaeb5f041a3",
+      "id": "7988",
+      "image_link": "https://www.centralsono.com/26280-googleshopping/ac-u-115v-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/ac-u-115v-fbt-install-7988.html",
+      "price": 75.0,
+      "sale_price": null,
+      "title": "AC-U 115V FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifié, 8 x 4 pouces, 8 x 40 W RMS, directivité motorisé pilotable via logiciel ou manuellement. - Enceinte amplifié - Directivité motorisé - Amplificateur Classe D :...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e9287a53b94620249766921107fe70a3",
+      "id": "7987",
+      "image_link": "https://www.centralsono.com/26277-googleshopping/vertus-dla-804a-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-dla-804a-fbt-install-7987.html",
+      "price": 1569.0,
+      "sale_price": null,
+      "title": "VERTUS DLA 804A FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifié, 12 x 4 pouces + 4 x 1 pouces, 16 x 40 W RMS, directivité motorisé pilotable via logiciel ou manuellement. - Enceinte amplifié - Directivité motorisé - Amplifi...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4158f6d19559955bae372bb00f6204e4",
+      "id": "7986",
+      "image_link": "https://www.centralsono.com/26274-googleshopping/vertus-dla-1244a-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-dla-1244a-fbt-install-7986.html",
+      "price": 2.3e3,
+      "sale_price": null,
+      "title": "VERTUS DLA 1244A FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifié, 8 x 0.75 pouces, 8 x 40 W RMS, directivité motorisé pilotable via logiciel ou manuellement....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6bf733bb7f81e866306e9b5f012419cb",
+      "id": "7985",
+      "image_link": "https://www.centralsono.com/26271-googleshopping/vertus-mla-801a-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-mla-801a-fbt-install-7985.html",
+      "price": 2.8e3,
+      "sale_price": null,
+      "title": "VERTUS MLA 801A FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte amplifié, 6 x 8 pouces, 6 x 230 W RMS, directivité motorisé pilotable via logicielle ou manuellement. - Enceinte amplifié - Directivité motorisé - Amplificateur Classe ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7070baed1f0e21d1234a4b00082a1bea",
+      "id": "7984",
+      "image_link": "https://www.centralsono.com/26268-googleshopping/vertus-mla-608a-fbt-install.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-mla-608a-fbt-install-7984.html",
+      "price": 2.8e3,
+      "sale_price": null,
+      "title": "VERTUS MLA 608A FBT Install",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse en bois. Configuration de type Passe-Bande d'une puissance de 1000 Watts / 4 Ohms avec un haut parleur de 18'' (46cm) B&C Speakers, le FBT MITUS 118S Offre une hau...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@6e4621af9a4da94a7c85d7ecd19b1271",
+      "id": "7983",
+      "image_link": "https://www.centralsono.com/26267-googleshopping/mitus-118s-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-118s-fbt-7983.html",
+      "price": 1669.0,
+      "sale_price": null,
+      "title": "MITUS 118S FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié, 2 x 18 pouces, 2000W RMS, en bois. - Sub-Woofer Bass Reflex - Matériau : contreplaqué de boulot 18 mm - Puissance : 4000W RMS - Haut-Parleurs : 2 x...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@4efa8b668ee1198289bb15965d9705b6",
+      "id": "7982",
+      "image_link": "https://www.centralsono.com/26265-googleshopping/mitus-218s-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-218s-fbt-touring-7982.html",
+      "price": 2590.0,
+      "sale_price": null,
+      "title": "MITUS 218S FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié de 1200 watts en configuration Passe-Bande. Haut parleur B&C Speakers de 18'' (46cm) piloté par un DSP avec 8 programmes pour des résultats en configurati...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@7f2111cbef86a223862e0fdd2577705c",
+      "id": "7981",
+      "image_link": "https://www.centralsono.com/26263-googleshopping/mitus-118sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-118sa-fbt-7981.html",
+      "price": 1899.0,
+      "sale_price": null,
+      "title": "MITUS 118SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié, 21 pouces, 1200W RMS, en bois. - Sub-Woofer Bass Reflex - Matériau : contreplaqué de boulot 18 mm - Puissance : 2 00W RMS - Amplification Class D ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f2501c71a070a8bb42e898a80baee401",
+      "id": "7980",
+      "image_link": "https://www.centralsono.com/26260-googleshopping/mitus-121sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-121sa-fbt-7980.html",
+      "price": 2650.0,
+      "sale_price": null,
+      "title": "MITUS 121SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de basse amplifié, 2 x 18 pouces, 2000W RMS, en bois. - Sub-Woofer Bass Reflex - Matériau : contreplaqué de boulot 18 mm - Puissance : 2 00W RMS - Amplification Class...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1eb590c1259ff05809830227e2b7e782",
+      "id": "7979",
+      "image_link": "https://www.centralsono.com/26257-googleshopping/mitus-218sa-fbt-touring.jpg",
+      "link": "https://www.centralsono.com/sonorisation/mitus-218sa-fbt-touring-7979.html",
+      "price": 3990.0,
+      "sale_price": null,
+      "title": "MITUS 218SA FBT Touring",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "C'est la grosse colonne de la famille VERTUS de FBT. 4 x haut-parleurs de 6.5'' (170mm) et un gros moteur de 1.4'' avec diaphragme de 2.5'' B&C Speakers. Bi amplification en 600 + ...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@3e5190eeb51ebe6c5bbc54ee8950c548",
+      "id": "7978",
+      "image_link": "https://www.centralsono.com/26255-googleshopping/vertus-cla-406a-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cla-406a-fbt-7978.html",
+      "price": 1690.0,
+      "sale_price": 1570.0,
+      "title": "VERTUS CLA 406A FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Caisson de Basse amplifié en 1200 watts avec ampli en classe D et haut parleur B&C Speakers en 18'' (46cm). Le FBT VERTUS CLA 118SA embarque un DSP avec 8 programmes pour caler les...",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@82dbce7b4ff9f093aa7ff9c43ae70d8a",
+      "id": "7977",
+      "image_link": "https://www.centralsono.com/26252-googleshopping/vertus-cla-118sa-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vertus-cla-118sa-fbt-7977.html",
+      "price": 1590.0,
+      "sale_price": 1470.0,
+      "title": "VERTUS CLA 118SA FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Accroche mural orientable pour enceinte satellite Vertus CS 1000 de FBT, coloris blanc....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@13ece95531e87921222a0f9d93230691",
+      "id": "7976",
+      "image_link": "https://www.centralsono.com/26250-googleshopping/vt-w-1000w-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-w-1000w-fbt-7976.html",
+      "price": 78.0,
+      "sale_price": null,
+      "title": "VT-W 1000W FBT",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Accroche mural orientable pour enceinte satellite Vertus CS 1000 de FBT, coloris noir....",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@25f09e44e51b17fb527fba402bfba5ab",
+      "id": "7975",
+      "image_link": "https://www.centralsono.com/26249-googleshopping/vt-w-1000-fbt.jpg",
+      "link": "https://www.centralsono.com/sonorisation/vt-w-1000-fbt-7975.html",
+      "price": 78.0,
+      "sale_price": null,
+      "title": "VT-W 1000 FBT",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 1000,
+  "total_found": 2113
+}

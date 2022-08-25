@@ -1,0 +1,501 @@
+{
+  "custom_results_id": null,
+  "facets": {
+    "brand": {
+      "doc_count": 55,
+      "label": "Marque",
+      "order": 1,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 37,
+            "key": "CentralSono Bordeaux"
+          },
+          {
+            "doc_count": 6,
+            "key": "Centralsono"
+          },
+          {
+            "doc_count": 2,
+            "key": "AFX Light"
+          },
+          {
+            "doc_count": 2,
+            "key": "Hk Audio"
+          },
+          {
+            "doc_count": 2,
+            "key": "Ibiza Sound"
+          },
+          {
+            "doc_count": 2,
+            "key": "Yamaha"
+          },
+          {
+            "doc_count": 1,
+            "key": "AMIX"
+          },
+          {
+            "doc_count": 1,
+            "key": "Audiophony"
+          },
+          {
+            "doc_count": 1,
+            "key": "EVOLITE"
+          },
+          {
+            "doc_count": 1,
+            "key": "Reloop"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "total": {
+        "value": 55
+      },
+      "visible": true
+    },
+    "categories": {
+      "doc_count": 55,
+      "label": "Catégories",
+      "order": 2,
+      "selected": {
+        "buckets": [],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 0
+      },
+      "terms": {
+        "buckets": [
+          {
+            "doc_count": 42,
+            "key": "Location"
+          },
+          {
+            "doc_count": 5,
+            "key": "Eclairage"
+          },
+          {
+            "doc_count": 5,
+            "key": "Mobilier LED"
+          },
+          {
+            "doc_count": 5,
+            "key": "Mobilier lumineux"
+          },
+          {
+            "doc_count": 5,
+            "key": "Sonorisation"
+          },
+          {
+            "doc_count": 2,
+            "key": "Enceintes"
+          },
+          {
+            "doc_count": 2,
+            "key": "Location sono"
+          },
+          {
+            "doc_count": 2,
+            "key": "Pack Location"
+          },
+          {
+            "doc_count": 1,
+            "key": "DJ"
+          },
+          {
+            "doc_count": 1,
+            "key": "Enceinte"
+          },
+          {
+            "doc_count": 1,
+            "key": "Enceinte portable"
+          },
+          {
+            "doc_count": 1,
+            "key": "Limiteur de son"
+          },
+          {
+            "doc_count": 1,
+            "key": "Limiteur de son aux normes"
+          },
+          {
+            "doc_count": 1,
+            "key": "Location video"
+          },
+          {
+            "doc_count": 1,
+            "key": "Mixage"
+          },
+          {
+            "doc_count": 1,
+            "key": "Pack enceinte"
+          },
+          {
+            "doc_count": 1,
+            "key": "Pack enceinte amplifiée"
+          },
+          {
+            "doc_count": 1,
+            "key": "Pioneer pro DJ"
+          },
+          {
+            "doc_count": 1,
+            "key": "Produit arrêté"
+          },
+          {
+            "doc_count": 1,
+            "key": "Sono portable"
+          }
+        ],
+        "doc_count_error_upper_bound": 0,
+        "sum_other_doc_count": 2
+      },
+      "total": {
+        "value": 82
+      },
+      "visible": true
+    }
+  },
+  "hashid": "c82998d770c5b7789336a593fa69b5fc",
+  "max_score": 16.471493,
+  "page": 2,
+  "query": "location",
+  "query_counter": 9,
+  "query_name": "match_and",
+  "results": [
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> table de mixage groupe-12-entrees à louer sur Bordeaux. -> Voir les conditions obligatoires … obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@5c6287be4de9ff5afeaec72d54436fcf",
+      "id": "5629",
+      "image_link": "https://www.centralsono.com/14874-googleshopping/location-table-de-mixage-sono-groupe-12-entrees.jpg",
+      "link": "https://www.centralsono.com/location/location-table-de-mixage-sono-groupe-12-entrees-5629.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "Location Table de Mixage Sono groupe 12 entrees",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pioneer DJM 900 Nexus 2. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@da94be6d2b80d736e2d13d1e3c47d035",
+      "id": "5625",
+      "image_link": "https://www.centralsono.com/11744-googleshopping/location-pioneer-djm-900-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-pioneer-djm-900-bordeaux-5625.html",
+      "price": 100.0,
+      "sale_price": null,
+      "title": "Location Pioneer DJM 900 Nexus 2",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'une platine vinyle Technics SL 1200 Mk2 (à l'unité) -> Voir les conditions obligatoires de … de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@a3bf6e4db673b6449c2f7d13ee6ec9c0",
+      "id": "5889",
+      "image_link": "https://www.centralsono.com/14436-googleshopping/location-technics-sl-1200-mk2.jpg",
+      "link": "https://www.centralsono.com/location/location-technics-sl-1200-mk2-5889.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "Location Platine Vinyle Technics SL 1200 Mk2",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Yamaha pour vos concerts, prestation et animations <em>Location</em> d'un support pour vidéoprojecteur réglable -> … -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@38ccdf8d538de2d6a6deb2ed17d1f873",
+      "id": "6202",
+      "image_link": "https://www.centralsono.com/31086-googleshopping/location-caisson-de-basse-centralsono-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location/location-caisson-de-basse-centralsono-bordeaux-6202.html",
+      "price": 80.0,
+      "sale_price": null,
+      "title": "Location caisson de basse Yamaha 1600W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> retour de scène 400w sur Bordeaux. -> Voir les conditions obligatoires de <em>location</em> -> Comment",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@67ba02d73c54f0b83c05507b7fb7267f",
+      "id": "6189",
+      "image_link": "https://www.centralsono.com/18219-googleshopping/location-retour-de-scene-400w.jpg",
+      "link": "https://www.centralsono.com/location/location-retour-de-scene-400w-6189.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "Location retour de scène 400w",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Table de Mixage DJ PRO pour vos soirées sur Bordeaux -> Voir les conditions obligatoires de … de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@30893a5eb454815e3bf4a3406b1b80c0",
+      "id": "6188",
+      "image_link": "https://www.centralsono.com/14878-googleshopping/location-table-de-mixage-dj-pro.jpg",
+      "link": "https://www.centralsono.com/location/location-table-de-mixage-dj-pro-6188.html",
+      "price": 30.0,
+      "sale_price": null,
+      "title": "Location Table de Mixage DJ PRO",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un Pack de 2 enceintes amplifiées 2000W haut de gamme + 1 table de mixage DJ pour cabler votre … personnes. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ad7ed5d47b9baceb12045a929e7e2f66",
+      "id": "6387",
+      "image_link": "https://www.centralsono.com/16225-googleshopping/location-pack-2-enceintes-2000w-mixage-dj.jpg",
+      "link": "https://www.centralsono.com/location/location-pack-2-enceintes-2000w-mixage-dj-6387.html",
+      "price": 120.0,
+      "sale_price": null,
+      "title": "Location Pack 2 enceintes 2000W + Mixage DJ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'un Pack de 2 enceintes amplifiées 2000W haut de gamme + 1 table de mixage 4 voies pour cabler … personnes. -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@816a6db41f0e44644bc65808b6db5ca4",
+      "id": "6386",
+      "image_link": "https://www.centralsono.com/16210-googleshopping/location-paire-d-enceintes-2000w.jpg",
+      "link": "https://www.centralsono.com/location/location-paire-d-enceintes-2000w-6386.html",
+      "price": 110.0,
+      "sale_price": null,
+      "title": "Location Pack 2 enceintes 2000W + Mixage 4 voies",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Machine à fumée lourde 3000W heavyfog 3000c Livrée en Flightcase et 1,2 L de liquide à fumée …  etc.) -> Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@d5b3d8dadd770c460b1cde910a711987",
+      "id": "6487",
+      "image_link": "https://www.centralsono.com/39565-googleshopping/location-mfl-2000-machine-a-fumee-lourde-2000w-collyns.jpg",
+      "link": "https://www.centralsono.com/location/location-mfl-2000-machine-a-fumee-lourde-2000w-collyns-6487.html",
+      "price": 180.0,
+      "sale_price": null,
+      "title": "LOCATION HEAVYFOG 3000 C - EVOLITE Machine à fumée lourde 3000W",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> table de mixage groupe 5 entrées micro + 2 stéréo à louer sur Bordeaux. -> Voir les conditions … conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@889091ff744069cab08dc605d162a8d3",
+      "id": "6482",
+      "image_link": "https://www.centralsono.com/16781-googleshopping/location-table-de-mixage-sono-groupe-5-entrees-micro-2-stereo.jpg",
+      "link": "https://www.centralsono.com/location/location-table-de-mixage-sono-groupe-5-entrees-micro-2-stereo-6482.html",
+      "price": 40.0,
+      "sale_price": null,
+      "title": "Location Table de Mixage Sono groupe 5 entrées micro + 2 stéréo",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pioneer XDJ-XZ + Flightcase sur Bordeaux / Gironde / 33",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@e9b82e4d55c91c6abbf9dedf898172a0",
+      "id": "8977",
+      "image_link": "https://www.centralsono.com/33717-googleshopping/location-regie-pioneer-xdj-xz.jpg",
+      "link": "https://www.centralsono.com/location/location-regie-pioneer-xdj-xz-8977.html",
+      "price": 190.0,
+      "sale_price": null,
+      "title": "Location Régie Pioneer XDJ-XZ",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> d'une Pioneer DJM-2000 Nexus + Flightcase - Table de mixage DJ à quatre canaux.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@f610a13de080fb8df6cf972fc01ad93f",
+      "id": "5839",
+      "image_link": "https://www.centralsono.com/12739-googleshopping/location-pioneer-djm-2000-bordeaux.jpg",
+      "link": "https://www.centralsono.com/mixage/location-pioneer-djm-2000-bordeaux-5839.html",
+      "price": 100.0,
+      "sale_price": null,
+      "title": "Location Pioneer DJM-2000 NEXUS",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Pioneer CDJ 2000 Nexus 2 comprenant 2 CDJ 2000 Nexus2 + 1 DJM 900 Nexus2. -> Voir les conditions … conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@b4f1ec9f4b5c8207f8fc29522efe783d",
+      "id": "5652",
+      "image_link": "https://www.centralsono.com/11844-googleshopping/location-regie-pioneer-complete-bordeaux.jpg",
+      "link": "https://www.centralsono.com/location-sono/location-regie-pioneer-complete-bordeaux-5652.html",
+      "price": 300.0,
+      "sale_price": null,
+      "title": "Location Régie DJ complete Pioneer",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Table de mixage DJ avec entrée USB Micro et Bluetooth pour vos soirées sur Bordeaux -> Voir … Voir les conditions obligatoires de <em>location</em> -> Comment réserver en ligne ?",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@077fd57e57aab32087b0466fe6ebcca8",
+      "id": "5997",
+      "image_link": "https://www.centralsono.com/13694-googleshopping/location-table-de-mixage-usb-bluetooth-dj-bordeaux.jpg",
+      "link": "https://www.centralsono.com/archive/location-table-de-mixage-usb-bluetooth-dj-bordeaux-5997.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Location Table de Mixage DJ - USB + Bluetooth",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Enceinte portable 100W Bluetooth sur batterie avec Micro sans fil Main. Les avis de l'équipe CentralSono : \"Un très bon rapport qualité prix, la puissance est au rendez-vous ! Très pratique et facile…",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@193510e35bf81956996aa49093954075",
+      "id": "6267",
+      "image_link": "https://www.centralsono.com/15231-googleshopping/ibiza-port12-vhf.jpg",
+      "link": "https://www.centralsono.com/enceinte-portable/ibiza-port12-vhf-6267.html",
+      "price": 299.0,
+      "sale_price": 269.0,
+      "title": "Ibiza PORT12 VHF",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>LOCATION</em>",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@aba54c23d97bf1321a4275e21d615112",
+      "id": "6799",
+      "image_link": "https://www.centralsono.com/18476-googleshopping/mr-rodiere.jpg",
+      "link": "https://www.centralsono.com/home/mr-rodiere-6799.html",
+      "price": 780.0,
+      "sale_price": null,
+      "title": "MR RODIERE",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "<em>Location</em> Boite de Direct Mono Audiophony BDA 100",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@bff624c3a469dce7c45ce151902222ba",
+      "id": "5759",
+      "image_link": "https://www.centralsono.com/12281-googleshopping/location-boite-de-direct-mono-bordeaux.jpg",
+      "link": "https://www.centralsono.com/sonorisation/location-boite-de-direct-mono-bordeaux-5759.html",
+      "price": 10.0,
+      "sale_price": null,
+      "title": "Audiophony BDA 100",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Lampe à LED idéale pour donner du cachet à vos prestations et vos soirées. Livrée avec télécommande pour ajuster l !",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@077b83af57538aa183971a2fe0971ec1",
+      "id": "5802",
+      "image_link": "https://www.centralsono.com/12471-googleshopping/lamp-led.jpg",
+      "link": "https://www.centralsono.com/mobilier-led/lamp-led-5802.html",
+      "price": 69.0,
+      "sale_price": null,
+      "title": "LAMP LED",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Table Haute lumineuse à LED étanche et sur batterie AFX LED HIGHTABLE",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@ba4002d88b8860b6a684ade8357aba56",
+      "id": "5798",
+      "image_link": "https://www.centralsono.com/12455-googleshopping/table-haute-a-led.jpg",
+      "link": "https://www.centralsono.com/mobilier-led/table-haute-a-led-5798.html",
+      "price": 317.0,
+      "sale_price": null,
+      "title": "AFX LED HIGH TABLE Table Haute à LED",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Seau à champagne équipé de LED pour toutes vos prestations d'exception ! Livré avec une télécommande Infra-rouge pour séléctionner parmis 7 couleurs.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1ce4fe042832e6bd7d06697a43055373",
+      "id": "5801",
+      "image_link": "https://www.centralsono.com/12469-googleshopping/seau-a-champagne-led.jpg",
+      "link": "https://www.centralsono.com/mobilier-led/seau-a-champagne-led-5801.html",
+      "price": 99.0,
+      "sale_price": null,
+      "title": "Seau à Champagne LED",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Angle de Bar lumineux à LED étanche extérieur et sur batterie AFX CORNER BAR COUNTER",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@1dacb10f0623c67cb7dbb37587d8b38a",
+      "id": "5800",
+      "image_link": "https://www.centralsono.com/12468-googleshopping/ledbar-corner-telecommande.jpg",
+      "link": "https://www.centralsono.com/mobilier-led/ledbar-corner-telecommande-5800.html",
+      "price": 399.0,
+      "sale_price": null,
+      "title": "AFX CORNER BAR COUNTER",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Bar lumineux pour terrasse, jardin, piscine étanche et sur batterie AFX LED-BAR",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@de01d76e793fec3fba32f4401a45fb20",
+      "id": "5799",
+      "image_link": "https://www.centralsono.com/12459-googleshopping/bar-lumineux-led-telecommande.jpg",
+      "link": "https://www.centralsono.com/mobilier-led/bar-lumineux-led-telecommande-5799.html",
+      "price": 699.0,
+      "sale_price": null,
+      "title": "AFX LED BAR",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "démonstration dans notre showroom (et disponible à la <em>location</em>)",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@fd4771e85e1f916f239624486bff502d",
+      "id": "5716",
+      "image_link": "https://www.centralsono.com/12111-googleshopping/hk-audio-l5-ltsa.jpg",
+      "link": "https://www.centralsono.com/enceinte/hk-audio-l5-ltsa-5716.html",
+      "price": 1777.0,
+      "sale_price": 1599.0,
+      "title": "Hk audio L5 LTSA",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Sytème 8000W longue portée. En démonstration et <em>location</em>.",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@344ef5151be171062f42f03e69663ecf",
+      "id": "5626",
+      "image_link": "https://www.centralsono.com/11751-googleshopping/hk-audio-l5-pack-lts.jpg",
+      "link": "https://www.centralsono.com/pack-enceinte-amplifiee/hk-audio-l5-pack-lts-5626.html",
+      "price": 12452.0,
+      "sale_price": 11999.0,
+      "title": "Hk audio L5 PACK LTS",
+      "type": "product"
+    },
+    {
+      "add_to_cart": null,
+      "description": "Pack limiteur accoustique et accessoires pour limitation par COUPURE DE COURANT au norme 2017 Attention pas de limite de bande d'octave !",
+      "df_rating": null,
+      "dfid": "c82998d770c5b7789336a593fa69b5fc@product@98afdcc1ebd85daa0f1749c5e56b9d8c",
+      "id": "3521",
+      "image_link": "https://www.centralsono.com/14131-googleshopping/amix-sna-60-3-pack-norm.jpg",
+      "link": "https://www.centralsono.com/limiteur-de-son-aux-normes/amix-sna-60-3-pack-norm-3521.html",
+      "price": 2999.0,
+      "sale_price": null,
+      "title": "Amix SNA-60-3 Pack Norm 2017",
+      "type": "product"
+    }
+  ],
+  "results_per_page": 30,
+  "total": 55,
+  "total_found": 55
+}

@@ -1,0 +1,454 @@
+/* Global */
+body {
+  background-color: #ece3e36c;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+
+.title {
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+  text-align: center;
+}
+
+/* header*/
+.container {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  height: 100px;
+  padding-left: 1.6%;
+}
+
+.flex-item01 {
+  flex: 1 1 auto;
+  height: 27%;
+  background-color: black;
+  margin-block-end: auto;
+  color: white;
+}
+
+.flex-item02 {
+  flex: 1 1 auto;
+  height: 27%;
+  background-color: #f5cb5c;
+  margin-block-end: auto;
+  color: white;
+  text-align: center;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.flex-item03 {
+  flex: 1 1 auto;
+  height: 27%;
+  background-color: #f5cb5c;
+  margin-block-end: auto;
+  color: white;
+  text-align: center;
+  margin-right: 1.5rem;
+  margin-left: 0.1rem;
+  list-style: none;
+}
+
+input [type=submit]
+{
+   
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 3em;
+  color: black;
+  border: 0.2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  padding: 0.6%;
+}
+
+.vite {
+  font-weight: bold;
+  font-size: 2em;
+  padding-left: 0.8%;
+  padding-right: 0.8%;
+  color: #f5cb5c;
+}
+
+.sono {
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  padding-right: 20%;
+}
+
+/*Navbar*/
+.navbar {
+  display: block;
+  overflow: auto;
+  background-color: white;
+  list-style: none;
+  padding: 1.8rem;
+  border-radius: 0.7rem;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.container-column {
+  display: flex;
+  font-size: 20px;
+  margin: 20px 20px;
+}
+
+/*Contenu*/
+.container-button {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 7%;
+}
+.styled {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #adb4b6;
+  background-image: linear-gradient(
+    to top left,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2) 30%,
+    rgba(0, 0, 0, 0)
+  );
+  box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+    inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.styled:hover {
+  background-color: #f5cb5c;
+}
+
+.styled:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  padding: 1%;
+  gap: 11%;
+  align-items: center;
+}
+
+.box1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1%;
+  padding-left: 9%;
+}
+
+/* Search field */
+form.example input[type="text"] {
+  padding: 10px;
+  position: static;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 150%;
+  background: #f1f1f1;
+  border-radius: 0.3rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+/* Filter */
+.category-select {
+  padding: 10px;
+  position: static;
+  border: 1px solid grey;
+  float: left;
+  width: 22%;
+  background: #f1f1f1;
+  border-radius: 0.3rem;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+/* Submit button */
+form.example button {
+  float: left;
+  position: static;
+  width: 160%;
+  padding: 10px;
+  background: black;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  
+}
+
+form.example button:hover {
+  background-color: #2b2a29;
+}
+
+form.example button:active {
+  box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+    inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+/* Checkbox */
+.boxed {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.boxed input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.boxed:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.boxed input:checked ~ .checkmark {
+  background-color: #053e6d;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.boxed input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.boxed .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* Results */
+.boxes {
+  display: flex;
+  border-radius: 0.3rem;
+  padding: 2rem;
+  justify-content: center;
+  background-color: white;
+  gap: 10px 20px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.reference {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #f1f1f1;
+  border-radius: 0.3rem;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+
+.svg {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pencil {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.trash {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.edit:hover {
+  color: #0a79df;
+  cursor: pointer;
+}
+
+.delete:hover {
+  color: #dc2a2a;
+  cursor: pointer;
+}
+
+/* Description */
+.conteneur-flexible {
+  display: flex;
+  font-size: 20px;
+  background-color: white;
+  box-sizing: border-box;
+  border-radius: 0.3rem;
+  margin: 10px 0px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.colonne {
+  flex-flow: column wrap;
+}
+.stretch-sec {
+  align-items: stretch;
+}
+
+.debut-sec {
+  align-items: flex-start;
+}
+.fin-sec {
+  align-items: flex-end;
+}
+.centre-sec {
+  align-items: center;
+}
+.baseline-sec {
+  align-items: baseline;
+}
+.element-flexible {
+  display: flex;
+  margin: 5px;
+  border-radius: 0.3rem;
+  box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px,
+    rgba(255, 255, 255, 0.25) 0px 1px 0px inset;
+  justify-content: center;
+  gap: 10%;
+  align-items: center;
+}
+
+.element-flexible02 {
+  height: 200px;
+  padding: 10px 0px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 5px;
+  text-align: start;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0.3rem;
+  box-shadow: rgba(27, 31, 35, 0.04) 0px 1px 0px,
+    rgba(255, 255, 255, 0.25) 0px 1px 0px inset;
+}
+
+/*Footer*/
+.container02 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.container03 {
+  display: flex;
+  align-items: flex-end;
+  gap: 5%;
+}
+
+.pagination {
+  display: flex;
+  background-color: white;
+  border-radius: 0.7rem;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.items {
+  max-width: 100px;
+  background-color: white;
+  border-radius: 0.7rem;
+  padding: 3%;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.result {
+}
+
+.display {
+  display: flex;
+}
+
+/* Javascript */
+.hiddenSpeaker {
+  display: none;
+}
+
+.selectSpeaker {
+  border: none;
+  padding: 16px;
+  margin: 5px;
+  height: 30px;
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  border-bottom: 2px solid rgb(71, 71, 71);
+  transition: 500ms ease;
+}
+
+.selectSpeaker:hover {
+  transition: 300ms ease;
+  border-bottom: 7px solid rgb(71, 71, 71);
+}
+
